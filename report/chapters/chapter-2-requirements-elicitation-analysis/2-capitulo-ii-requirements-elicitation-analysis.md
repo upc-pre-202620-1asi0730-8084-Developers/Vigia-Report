@@ -1,1 +1,7 @@
-## Chapter II: Requirements Elicitation & Analysis
+## Capítulo II: Requirements Elicitation & Analysis
+
+En este capítulo se presenta el proceso de Needfinding realizado por el equipo, junto con el análisis de la competencia que opera en el dominio del problema. El capítulo inicia con la identificación y el análisis de los principales competidores, a partir del cual se establecen las estrategias y tácticas que Trazza Labs aplicará frente a ellos.
+
+A continuación se aborda la recolección de información de primera fuente mediante entrevistas a representantes de los dos segmentos objetivo definidos en la sección 1.3. Dichas entrevistas se registran en video y se editan para construir el video de evidencia de entrevistas. El análisis de las entrevistas sirve de base para la identificación de necesidades y para la construcción de los User Personas de cada segmento objetivo, así como del User Task Matrix, los User Journey Maps y los Empathy Maps correspondientes a cada arquetipo identificado.
+
+Finalmente, el capítulo presenta el Big Picture EventStorming, mediante el cual el equipo modela de forma colaborativa los eventos significativos del dominio del negocio y sus relaciones, y el Ubiquitous Language, que consolida el glosario de términos del dominio que será empleado de manera consistente por todos los miembros del equipo y los stakeholders del proyecto.
