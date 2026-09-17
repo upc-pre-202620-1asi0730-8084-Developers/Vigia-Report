@@ -1,0 +1,9 @@
+## Registro de Versiones del Informe
+
+El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto. Se considera una modificación relevante la adición o eliminación de secciones, así como las correcciones o mejoras producto de la retroalimentación recibida del docente o de la autocrítica del propio equipo. Entre una entrega y otra pueden generarse varias versiones del informe, cada una reflejada como una nueva fila en el siguiente cuadro.
+
+| Versión | Fecha | Autor | Descripción de modificación |
+|---|---|---|---|
+| 1.0 | 2026-09-15 | Equipo Trazza Labs | Primera versión del informe, correspondiente a la entrega AV1. Incluye el Capítulo I completo (Startup Profile, Solution Profile y Lean UX Process); el Capítulo II hasta la sección 2.5 (análisis de la competencia, entrevistas, User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, Big Picture EventStorming y Ubiquitous Language); el Capítulo III completo (User Stories, Impact Mapping y Product Backlog); y el inicio del Capítulo IV (Style Guidelines e Information Architecture, secciones 4.1 a 4.2.5). |
+
+> **Nota sobre el estado de esta sección.** Las entrevistas registradas en la sección 2.2.2 son, en su mayoría, entradas ilustrativas pendientes de grabación (ver nota de esa sección), por lo que los artefactos que dependen de ellas (Análisis de entrevistas, User Personas, User Task Matrix, User Journey Mapping y Empathy Mapping) conservan carácter preliminar en esta versión 1.0. Asimismo, el perfil de los integrantes (sección 1.1.2) y la Bibliografía (sección 11) se encuentran incompletos a la fecha de esta versión. Estos puntos se actualizarán en las versiones siguientes del informe, quedando reflejado dicho avance en este mismo cuadro.
