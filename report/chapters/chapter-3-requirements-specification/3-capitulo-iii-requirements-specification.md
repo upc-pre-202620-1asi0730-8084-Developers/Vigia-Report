@@ -1,0 +1,5 @@
+## Capítulo III: Requirements Specification
+
+En este capítulo el equipo realiza la especificación de los requisitos de los productos digitales de Vigía, a partir del análisis de la información recogida en el Capítulo II: el problema y los objetivos definidos en la sección 1.2.1, los hallazgos del análisis de entrevistas de la sección 2.2.3, las fichas de User Persona de la sección 2.3.1, el User Task Matrix de la sección 2.3.2, los User Journey Maps de la sección 2.3.3, el Big Picture EventStorming de la sección 2.4 y el Ubiquitous Language de la sección 2.5.
+
+El capítulo se organiza en tres secciones internas. En primer lugar, User Stories presenta el conjunto de Epics, User Stories, Technical Stories y Landing Page Stories que traducen los hallazgos de la investigación en requisitos verificables, con sus respectivos criterios de aceptación. En segundo lugar, Impact Mapping vincula estos requisitos con los objetivos de negocio de Trazza Labs y con los User Persona identificados. Finalmente, Product Backlog organiza y prioriza el conjunto de Epics y User Stories para su desarrollo.

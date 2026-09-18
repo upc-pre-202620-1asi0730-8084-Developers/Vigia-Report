@@ -1,0 +1,5 @@
+## Capítulo IV: Product Design
+
+En este capítulo el equipo desarrolla la propuesta de Software Architecture & Design de Vigía, tomando como base el conjunto de User Stories de la sección 3.1 y el Impact Map de la sección 3.2. El capítulo abarca tanto las decisiones de diseño visual y de arquitectura de la información, como el planteamiento de la Domain-Driven Software Architecture, el Object-Oriented Software Design y el Database Design.
+
+El capítulo se organiza en las siguientes secciones internas: Style Guidelines, que sienta las bases visuales comunes para todo el equipo; Information Architecture, que define cómo se organiza, etiqueta, navega y busca el contenido; Landing Page UI Design y Web Applications UX/UI Design, que traducen esas decisiones en Wireframes, Wireflows, Mock-ups y User Flows; Web Applications Prototyping; Domain-Driven Software Architecture, que profundiza el Big Picture EventStorming de la sección 2.4 hasta identificar los Bounded Context y los diagramas C4; Software Object-Oriented Design; y Database Design.
