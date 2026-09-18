@@ -30,7 +30,7 @@ Velásquez Núñez, Ángel Augusto
 | u20231c197 | Apaza Bocanegra, Elizabeth Noelia |
 | U202316353 | Cardenas Huaman, Mathias Andree               |
 | u20201a277 | Ramos Cerdan, Elias Daniel                |
-| Código     | Sandoval Cueto, Fabian Jesus                |
+| u20221a132 | Sandoval Cueto, Fabian Jesus                |
 
 Septiembre 2026
 

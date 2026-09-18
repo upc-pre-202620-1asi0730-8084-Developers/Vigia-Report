@@ -38,24 +38,30 @@
 
 <p>
           <strong>Cardenas Huaman, Mathias Andree — AV1:</strong>
-          Guié al equipo en la formulación de las hipótesis de valor y coordiné la estructuración 
-          del Lean UX Canvas para alinear la visión del negocio con métricas de éxito medibles. 
-          Asimismo, asumí el liderazgo técnico en el diseño orientado a objetos, definiendo los 
-          agregados, entidades y contratos de dominio en UML para cada Bounded Context en estrecha coordinación con mis compañeros.
+          Guio al equipo en la formulación de las hipótesis de valor y coordinó la estructuración
+          del Lean UX Canvas para alinear la visión del negocio con métricas de éxito medibles.
+          Asimismo, asumió el liderazgo técnico en el diseño orientado a objetos, definiendo los
+          agregados, entidades y contratos de dominio en UML para cada Bounded Context en estrecha
+          coordinación con sus compañeros.
         </p>
 
 <p>
           <strong>Apaza Bocanegra, Elizabeth Noelia — AV1:</strong>
-          Contribuyó al análisis inicial del proyecto desarrollando la sección de Antecedentes y 
-          problemática, así como los Lean UX Problem Statements. Con este aporte, facilitó que el 
-          equipo tuviera un marco de referencia claro sobre el contexto y las necesidades de los 
+          Contribuyó al análisis inicial del proyecto desarrollando la sección de Antecedentes y
+          problemática, así como los Lean UX Problem Statements. Con este aporte, facilitó que el
+          equipo tuviera un marco de referencia claro sobre el contexto y las necesidades de los
           usuarios para alinear el diseño de la solución.
         </p>
       </td>
 
 <td>
-        🟢 <em>Pendiente — se redacta de forma grupal al cierre de la entrega, una vez
-        que todos los integrantes completen sus acciones.</em>
+        Como equipo, demostramos un liderazgo compartido al asumir responsabilidades en diferentes
+        áreas del proyecto según nuestras fortalezas. Distribuimos el liderazgo entre la arquitectura
+        de la solución, el control de versiones, el diseño UX/UI, la investigación, Lean UX y el
+        modelado orientado a objetos. Esta organización permitió que cada integrante aportara desde
+        su especialidad y que las decisiones tomadas en una sección se mantuvieran relacionadas con
+        el resto del proyecto. De esta manera, logramos avanzar de forma conjunta manteniendo
+        coherencia entre el problema identificado, los requisitos, el diseño y la solución propuesta.
       </td>
     </tr>
 
@@ -90,28 +96,31 @@
 
 <p>
           <strong>Cardenas Huaman, Mathias Andree — AV1:</strong>
-          Promoví la participación activa del grupo durante la ideación del Lean UX Canvas para 
-          integrar todas las perspectivas del equipo. Planifiqué y ejecuté a tiempo la elaboración de 
-          los diagramas de clases UML, descomponiendo el trabajo en entregables claros y asegurando 
-          que las clases modeladas respondan con precisión a las historias de usuario y alcances del sprint.
+          Promovió la participación activa del grupo durante la ideación del Lean UX Canvas para
+          integrar las diferentes perspectivas del equipo. Planificó y ejecutó a tiempo la elaboración
+          de los diagramas de clases UML, descomponiendo el trabajo en entregables claros y asegurando
+          que las clases modeladas respondieran a las historias de usuario y alcances del Sprint.
         </p>
-        
+
 <p>
           <strong>Apaza Bocanegra, Elizabeth Noelia — AV1:</strong>
-          Cumplió con las tareas de investigación y diseño establecidas ejecutando dos entrevistas a 
-          usuarios objetivo para la validación del problema. Además, aportó al avance estructural y 
-          visual del proyecto elaborando los Web Applications Wireflow Diagrams y los wireframes 
+          Cumplió con las tareas de investigación y diseño establecidas, ejecutando dos entrevistas
+          a usuarios objetivo para la validación del problema. Además, aportó al avance estructural y
+          visual del proyecto elaborando los Web Applications Wireflow Diagrams y los wireframes
           correspondientes a la Web Application, logrando las metas asignadas para esta entrega.
         </p>
       </td>
 
 <td>
-        🟢 <em>Pendiente — se redacta de forma grupal al cierre de la entrega.</em>
+        Como equipo, organizamos las actividades de la entrega mediante la distribución de
+        responsabilidades y la definición de objetivos concretos para cada integrante. Cumplimos
+        tareas relacionadas con investigación, entrevistas, planificación del Sprint, diseño UX/UI,
+        wireframes, wireflows, prototipado, modelado UML, documentación y despliegue. Además,
+        utilizamos GitFlow, ramas individuales, commits y Pull Requests para mantener trazabilidad
+        sobre los avances realizados. La coordinación entre estas actividades permitió integrar los
+        diferentes entregables y alcanzar los objetivos establecidos para el AV1 de manera ordenada
+        y colaborativa.
       </td>
     </tr>
   </tbody>
 </table>
-
-🟢 **Pendiente antes de la entrega.** La tabla debe completarse con las acciones realizadas
-por todos los integrantes durante AV1. La columna de conclusiones se redactará de forma
-grupal y continuará ampliándose en las siguientes entregas: TB1, AV2 y TB2.
