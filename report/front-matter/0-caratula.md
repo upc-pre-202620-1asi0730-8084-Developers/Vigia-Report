@@ -14,9 +14,9 @@ NRC 8084
 
 # Informe de Trabajo Final
 
-**Startup:** Nombre del startup
+**Startup:** Trazza Labs
 
-**Producto:** Nombre del producto
+**Producto:** Vigía
 
 **Docente**
 
@@ -24,13 +24,13 @@ Velásquez Núñez, Ángel Augusto
 
 **Integrantes**
 
-| Código     | Apellidos y Nombres |
-|------------|---------------------|
-| u20241a649 | Lopez, Leonardo     |
-| Código     | Apellidos, Nombres  |
-| Código     | Apellidos, Nombres  |
-| Código     | Apellidos, Nombres  |
-| Código     | Apellidos, Nombres  |
+| Código     | Apellidos y Nombres               |
+|------------|-----------------------------------|
+| u20241a649 | Lopez, Leonardo                   |
+| u20231c197 | Apaza Bocanegra, Elizabeth Noelia |
+| U202316353 | Cardenas Huaman, Mathias Andree               |
+| u20201a277 | Ramos Cerdan, Elias Daniel                |
+| Código     | Sandoval Cueto, Fabian Jesus                |
 
 Septiembre 2026
 
