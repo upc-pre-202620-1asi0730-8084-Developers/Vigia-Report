@@ -1,1 +1,5 @@
 ## Capítulo V: Product Implementation, Validation & Deployment
+
+En este capítulo el equipo documenta la implementación, validación y despliegue de los productos digitales de Vigía, a partir del Product Backlog de la sección 3.3 y de las decisiones de diseño del Capítulo IV. El capítulo se organiza en dos secciones internas: Software Configuration Management, que establece las bases de entorno, control de versiones, convenciones de código y configuración de despliegue comunes a todo el proyecto; y Landing Page, Services & Applications Implementation, que documenta cada Sprint del desarrollo, iniciando con el Sprint 1.
+
+> **Nota sobre el alcance de esta entrega (AV1).** Conforme al enunciado del proyecto, el requisito de implementación para la entrega AV1 es que esté implementada y desplegada la primera versión del Landing Page. Por esa razón, el Sprint 1 documentado en este capítulo cubre únicamente las Landing Page Stories del Product Backlog (LP-01 a LP-04); el RESTful API y la Web Application se implementan a partir del Sprint 2, conforme al orden de prioridad establecido en la sección 3.3.
