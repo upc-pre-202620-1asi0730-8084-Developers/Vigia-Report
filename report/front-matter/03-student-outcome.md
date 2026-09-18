@@ -37,8 +37,19 @@
         </p>
 
 <p>
-          🟢 <em>Elizabeth Apaza y Mathias Cárdenas: pendiente de que cada integrante
-          redacte su aporte correspondiente a esta celda.</em>
+          <strong>Cardenas Huaman, Mathias Andree — AV1:</strong>
+          Guié al equipo en la formulación de las hipótesis de valor y coordiné la estructuración 
+          del Lean UX Canvas para alinear la visión del negocio con métricas de éxito medibles. 
+          Asimismo, asumí el liderazgo técnico en el diseño orientado a objetos, definiendo los 
+          agregados, entidades y contratos de dominio en UML para cada Bounded Context en estrecha coordinación con mis compañeros.
+        </p>
+
+<p>
+          <strong>Apaza Bocanegra, Elizabeth Noelia — AV1:</strong>
+          Contribuyó al análisis inicial del proyecto desarrollando la sección de Antecedentes y 
+          problemática, así como los Lean UX Problem Statements. Con este aporte, facilitó que el 
+          equipo tuviera un marco de referencia claro sobre el contexto y las necesidades de los 
+          usuarios para alinear el diseño de la solución.
         </p>
       </td>
 
@@ -78,8 +89,19 @@
         </p>
 
 <p>
-          🟢 <em>Elizabeth Apaza y Mathias Cárdenas: pendiente de que cada integrante
-          redacte su aporte correspondiente a esta celda.</em>
+          <strong>Cardenas Huaman, Mathias Andree — AV1:</strong>
+          Promoví la participación activa del grupo durante la ideación del Lean UX Canvas para 
+          integrar todas las perspectivas del equipo. Planifiqué y ejecuté a tiempo la elaboración de 
+          los diagramas de clases UML, descomponiendo el trabajo en entregables claros y asegurando 
+          que las clases modeladas respondan con precisión a las historias de usuario y alcances del sprint.
+        </p>
+        
+<p>
+          <strong>Apaza Bocanegra, Elizabeth Noelia — AV1:</strong>
+          Cumplió con las tareas de investigación y diseño establecidas ejecutando dos entrevistas a 
+          usuarios objetivo para la validación del problema. Además, aportó al avance estructural y 
+          visual del proyecto elaborando los Web Applications Wireflow Diagrams y los wireframes 
+          correspondientes a la Web Application, logrando las metas asignadas para esta entrega.
         </p>
       </td>
 

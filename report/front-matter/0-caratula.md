@@ -27,8 +27,8 @@ Velásquez Núñez, Ángel Augusto
 | Código     | Apellidos y Nombres               |
 |------------|-----------------------------------|
 | u20241a649 | Lopez, Leonardo                   |
-| Código     | Apaza Bocanegra, Elizabeth Noelia |
-| Código     | Cardenas Huaman, Mathias Andree               |
+| u20231c197 | Apaza Bocanegra, Elizabeth Noelia |
+| U202316353 | Cardenas Huaman, Mathias Andree               |
 | u20201a277 | Ramos Cerdan, Elias Daniel                |
 | Código     | Sandoval Cueto, Fabian Jesus                |
 
