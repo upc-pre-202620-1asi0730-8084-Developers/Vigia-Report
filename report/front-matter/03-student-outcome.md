@@ -37,7 +37,15 @@
         </p>
 
 <p>
-          🟢 <em>Elizabeth Apaza y Mathias Cárdenas: pendiente de que cada integrante
+          <strong>Cardenas Huaman, Mathias Andree — AV1:</strong>
+          Guié al equipo en la formulación de las hipótesis de valor y coordiné la estructuración 
+          del Lean UX Canvas para alinear la visión del negocio con métricas de éxito medibles. 
+          Asimismo, asumí el liderazgo técnico en el diseño orientado a objetos, definiendo los 
+          agregados, entidades y contratos de dominio en UML para cada Bounded Context en estrecha coordinación con mis compañeros.
+        </p>
+
+<p>
+          🟢 <em>Elizabeth Apaza: pendiente de que cada integrante
           redacte su aporte correspondiente a esta celda.</em>
         </p>
       </td>
@@ -78,7 +86,15 @@
         </p>
 
 <p>
-          🟢 <em>Elizabeth Apaza y Mathias Cárdenas: pendiente de que cada integrante
+          <strong>Cardenas Huaman, Mathias Andree — AV1:</strong>
+          Promoví la participación activa del grupo durante la ideación del Lean UX Canvas para 
+          integrar todas las perspectivas del equipo. Planifiqué y ejecuté a tiempo la elaboración de 
+          los diagramas de clases UML, descomponiendo el trabajo en entregables claros y asegurando 
+          que las clases modeladas respondan con precisión a las historias de usuario y alcances del sprint.
+        </p>
+        
+<p>
+          🟢 <em>Elizabeth Apaza: pendiente de que cada integrante
           redacte su aporte correspondiente a esta celda.</em>
         </p>
       </td>
