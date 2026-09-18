@@ -1,18 +1,95 @@
-## Student Outcome
+<table>
+  <thead>
+    <tr>
+      <th>Criterio específico</th>
+      <th>Acciones realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
 
-Cada participante del equipo colabora a fin de que se redacte como grupo los sustentos y evidencias de las actividades realizadas en el trabajo final que han ayudado a alcanzar el logro del curso, reflejando la forma en la que cada uno percibe el trabajo que ha realizado. Esto se complementa con lo reflejado en los testimonios expuestos que forman parte del video About the Team.
+  <tbody>
+    <tr>
+      <td>
+        Trabaja en equipo para proporcionar liderazgo en forma conjunta
+      </td>
 
-El curso contribuye al cumplimiento del Student Outcome ABET:
+<td>
+        <p>
+          <strong>Sandoval Cueto, Fabián — AV1:</strong>
+          Coordinó la definición de la arquitectura de la solución y organizó la integración
+          del trabajo del equipo en el repositorio, revisando y aprobando los Pull Requests
+          #7, #8, #9 y #10 hacia la rama <code>develop</code>.
+        </p>
 
-**ABET – EAC - Student Outcome 5**
+<p>
+          <strong>Lopez, Leonardo — AV1:</strong>
+          Lideró la configuración del control de versiones mediante GitFlow y ramas por
+          integrante, además del despliegue del Landing Page. Asimismo, coordinó la redacción
+          y consistencia del informe entre capítulos.
+        </p>
 
-**Criterio:** La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+<p>
+          <strong>Ramos Cerdán, Elías Daniel — AV1:</strong>
+          Lideró el desarrollo del diseño UX/UI correspondiente a la Landing Page y a la
+          Web Application, elaborando wireframes, mock-ups, User Flow Diagrams y el prototipo
+          de navegación. Además, mantuvo la consistencia visual entre las diferentes vistas
+          y roles considerados para Vigía.
+        </p>
 
-En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 5.
+<p>
+          🟢 <em>Elizabeth Apaza y Mathias Cárdenas: pendiente de que cada integrante
+          redacte su aporte correspondiente a esta celda.</em>
+        </p>
+      </td>
 
-| Criterio específico | Acciones realizadas | Conclusiones |
-|---|---|---|
-| Trabaja en equipo para proporcionar liderazgo en forma conjunta | **Sandoval Cueto, Fabián — AV1:** Coordinó la definición de la arquitectura de la solución y organizó la integración del trabajo del equipo en el repositorio, revisando y aprobando los Pull Requests #7, #8, #9 y #10 hacia la rama `develop`.<br><br>**Lopez, Leonardo — AV1:** Lideró la configuración del control de versiones (GitFlow, ramas por integrante) y del despliegue del Landing Page, y coordinó la redacción y consistencia del informe entre capítulos.<br><br>🟢 *Elías [apellido pendiente de confirmar], Elizabeth [Apaza] y Mathias [Cárdenas]: pendiente de que cada uno redacte su propio aporte a esta celda.* | 🟢 *Pendiente — se redacta de forma grupal al cierre de la entrega, una vez que todos los integrantes completen sus acciones.* |
-| Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos | **Sandoval Cueto, Fabián — AV1:** Definió junto al equipo el alcance del Sprint 1 (Landing Page) y el orden de prioridad del Product Backlog, asegurando que las tareas asignadas fueran claras para cada integrante.<br><br>**Lopez, Leonardo — AV1:** Documentó el Sprint Backlog y las evidencias de desarrollo, ejecución y despliegue del Sprint 1, dejando trazabilidad de las tareas cumplidas por el equipo.<br><br>🟢 *Elías [apellido pendiente de confirmar] — AV1:* implementó la primera versión del Landing Page (HTML, CSS y JavaScript) aplicando el Design System definido por el equipo.<br><br>🟢 *Elizabeth [Apaza] y Mathias [Cárdenas]: pendiente de que cada uno redacte su propio aporte a esta celda.* | 🟢 *Pendiente — se redacta de forma grupal al cierre de la entrega.* |
+<td>
+        🟢 <em>Pendiente — se redacta de forma grupal al cierre de la entrega, una vez
+        que todos los integrantes completen sus acciones.</em>
+      </td>
+    </tr>
 
-🟢 **Pendiente antes de la entrega.** Esta tabla se completó únicamente con las acciones de los dos integrantes cuya identidad está confirmada en la sección 1.1.2 (Fabián Sandoval y Leonardo Lopez) y con lo que puede inferirse razonablemente del historial de commits para Elías, dado que su usuario de GitHub coincide con el rol de Landing Page. Cada integrante debe redactar en primera persona su propia fila de "Acciones realizadas" para esta entrega, y el grupo debe redactar en conjunto la columna "Conclusiones", que es acumulable y se irá expandiendo en las siguientes entregas (TB1, AV2, TB2).
+<tr>
+      <td>
+        Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas
+        y cumple objetivos
+      </td>
+
+<td>
+        <p>
+          <strong>Sandoval Cueto, Fabián — AV1:</strong>
+          Definió junto al equipo el alcance del Sprint 1, correspondiente al Landing Page,
+          y el orden de prioridad del Product Backlog, asegurando que las tareas asignadas
+          fueran claras para cada integrante.
+        </p>
+
+<p>
+          <strong>Lopez, Leonardo — AV1:</strong>
+          Documentó el Sprint Backlog y las evidencias de desarrollo, ejecución y despliegue
+          del Sprint 1, dejando trazabilidad de las tareas cumplidas por el equipo.
+        </p>
+
+<p>
+          <strong>Ramos Cerdán, Elías Daniel — AV1:</strong>
+          Cumplió las actividades asignadas relacionadas con el Startup Profile, registro
+          de entrevistas, diseño de la Landing Page, diseño de la Web Application, User Flow
+          Diagrams y prototipado. Asimismo, trabajó mediante la rama
+          <code>feature/Ramos</code>, registrando sus avances mediante commits y aportando
+          progresivamente al informe del proyecto.
+        </p>
+
+<p>
+          🟢 <em>Elizabeth Apaza y Mathias Cárdenas: pendiente de que cada integrante
+          redacte su aporte correspondiente a esta celda.</em>
+        </p>
+      </td>
+
+<td>
+        🟢 <em>Pendiente — se redacta de forma grupal al cierre de la entrega.</em>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+🟢 **Pendiente antes de la entrega.** La tabla debe completarse con las acciones realizadas
+por todos los integrantes durante AV1. La columna de conclusiones se redactará de forma
+grupal y continuará ampliándose en las siguientes entregas: TB1, AV2 y TB2.
