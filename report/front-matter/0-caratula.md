@@ -14,9 +14,9 @@ NRC 8084
 
 # Informe de Trabajo Final
 
-**Startup:** Nombre del startup
+**Startup:** Trazza Labs
 
-**Producto:** Nombre del producto
+**Producto:** Vigía
 
 **Docente**
 
