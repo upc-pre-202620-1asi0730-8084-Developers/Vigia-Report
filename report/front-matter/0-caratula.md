@@ -24,13 +24,13 @@ Velásquez Núñez, Ángel Augusto
 
 **Integrantes**
 
-| Código     | Apellidos y Nombres |
-|------------|---------------------|
-| u20241a649 | Lopez, Leonardo     |
-| Código     | Apellidos, Nombres  |
-| Código     | Apellidos, Nombres  |
-| Código     | Apellidos, Nombres  |
-| Código     | Apellidos, Nombres  |
+| Código     | Apellidos y Nombres               |
+|------------|-----------------------------------|
+| u20241a649 | Lopez, Leonardo                   |
+| Código     | Apaza Bocanegra, Elizabeth Noelia |
+| Código     | Cardenas Huaman, Mathias Andree               |
+| u20201a277 | Ramos Cerdan, Elias Daniel                |
+| Código     | Sandoval Cueto, Fabian Jesus                |
 
 Septiembre 2026
 
