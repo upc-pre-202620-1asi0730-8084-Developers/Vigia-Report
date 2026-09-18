@@ -45,8 +45,11 @@
         </p>
 
 <p>
-          🟢 <em>Elizabeth Apaza: pendiente de que cada integrante
-          redacte su aporte correspondiente a esta celda.</em>
+          <strong>Apaza Bocanegra, Elizabeth Noelia — AV1:</strong>
+          Contribuyó al análisis inicial del proyecto desarrollando la sección de Antecedentes y 
+          problemática, así como los Lean UX Problem Statements. Con este aporte, facilitó que el 
+          equipo tuviera un marco de referencia claro sobre el contexto y las necesidades de los 
+          usuarios para alinear el diseño de la solución.
         </p>
       </td>
 
@@ -94,8 +97,11 @@
         </p>
         
 <p>
-          🟢 <em>Elizabeth Apaza: pendiente de que cada integrante
-          redacte su aporte correspondiente a esta celda.</em>
+          <strong>Apaza Bocanegra, Elizabeth Noelia — AV1:</strong>
+          Cumplió con las tareas de investigación y diseño establecidas ejecutando dos entrevistas a 
+          usuarios objetivo para la validación del problema. Además, aportó al avance estructural y 
+          visual del proyecto elaborando los Web Applications Wireflow Diagrams y los wireframes 
+          correspondientes a la Web Application, logrando las metas asignadas para esta entrega.
         </p>
       </td>
 
