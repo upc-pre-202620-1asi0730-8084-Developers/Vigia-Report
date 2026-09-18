@@ -18,7 +18,7 @@ El siguiente cuadro resume la participación registrada en commits sobre el repo
 
 Los cinco integrantes registran commits propios sobre el repositorio durante el Sprint 1, lo que evidencia que todos participaron en la elaboración del informe, conforme lo exige el enunciado del proyecto.
 
-![Collaboration-insigths.png](../../assets/chapther-5/Collaboration-insigths.png)
+![Collaboration-insigths.png](../../assets/chapther-5/Collaboration-insights.png)
 
 🟢 *Nota: la captura anterior ya fue tomada y usada como evidencia en la sección 5.2.1.8; se reutiliza aquí porque el enunciado pide la misma evidencia de analíticos de colaboración en esta sección del front-matter. Confirmar que la ruta de la imagen cargue correctamente al exportar el informe.*
 
