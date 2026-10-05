@@ -4,6 +4,7 @@
   Los archivos originales no fueron modificados.
 -->
 
+
 <!-- Fuente: report/chapters/chapter-1-introduction/1-capitulo-i-introduccion.md -->
 
 ## Capítulo I: Introducción
@@ -13,6 +14,7 @@ En este capítulo se presenta el punto de partida del proyecto, comprendiendo ta
 El capítulo inicia con el Startup Profile, donde se describe a Trazza Labs, la startup conformada por el equipo, junto con los perfiles de cada uno de sus integrantes y los conocimientos y habilidades que aportan al proyecto. A continuación, el Solution Profile expone los antecedentes y la problemática identificada en la cadena de suministro de materiales del sector construcción, para lo cual se aplica la técnica de las 5 'W's y 2 'H's, y se establecen los objetivos y restricciones que delimitan el alcance del proyecto. Esta misma sección presenta el resultado de aplicar el Lean UX Process sobre el dominio del problema, comprendiendo el Problem Statement, los Assumptions, los Hypothesis Statements y el Lean UX Canvas.
 
 Finalmente, el capítulo cierra con la descripción de los segmentos objetivo a los que se dirige la solución, incluyendo sus características demográficas y la información estadística que sustenta su relevancia y tamaño de mercado.
+
 
 <!-- Fuente: report/chapters/chapter-1-introduction/1.1-startup-profile.md -->
 
@@ -24,6 +26,7 @@ trazabilidad de los materiales dentro del sector construcción. Asimismo, se
 describe el propósito de la startup y se presentan los perfiles de los integrantes
 del equipo, destacando los principales conocimientos, habilidades y aportes de
 cada miembro para el desarrollo del proyecto.
+
 
 <!-- Fuente: report/chapters/chapter-1-introduction/1.1.1-descripcion-de-la-startup.md -->
 
@@ -60,6 +63,7 @@ sustenta en la suscripción de empresas constructoras y operadores logísticos b
 un esquema de Software as a Service, lo que le otorga escalabilidad al no requerir
 un incremento proporcional de recursos por cada nuevo cliente atendido.
 
+
 <!-- Fuente: report/chapters/chapter-1-introduction/1.1.2-perfiles-de-integrantes-del-equipo.md -->
 
 #### 1.1.2. Perfiles de integrantes del equipo
@@ -74,9 +78,9 @@ El equipo reúne perfiles complementarios en desarrollo backend, desarrollo fron
 
 | | |
 |---|---|
-| <img src="../assets/team/apellido-nombre.png" width="150"> | **Apellidos y Nombres:** Sandoval, Fabián<br><br>**Código:** u2022XXXXX<br><br>**Carrera:** Ingeniería de Software<br><br>**Rol en el equipo:** Team Leader |
+| <img src="../../assets/team/apellido-nombre.png" width="150"> | **Apellidos y Nombres:** Sandoval, Fabián<br><br>**Código:** u2022XXXXX<br><br>**Carrera:** Ingeniería de Software<br><br>**Rol en el equipo:** Team Leader |
 
-Soy estudiante de Ingeniería de Software con experiencia en desarrollo backend con Spring Boot y en desarrollo frontend con Vue 3 y PrimeVue, así como en el uso de Docker para la configuración de entornos de desarrollo. Manejo Git y GitHub aplicando GitFlow y Conventional Commits, lo que me permite coordinar la integración del trabajo del equipo en los repositorios del proyecto. Aporto al equipo en la organización de las tareas, la definición de la arquitectura de la solución y la implementación de los servicios del RESTful API.
+*Soy estudiante de Ingeniería de Software con experiencia en desarrollo backend con Spring Boot y en desarrollo frontend con Vue 3 y PrimeVue, así como en el uso de Docker para la configuración de entornos de desarrollo. Manejo Git y GitHub aplicando GitFlow y Conventional Commits, lo que me permite coordinar la integración del trabajo del equipo en los repositorios del proyecto. Aporto al equipo en la organización de las tareas, la definición de la arquitectura de la solución y la implementación de los servicios del RESTful API.*
 
 ---
 
@@ -85,8 +89,7 @@ Soy estudiante de Ingeniería de Software con experiencia en desarrollo backend 
 | |                                                                                                                                                          |
 |---|----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![leo.jpeg](../../assets/chapther-1/leo.jpeg) | **Apellidos y Nombres:** Lopez, Leonardo<br><br>**Código:** u20241a649<br><br>**Carrera:** Ingeniería de Software<br><br>**Rol en el equipo:** Developer |
-
-*(Párrafo de resumen: conocimientos técnicos que domina, herramientas y lenguajes con los que ha trabajado, y aporte concreto al proyecto. Entre 60 y 100 palabras, redactado en primera persona.)*
+Mi nombre es leonardo gabriel lopez torres, estoy en el 6to ciclo de la carrera de ing de software en la upc, por lo general los conocimientos que tengo es sobre c sharp, c++, typesecript y javasciprt
 
 ---
 
@@ -96,7 +99,7 @@ Soy estudiante de Ingeniería de Software con experiencia en desarrollo backend 
 |---|---|
 | <img src="../../assets/chapther-1/Andree.jpg" width="150"> | **Apellidos y Nombres:** Cardenas Huaman, Mathias Andree<br><br>**Código:** u202316353<br><br>**Carrera:** Ingeniería de Software<br><br>**Rol en el equipo:** Developer |
 
-Actualmente me encuentro estudiando la carrera de Ingeniería de Software. Soy proactivo y comunicativo, trabajo en equipo y resolución de problemas, también me gusta colocarme objetivos desafiantes para mejorar. Me encanta el curso y mi meta es completarla con la máxima nota posible.
+*Actualmente me encuentro estudiando la carrera de Ingeniería de Software. Soy proactivo y comunicativo, trabajo en equipo y resolución de problemas, también me gusta colocarme objetivos desafiantes para mejorar. Me encanta el curso y mi meta es completarla con la máxima nota posible.*
 
 ---
 
@@ -106,17 +109,18 @@ Actualmente me encuentro estudiando la carrera de Ingeniería de Software. Soy p
 |---|---|
 | <img src="../../assets/chapther-1/Elizabeth.jpg" width="150"> | **Apellidos y Nombres:** Apaza Bocanegra, Elizabeth Noelia<br><br>**Código:** u20231c197<br><br>**Carrera:** Ingeniería de Software<br><br>**Rol en el equipo:** Developer |
 
-Soy estudiante de la carrera de Ingeniería de Software, tengo 20 años y me defino como una persona responsable, organizada y con facilidad para colaborar con los demás. Disfruto mucho del trabajo en equipo porque me permite intercambiar ideas y seguir aprendiendo de mi carrera. Me interesa desarrollar constantemente nuevas habilidades y busco aportar siempre con una comunicación clara y efectiva en cada proyecto. Mi objetivo es fortalecer mi formación académica y aprovechar cada experiencia para crecer tanto en lo profesional como en lo personal.
+*Soy estudiante de la carrera de Ingeniería de Software, tengo 20 años y me defino como una persona responsable, organizada y con facilidad para colaborar con los demás. Disfruto mucho del trabajo en equipo porque me permite intercambiar ideas y seguir aprendiendo de mi carrera. Me interesa desarrollar constantemente nuevas habilidades y busco aportar siempre con una comunicación clara y efectiva en cada proyecto. Mi objetivo es fortalecer mi formación académica y aprovechar cada experiencia para crecer tanto en lo profesional como en lo personal.*
 
 ---
 
 <!-- INTEGRANTE 5 -->
 
-| | |
-|---|---|
-| <img src="../assets/team/apellido-nombre.png" width="150"> | **Apellidos y Nombres:** Apellidos, Nombres<br><br>**Código:** uXXXXXXXXX<br><br>**Carrera:** Ingeniería de Software<br><br>**Rol en el equipo:** Developer |
+| |                                                                                                                                                                    |
+|---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <img src="../../assets/chapther-1/Ramos-Elias.jpg" width="150"> | **Apellidos y Nombres:** Ramos Cerdan, Elis Daniel<br><br>**Código:** u20201a277<br><br>**Carrera:** Ingeniería de Software<br><br>**Rol en el equipo:** Developer |
 
-*(Párrafo de resumen.)*
+*Mi nombre es Elias Daniel Ramos Cerdan y estoy en el séptimo ciclo de la carrera de Ingeniería de Software. Me adapto con facilidad a entornos nuevos y siempre busco maneras de mejorar mi ejecución de cada avance en los trabajos. El desarrollo de software es un área de gran interés para mí, tengo conocimientos en C++, python, html, css, y javascript y disfruto abordando problemas que exigen tanto razonamiento lógico como creatividad. Dentro del grupo mi objetivo es brindar soluciones que favorezcan un buen desarrollo del proyecto, y siempre estar al tanto de que se haga lo mejor de lo mejor.*
+
 
 <!-- Fuente: report/chapters/chapter-1-introduction/1.2-solution-profile.md -->
 
@@ -130,6 +134,7 @@ restricciones que delimitan el alcance del proyecto. La segunda, Lean UX Process
 presenta el resultado de aplicar dicho proceso sobre el dominio del problema,
 comprendiendo los Problem Statements, los Assumptions, los Hypothesis Statements
 y el Lean UX Canvas.
+
 
 <!-- Fuente: report/chapters/chapter-1-introduction/1.2.1-antecedentes-y-problematica.md -->
 
@@ -187,6 +192,7 @@ El alcance del proyecto se delimita mediante las siguientes restricciones:
 
 - Los productos de la solución deben incorporar características de internacionalización (i18n) y accesibilidad (a11y), considerando como base los idiomas inglés (en_US) y español latinoamericano (es_419).
 
+
 <!-- Fuente: report/chapters/chapter-1-introduction/1.2.2-lean-ux-process.md -->
 
 #### 1.2.2. Lean UX Process
@@ -194,6 +200,7 @@ El alcance del proyecto se delimita mediante las siguientes restricciones:
 En esta sección se presenta el resultado de aplicar el Lean UX Process sobre el dominio del problema descrito en la sección anterior. Este proceso permite al equipo articular la visión del modelo de negocio que será soportado por Vigía a partir de creencias explícitas sobre el mercado, los usuarios y las funcionalidades, las cuales podrán ser validadas posteriormente mediante la investigación con representantes de los segmentos objetivo.
 
 El proceso se desarrolla en cuatro secciones internas. En primer lugar, se formula un único Problem Statement para todo el proyecto, aplicando el template de Brand new initiative por tratarse de una iniciativa nueva y no de la evolución de un producto existente, y considerando en su enunciado a ambos segmentos objetivo. En segundo lugar, se enumeran los Assumptions del equipo, organizados en los cinco tipos que contempla el proceso: Business Assumptions, Business Outcome Assumptions, User Assumptions, User Outcome and Benefit Assumptions y Feature Assumptions. En tercer lugar, se formulan los Hypothesis Statements que cruzan los Feature Assumptions con los resultados de negocio y de usuario comprometidos en el Problem Statement. Finalmente, la sección cierra con el Lean UX Canvas, que consolida de forma visual los elementos anteriores.
+
 
 <!-- Fuente: report/chapters/chapter-1-introduction/1.2.2.1-lean-ux-problem-statements.md -->
 
@@ -212,6 +219,7 @@ Nuestro producto atenderá esta brecha mediante una plataforma que registra de f
 Nuestro enfoque inicial será el segmento de empresas constructoras e inmobiliarias medianas de Lima Metropolitana que gestionan más de un frente de obra activo.
 
 Sabremos que hemos tenido éxito cuando observemos que las discrepancias entre lo despachado y lo recibido se detecten durante la recepción y no en la conciliación posterior de inventarios, que el tiempo dedicado a esclarecer la responsabilidad por faltantes se reduzca de forma significativa, y que los usuarios de ambos segmentos registren de manera sostenida los eventos de despacho y recepción en la plataforma.
+
 
 <!-- Fuente: report/chapters/chapter-1-introduction/1.2.2.2-lean-ux-assumptions.md -->
 
@@ -274,6 +282,7 @@ Para el desarrollo de la plataforma Vigía, el equipo identificó y categorizó 
 - **FA-03.** Creemos que un módulo de recepción, verificación y conciliación en obra permitirá al personal en destino registrar la cantidad efectivamente recibida, marcar discrepancias por faltantes o daños y generar el acta de recepción digital con evidencia fotográfica, operando bajo condiciones de conectividad intermitente.
 
 - **FA-04.** Creemos que un tablero de analítica y registro de incidencias brindará al supervisor de proyecto un histórico de discrepancias, tiempos de traslado y desempeño de transportistas, que sustente la toma de decisiones sobre la operación.
+
 
 <!-- Fuente: report/chapters/chapter-1-introduction/1.2.2.3-lean-ux-hypothesis-statements.md -->
 
@@ -339,6 +348,7 @@ si los transportistas
 obtienen un respaldo verificable de lo que efectivamente se despachó y de los eventos ocurridos en ruta
 mediante el módulo de registro de eventos de tránsito (FA-02) contrastado con la conformidad de recepción (FA-03).
 
+
 <!-- Fuente: report/chapters/chapter-1-introduction/1.2.2.4-lean-ux-canvas.md -->
 
 #### 1.2.2.4. Lean UX Canvas
@@ -349,28 +359,16 @@ Las dos últimas cajas corresponden al trabajo propio de esta sección. La caja 
 
 Se emplea la versión 2 del Lean UX Canvas de Jeff Gothelf, que organiza el proceso en las ocho cajas descritas.
 
-**Figura 1**
+**Figura 2**
 
 *Lean UX Canvas de Vigía*
 
 ![Lean UX Canvas de Vigía](../../assets/chapther-1/lean-ux-canvas.png)
 
-*Nota.* Elaboración propia del equipo de Trazza Labs sobre la plantilla del Lean UX Canvas v2 de Jeff Gothelf, disponible bajo licencia Creative Commons BY-NC-SA. El contenido de cada caja procede de las secciones 1.2.2.1, 1.2.2.2, 1.2.2.3 y 1.3 del presente informe. El artefacto en su resolución original puede consultarse en el siguiente enlace: [Lean-UX-Canvas](https://upcedupe-my.sharepoint.com/:p:/g/personal/u20221a132_upc_edu_pe/IQAzcPXFr7caS6j_tkGE0wjBAQK0Co2JUTRnpW1049vhusM?e=hFzY45).
+*Nota.* Elaboración propia del equipo de Trazza Labs sobre la plantilla del Lean UX Canvas v2 de Jeff Gothelf, disponible bajo licencia Creative Commons BY-NC-SA. El contenido de cada caja procede de las secciones 1.2.2.1, 1.2.2.2, 1.2.2.3 y 1.3 del presente informe. El artefacto en su resolución original puede consultarse en el siguiente enlace: [Lean-UX-Canvas](https://tinyurl.com/2cynj6sz).
 
 ---
 
-<!--
-PENDIENTES DE ESTA SECCIÓN
-
-1. Exportar el canvas a PNG (300 ppp) y guardarlo como assets/chapther-1/lean-ux-canvas.png
-2. Reemplazar [ENLACE PENDIENTE] por la URL pública del artefacto (Miro, Figma o la carpeta de Drive del equipo, según decida el equipo)
-3. Agregar a la Bibliografía la entrada de Gothelf (ver más abajo)
-4. Verificar la numeración: esta es la primera figura numerada del informe. Si el equipo decide numerar también las capturas de las secciones 2.4 y siguientes, la numeración debe correr de forma correlativa a lo largo de todo el documento.
-
-ENTRADA PARA LA BIBLIOGRAFÍA (APA 7)
-
-Gothelf, J. (2019). *The Lean UX Canvas v2*. https://jeffgothelf.com/blog/leanuxcanvas-v2/
--->
 
 <!-- Fuente: report/chapters/chapter-1-introduction/1.3-segmentos-objetivos.md -->
 
@@ -449,8 +447,6 @@ La decisión responde a tres criterios. En primer lugar, es este segmento el que
 **Consideración sobre la naturaleza de la información presentada.** Las cifras citadas en esta sección provienen de fuentes estadísticas oficiales y de investigaciones académicas, todas ellas referenciadas en la Bibliografía del presente informe. En contraste, las características de rango de edad, nivel socioeconómico, formación, dispositivos de preferencia y canales de interacción consignadas en los cuadros anteriores constituyen una caracterización preliminar elaborada por el equipo, que será confirmada mediante las entrevistas descritas en la sección 2.2 y cuantificada en el análisis de la sección 2.2.3, dando lugar a los User Personas de la sección 2.3.1.
 
 
----
-
 <!-- Fuente: report/chapters/chapter-2-requirements-elicitation-analysis/2-capitulo-ii-requirements-elicitation-analysis.md -->
 
 ## Capítulo II: Requirements Elicitation & Analysis
@@ -460,6 +456,7 @@ En este capítulo se presenta el proceso de Needfinding realizado por el equipo,
 A continuación se aborda la recolección de información de primera fuente mediante entrevistas a representantes de los dos segmentos objetivo definidos en la sección 1.3. Dichas entrevistas se registran en video y se editan para construir el video de evidencia de entrevistas. El análisis de las entrevistas sirve de base para la identificación de necesidades y para la construcción de los User Personas de cada segmento objetivo, así como del User Task Matrix, los User Journey Maps y los Empathy Maps correspondientes a cada arquetipo identificado.
 
 Finalmente, el capítulo presenta el Big Picture EventStorming, mediante el cual el equipo modela de forma colaborativa los eventos significativos del dominio del negocio y sus relaciones, y el Ubiquitous Language, que consolida el glosario de términos del dominio que será empleado de manera consistente por todos los miembros del equipo y los stakeholders del proyecto.
+
 
 <!-- Fuente: report/chapters/chapter-2-requirements-elicitation-analysis/2.1-competidores.md -->
 
@@ -501,6 +498,7 @@ Samsara es una plataforma de gestión de flotas y activos que emplea localizaci�
 
 **Sitio web:** https://www.samsara.com/
 
+
 <!-- Fuente: report/chapters/chapter-2-requirements-elicitation-analysis/2.1.1-analisis-competitivo.md -->
 
 #### 2.1.1. Análisis competitivo
@@ -514,7 +512,7 @@ En esta sección se presenta el Competitive Analysis Landscape elaborado por el 
 
 <!-- Insertar el logo de cada competidor en la cabecera de su columna correspondiente -->
 
-| | **Vigía** (Trazza Labs) | **Procore** | **Autodesk Construction Cloud** | **S10 Perú** | **Samsara** |
+| | **Vigía** (Trazza Labs) | **Procore** ![procore.png](../../assets/chapther-2/competidores/procore.png)| **Autodesk Construction Cloud** ![autodesk.png](../../assets/chapther-2/competidores/autodesk.png)| **S10 Perú** ![s10.jpeg](../../assets/chapther-2/competidores/s10.jpeg)| **Samsara** ![samsana.jpeg](../../assets/chapther-2/competidores/samsana.jpeg)|
 |---|---|---|---|---|---|
 | **Perfil: Overview** | Plataforma enfocada en asegurar la trazabilidad de los materiales desde el despacho en el almacén central hasta la recepción en el frente de obra. Registra las cantidades y el peso despachados, los eventos del traslado y las cantidades efectivamente recibidas. | Plataforma integral para la gestión de proyectos de construcción, que abarca materiales, inventarios, entregas, costos y operaciones de obra. | Plataforma de gestión de construcción que centraliza la información de los proyectos y permite administrar activos, costos, documentos y operaciones. | Solución peruana para la elaboración de presupuestos, programación de obra y control de costos, ampliamente adoptada por constructoras del país. | Plataforma enfocada en la gestión de flotas y activos mediante localización satelital y telemática. |
 | **Perfil: Ventaja competitiva. ¿Qué valor ofrece a los clientes?** | Reconcilia sobre un mismo despacho la información registrada por el almacén, el transportista y el frente de obra, permitiendo detectar discrepancias en el momento de la recepción y sustentar la responsabilidad ante un faltante. | Ofrece una solución integral que permite gestionar múltiples procesos de una empresa constructora desde una misma plataforma. | Permite centralizar la información de los proyectos e integrarse de forma nativa con las herramientas de diseño del ecosistema Autodesk. | Ofrece un control detallado del presupuesto y los costos de obra, con análisis de precios unitarios adaptados a las prácticas del mercado peruano. | Permite conocer la ubicación y el estado de vehículos y activos en tiempo real mediante dispositivos instalados en la unidad. |
@@ -534,6 +532,7 @@ A continuación se presenta el análisis SWOT elaborado para la startup y para c
 | **Debilidades** | Startup sin trayectoria ni casos de referencia; menor amplitud funcional frente a plataformas integrales; recursos limitados; dependencia de la adopción por parte de dos segmentos a la vez. | Complejidad y costo elevados para empresas medianas; menor enfoque específico en el traslado y la conciliación de materiales; orientación a mercados de habla inglesa. | Propuesta amplia no especializada en el tramo de traslado y recepción; curva de aprendizaje pronunciada; costo elevado para empresas medianas. | Orientación al presupuesto y al control de costos, sin cobertura del traslado ni de la recepción física; interfaz de escritorio con limitada operación en campo. | No conoce el contenido de la carga ni registra la conformidad de la entrega; requiere inversión en hardware; no está orientada al sector construcción. |
 | **Oportunidades** | Creciente digitalización y formalización del sector construcción en el Perú; necesidad de reducir pérdidas por faltantes; posibilidad de integración futura con sistemas de presupuesto y control de costos ya adoptados por las constructoras. | Expansión hacia mercados latinoamericanos; integración con herramientas empresariales de terceros. | Crecimiento de la gestión digital de activos; ampliación del ecosistema de integraciones. | Ampliación de su alcance hacia la gestión de la operación en campo; migración de su base instalada a soluciones en la nube. | Crecimiento del uso de dispositivos conectados en logística y construcción; mayor exigencia de control sobre activos móviles. |
 | **Amenazas** | Competidores consolidados con mayor capacidad de inversión; resistencia al cambio del personal operativo; dificultad para lograr la adopción simultánea de constructoras y transportistas. | Competencia de plataformas especializadas de menor costo y complejidad; soluciones locales adaptadas a cada mercado. | Competencia directa de Procore y de plataformas especializadas con procesos más sencillos. | Aparición de soluciones en la nube con mayor cobertura funcional; competencia de plataformas internacionales. | Competencia de otras plataformas de localización y telemática; sensibilidad de los clientes al costo del hardware. |
+
 
 <!-- Fuente: report/chapters/chapter-2-requirements-elicitation-analysis/2.1.2-estrategias-y-tacticas-frente-a-competidores.md -->
 
@@ -627,6 +626,7 @@ Tácticas:
 
 El conjunto de estrategias descritas se orienta a sostener la ventaja competitiva declarada en el Competitive Analysis Landscape: la reconciliación, sobre un mismo despacho, de la información registrada por el almacén central, el transportista y el frente de obra. Las tácticas asociadas se han formulado considerando las limitaciones de recursos y de trayectoria propias de una startup de reciente creación, así como las características del segmento inicial de enfoque. Estas estrategias tienen carácter preliminar y serán refinadas a partir de los hallazgos del proceso de Needfinding descrito en las secciones siguientes.
 
+
 <!-- Fuente: report/chapters/chapter-2-requirements-elicitation-analysis/2.2-entrevistas.md -->
 
 ### 2.2. Entrevistas
@@ -636,6 +636,7 @@ En esta sección se aborda la investigación tomando como base la recolección d
 La sección se organiza en tres partes. En primer lugar, el Diseño de entrevistas presenta el instrumento elaborado por el equipo, con las preguntas principales y complementarias dirigidas a cada segmento. En segundo lugar, el Registro de entrevistas consigna la información de cada entrevistado, el enlace al video correspondiente y el resumen descriptivo de sus respuestas. Finalmente, el Análisis de entrevistas identifica, con sustento estadístico, las características más comunes de cada segmento que servirán de base para la elaboración de los User Personas de la sección 2.3.1.
 
 Todas las entrevistas se registran en video, conforme a lo indicado en el Anexo C del enunciado del proyecto, y su consolidación constituye el video de evidencia de entrevistas.
+
 
 <!-- Fuente: report/chapters/chapter-2-requirements-elicitation-analysis/2.2.1-diseño-de-entrevistas.md -->
 
@@ -745,6 +746,7 @@ Este segmento comprende a jefes de almacén central, despachadores, operadores d
 22. Sobre su operación, ¿con qué marcas de vehículos, equipos o aplicaciones trabaja habitualmente? ¿Y hay algún gremio, publicación o colega al que recurra cuando necesita orientarse sobre algo del rubro?
 23. Para cerrar, ¿le ha tocado atender un pedido urgente de una obra tomando material de otra obra o de un almacén más cercano? ¿Cómo se coordinó eso? ¿Y hay algo que no le haya preguntado y que considere importante que sepamos?
 
+
 <!-- Fuente: report/chapters/chapter-2-requirements-elicitation-analysis/2.2.2-registro-de-las-entrevistas.md -->
 
 ### 2.2.2. Registro de las entrevistas
@@ -769,7 +771,7 @@ A continuación se consigna la información de cada entrevistado, agrupada por s
 | Fecha de la entrevista | *(completar con la fecha real de grabación)*                                                                                                                                                                                                                                                                            |
 | Inicio en el video consolidado | *(completar una vez editado el video único de Needfinding Interviews, Anexo C)*                                                                                                                                                                                                                                  |
 | Captura                | ![Entrevista Owen.png](../../assets/Chapther-4/entrevistas/Entrevista%20Owen.png)                                                                                                                                                                                                                                    |
-| Url:                   | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241a649_upc_edu_pe/IQC2textw7vZSoMS02TsuzhRAZT2Fn1nlxqXcOEgoGfCE3Y?e=cihWOu&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D |
+| Url:                   | https://tinyurl.com/2yak5fm2 |
 
 En la entrevista, Owen relató su rutina diaria como residente de obra en un proyecto de edificación multifamiliar en Lima Metropolitana, describiendo cómo se entera de los despachos programados a través de un grupo de WhatsApp compartido con el almacén central y cómo verifica el material descargado contra la guía de remisión antes de firmar la conformidad. Señaló que la señal de internet en el frente de obra es intermitente, por lo que en varias ocasiones ha tenido que anotar las cantidades recibidas en un cuaderno físico para trasladarlas después a la hoja de cálculo de control de materiales. Relató un episodio reciente en el que un pedido de fierro corrugado llegó incompleto y tuvo que suspender el vaciado programado para esa faena mientras esperaba el reembarque, lo que generó un retraso de dos días en el cronograma. Indicó que, ante diferencias como esa, distingue una merma normal de una pérdida reportable según el porcentaje de tolerancia que maneja la oficina técnica, y que cualquier faltante mayor debe sustentarlo directamente ante su jefe de proyecto. Mencionó que el mayor desgaste de su trabajo es reconstruir, a partir de llamadas y capturas de pantalla, lo que ocurrió con un despacho cuando aparece una discrepancia días después de recibido el material. Sobre las marcas con las que trabaja, mencionó proveedores de cemento y acero de uso extendido en el mercado nacional, y comentó que se mantiene al día siguiendo páginas y grupos de colegas del rubro en redes sociales.
 
@@ -801,7 +803,7 @@ Renzo describió su rol como director de obra a cargo de dos frentes simultáneo
 | Fecha de la entrevista | 15/09/2026                                                                                                                                                                                                                                                                                              |
 | Inicio en el video consolidado | 0:00                                                                                                                                                                                                                                                                                                      |
 | Captura                | <img src="../../assets/Chapther-4/entrevistas/entrevista-JenniferRuiz">                                                                                                                                                                                                                                                                                        |
-| Url:                   | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c197_upc_edu_pe/IQDWNMuESGw-SLFYR1oP8Pl8ATqaoypS9NZwmLmp0ziYOhQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=u8YZ6v                                                                                                                                                                                                                                                                                                             |
+| Url:                   | https://tinyurl.com/2bk4j9a2                                                                                                                                                                                                                                                                                                             |
 
 Jennifer narró su experiencia como ingeniera civil que asumió funciones de coordinadora en proyectos de infraestructura educativa, y explicó que, al trabajar en provincias, la empresa le asigna un hospedaje cercano para facilitar sus largas jornadas que suelen extenderse hasta las siete de la noche. Describió que la notificación de un despacho llega mediante una guía de remisión indicando que el material está en ruta, y que en el frente de obra usa un sistema de inventario corporativo con buena señal de internet, lo cual agiliza notablemente el flujo de trabajo. Contó que, en una ocasión, un despacho de cerámicos llegó con colores y cantidades diferentes a lo solicitado y que la solución fue rechazar el camión completo porque en la obra no pueden recibir entregas parciales de una compra total. Mencionó que lo que más la desgasta es el conteo unitario y la verificación exhaustiva de calidad al recibir lotes masivos, a pesar de considerar siempre un cinco por ciento de merma por traslado. Sobre el vocabulario, remarcó que en su obra al registro de entradas y salidas de material le dicen simplemente el Kárdex, y que a la validación matutina de seguridad la llaman la charla de Soma. Comentó que los proveedores de agregados cambian constantemente, pues esto depende de la región, aunque mantienen a Aceros Arequipa como aliado fijo por su calidad y suelen realizar préstamos internos de materiales entre distintas obras.
 
@@ -820,7 +822,7 @@ Jennifer narró su experiencia como ingeniera civil que asumió funciones de coo
 | Fecha de la entrevista | 13/09/2026                                                                                                                                                                                                                                                                                                                   |
 | Duración               | 16:36                                                                                                                                                                                                                                                                                                                        |
 | Captura                | <img src="../../assets/Chapther-4/entrevistas/entrevista-AngelBarrera.png" alt="Captura entrevista Angel Barrera" width="350">                                                                                                                                                                                                     |
-| Url:                   | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201a277_upc_edu_pe/IQCL8_OYxol7SK2RzxWVLivsATcD9SSiK6Lly0lCIn72xFY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=qMDMPZ |
+| Url:                   | https://tinyurl.com/295hvb4u |
 
 **Resumen de la entrevista**
 
@@ -838,9 +840,7 @@ El entrevistado se desempeña como jefe de almacén y despacho, cuenta con ampli
 | Fecha de la entrevista | 14/09/2026                                                                                                                                                                                                                                                                                                                   |
 | Duracion               | 11:30                                                                                                                                                                                                                                                                                                                        |
 | Captura                | <img src="../../assets/Chapther-4/entrevistas/entrevista-MiguelPomasonco.png" alt="Captura entrevista Miguel Pomasonco" width="350">                                                                                                                                                                                      |
-| Url:                   | https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201a277_upc_edu_pe/IQAdURlUgQNeTKgQ3u1ldxKbAaWGYsbT295pcHXhTPqv9cQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=dlj0TL |
-
-
+| Url:                   | https://tinyurl.com/2923phzy |
 
 **Resumen de la entrevista**
 
@@ -862,64 +862,69 @@ El entrevistado se desempeña como coordinador de despacho y transporte de mater
 
 Walter contó su experiencia de más de veinte años como transportista de carga pesada al servicio de obras de construcción, describiendo que su jornada empieza en el almacén, donde espera a que se complete el pesaje y la firma de la guía de remisión antes de salir hacia la obra asignada. Relató que, una vez en ruta, tiene poca o ninguna visibilidad de si algo cambia en el pedido, y que su principal forma de comunicación con el residente de obra es una llamada telefónica cuando se acerca al destino o cuando surge un imprevisto como un desvío o una demora. Narró un episodio en el que, al llegar a la obra, el residente cuestionó que faltaba material, y que él no tuvo forma de demostrar en ese momento que la carga había salido completa según lo firmado en el almacén, lo que terminó en un descuento sobre su liquidación. Señaló que desconfiaría de cualquier aplicación que le exigiera completar registros mientras conduce, y que la decisión de usar una herramienta así no depende de él sino del dueño de la empresa de transporte para la que trabaja. Mencionó que a la guía de remisión la llama simplemente la guía y que a la conformidad de entrega en obra la llama el visto bueno del residente. Sobre las marcas, mencionó su camión de una marca de uso extendido entre transportistas de carga pesada del país, y dijo mantenerse informado a través de otros conductores y de grupos de transportistas en redes sociales.
 
+
 <!-- Fuente: report/chapters/chapter-2-requirements-elicitation-analysis/2.2.3-analisis-de-entrevistas.md -->
 
 ### 2.2.3. Análisis de entrevistas
 
 En esta sección se analizan las entrevistas consignadas en la sección 2.2.2, con el fin de identificar las características objetivas y subjetivas más comunes de cada segmento objetivo. El análisis se organiza en dos partes, una por segmento, y en cada una se contrastan las respuestas obtenidas frente a las variables del arquetipo definidas en el cuadro de trazabilidad de la sección 2.2.1: datos demográficos, ocupación y background, habilidades, objetivos, frustraciones, personalidad, marcas e influencias, dispositivos, canales digitales, entorno organizacional, autoridad de decisión y terminología del dominio. Los hallazgos que se presentan a continuación constituyen la base de los User Personas de la sección 2.3.1 y del User Task Matrix de la sección 2.3.2.
 
-> **Nota sobre el estado de esta sección.** Dado que, conforme a lo señalado en la sección 2.2.2, cinco de las seis entrevistas consignadas son entradas ilustrativas pendientes de grabación, el análisis siguiente debe leerse como un ejercicio preliminar que ordena la técnica de análisis y anticipa los patrones esperados a partir del diseño de la sección 2.2.1 y de la caracterización documental de la sección 1.3. Los porcentajes y frecuencias que se citan corresponden a una muestra de tres entrevistas por segmento, el mínimo previsto en la sección 2.2.1, y serán recalculados con la muestra real antes de la entrega final del informe.
+> **Nota sobre el estado de esta sección.** Actualmente se cuenta con dos entrevistas reales registradas para cada segmento objetivo. Las entrevistas de Renzo Salazar Huamán y Walter Cconislla Mamani se mantienen como entradas ilustrativas pendientes de grabación y, por ello, no se consideran dentro de los porcentajes ni frecuencias de este análisis. Los resultados presentados corresponden únicamente a las cuatro entrevistas reales disponibles y serán actualizados cuando se complete como mínimo una tercera entrevista por segmento, de acuerdo con lo establecido en el diseño de entrevistas.
 
 #### Análisis del Segmento 1: Empresas Constructoras e Inmobiliarias
 
-**Datos demográficos y ocupacionales.** Las tres personas entrevistadas —Owen Aguirre Campos (26 años, residente de obra), Renzo Salazar Huamán (41 años, director de obra) y Fiorella Castillo Ponce (29 años, arquitecta proyectista y jefa de producción)— tienen una edad promedio de 32 años, dentro del rango de 28 a 55 años estimado en la sección 1.3, aunque concentrada en su tercio inferior. Residen en distritos distintos de Lima Metropolitana (San Martín de Porres, La Molina y Santiago de Surco), lo que es consistente con una ubicación dispersa y un desplazamiento diario hacia la obra. La proporción de género (67% hombres, 33% mujeres) y de estado civil (67% solteros, 33% casados) sugiere una muestra algo más joven y menos consolidada familiarmente que la estimación inicial; este punto deberá verificarse con una muestra mayor, dado que el cargo de director de obra suele concentrarse en profesionales de mayor trayectoria.
+**Datos demográficos y ocupacionales.** Las dos personas entrevistadas —Owen Aguirre Campos (26 años, ingeniero civil y residente de obra) y Jennifer Ruiz Aliaga (29 años, ingeniera civil y coordinadora de obra)— tienen una edad promedio de 27.5 años. Owen reside en San Martín de Porres, mientras que Jennifer reside en San Isidro y actualmente se encuentra alojada en Huancayo debido al proyecto en el que trabaja. La proporción de género es de 50% hombres y 50% mujeres, y ambos entrevistados son solteros. A pesar de desempeñar cargos diferentes, los dos participan directamente en actividades relacionadas con el control, verificación y recepción de materiales en obra.
 
-**Frecuencia de hallazgos comunes.** Los porcentajes se calculan sobre la muestra de tres entrevistas del segmento (n=3), conforme al criterio de sustento estadístico indicado en el enunciado del proyecto.
+**Frecuencia de hallazgos comunes.** Los porcentajes se calculan sobre la muestra de dos entrevistas reales del segmento (n=2).
 
-| Característica observada | Frecuencia (n=3) | Porcentaje |
+| Característica observada | Frecuencia (n=2) | Porcentaje |
 |---|---|---|
-| Se entera del despacho por llamada, mensaje de texto o grupo de WhatsApp | 3/3 | 100% |
-| Verifica o hace verificar el material recibido contra la guía de remisión u orden de pedido | 3/3 | 100% |
-| La discrepancia se esclarece varios días después del despacho, cuando ya es difícil reconstruir lo ocurrido | 3/3 | 100% |
-| Debe sustentar el faltante ante una instancia superior (jefe de proyecto, gerencia, evaluación de desempeño) | 3/3 | 100% |
-| Menciona explícitamente marcas de proveedores o referentes/gremios del rubro como fuente de actualización | 3/3 | 100% |
-| Usa como respaldo un registro paralelo (cuaderno físico u hoja de cálculo) al margen de la herramienta oficial | 2/3 | 67% |
-| Declara no tener autoridad para decidir la adopción de una herramienta de control | 2/3 | 67% |
-| Nombra explícitamente los términos guía de remisión y cubicación o vale de salida | 2/3 | 67% |
-| Usa dispositivo personal por no contar con equipo asignado por la empresa | 1/3 | 33% |
+| Verifica físicamente los materiales que llegan a obra antes de registrar o aceptar la recepción | 2/2 | 100% |
+| Ha experimentado diferencias entre los materiales esperados y los realmente recibidos | 2/2 | 100% |
+| Una diferencia en la recepción puede afectar el desarrollo normal de las actividades de obra | 2/2 | 100% |
+| Utiliza herramientas digitales para apoyar el control de materiales y recepciones | 2/2 | 100% |
+| Menciona proveedores o marcas del sector como parte de su actividad cotidiana | 2/2 | 100% |
+| Utiliza terminología propia del dominio relacionada con recepción, merma o control de materiales | 2/2 | 100% |
+| Considera una merma o tolerancia al evaluar determinados materiales recibidos | 2/2 | 100% |
+| Utiliza registros físicos como respaldo cuando las condiciones de conectividad dificultan el registro digital | 1/2 | 50% |
+| Ha tenido que rechazar completamente un despacho por diferencias en cantidades o características del material | 1/2 | 50% |
 
-**Objetivos.** Los tres entrevistados vinculan su objetivo profesional a evitar que un faltante ajeno a su gestión directa afecte su evaluación o su prestigio frente a la empresa: Owen busca ascender sin que un incidente de este tipo lo perjudique, Renzo busca consolidar su reputación como director cumpliendo el plazo y el presupuesto, y Fiorella busca acumular la experiencia necesaria para asumir una residencia propia sin que reclamos que no ocasionó salpiquen su desempeño. Este hallazgo confirma el objetivo de "poder sustentar ante la gerencia cualquier diferencia entre lo presupuestado y lo consumido" que ya figuraba en la ficha preliminar de la sección 2.3.1.
+**Objetivos.** Los dos entrevistados relacionan sus objetivos laborales con asegurar que los materiales necesarios lleguen correctamente y permitan continuar con las actividades programadas en obra. Owen busca continuar adquiriendo experiencia y ascender profesionalmente, evitando que problemas relacionados con los materiales afecten el avance de la obra y su desempeño como residente. Jennifer busca garantizar que los materiales lleguen en las condiciones y cantidades adecuadas para alcanzar las metas diarias del proyecto, además de proponer mejoras que agilicen los procesos actuales. En ambos casos se identifica como objetivo común mantener la continuidad de la obra mediante un control adecuado de los materiales recibidos.
 
-**Frustraciones.** La frustración más consistente entre los tres es la imposibilidad de reconstruir con certeza lo ocurrido con un despacho cuando la discrepancia se detecta después de la recepción: a Owen le corresponde reconstruir a partir de llamadas y capturas de pantalla, a Renzo le tomó casi una semana sin llegar a una conclusión definitiva, y a Fiorella un día completo por falta de una fuente única de verdad sobre el pedido original. La segunda frustración compartida es la exposición a que la responsabilidad recaiga sobre quien recibe el material en obra, incluso cuando el origen de la diferencia escapa a su control. Ninguno de los tres reportó insatisfacción con el desempeño técnico de sus proveedores o transportistas, lo que sugiere que la frustración se concentra en la falta de visibilidad del proceso y no en el desempeño de terceros.
+**Frustraciones.** La principal frustración identificada en ambos entrevistados se relaciona con el tiempo y esfuerzo necesarios para verificar que los materiales recibidos correspondan realmente con lo esperado. Owen relató un caso en el que un pedido de fierro corrugado llegó incompleto, generando la suspensión de un vaciado y un retraso de dos días, además de señalar la dificultad de reconstruir posteriormente lo ocurrido utilizando llamadas y capturas de pantalla. Jennifer indicó que el conteo unitario y la verificación de calidad de grandes cantidades de materiales representan una de las actividades que mayor tiempo le demandan, y relató un caso en el que tuvo que rechazar un camión completo de cerámicos porque los colores y cantidades no coincidían con lo solicitado. En ambos casos, las diferencias en la recepción generan consecuencias operativas y requieren realizar verificaciones adicionales antes de continuar con las actividades de obra.
 
-**Personalidad, herramientas y entorno organizacional.** El nivel de autonomía frente al problema varía con la jerarquía: Renzo, como director, ejerce control sobre el presupuesto pero reconoce que la decisión sobre herramientas corresponde a la oficina técnica central; Fiorella, en un rol más junior, depende del maestro de obra para calificar una diferencia y usa un dispositivo personal en lugar de uno corporativo. Los tres coinciden en el uso de aplicaciones de mensajería instantánea como canal principal de coordinación diaria y en la referencia a software de presupuesto y hojas de cálculo como la herramienta digital de uso más extendido, quedando el seguimiento del material que ingresa a obra fuera de esa herramienta, tal como anticipaba la sección 2.2.1. La terminología reportada —guía de remisión, cubicación, vale de salida, la guía, el sellado— es consistente entre sí y confirma el vocabulario ya utilizado en las fichas de la sección 2.3.1 y en el cuadro de tareas de la sección 2.3.2.
+**Personalidad, herramientas y entorno organizacional.** Las condiciones tecnológicas varían entre ambos entrevistados. Owen trabaja en un frente de obra donde la conexión a internet puede ser intermitente, por lo que utiliza temporalmente un cuaderno físico y posteriormente traslada la información a una hoja de cálculo. Además, WhatsApp constituye uno de sus principales canales para conocer y coordinar los despachos. Jennifer trabaja con una conexión estable y utiliza un sistema corporativo de inventario para apoyar el control de materiales, aunque la revisión física continúa siendo necesaria. Ambos muestran una actitud orientada al control y a la verificación de la información antes de aceptar una recepción. La terminología reportada incluye expresiones como guía de remisión, merma, Kárdex y conformidad de recepción, términos relacionados directamente con los procesos de control de materiales en obra.
 
 #### Análisis del Segmento 2: Empresas de Logística, Transporte y Almacenes Satélite
 
-**Datos demográficos y ocupacionales.** Las tres personas entrevistadas —Jorge Panduro Vela (47 años, jefe de almacén central), Rosa Elvira Ninanya Quispe (34 años, despachadora y operadora de báscula) y Walter Cconislla Mamani (52 años, transportista de carga pesada)— tienen una edad promedio de 44 años, dentro del rango de 25 a 60 años estimado en la sección 1.3 y desplazado hacia su mitad superior, coherente con tratarse de un rubro con alta antigüedad en el oficio. Residen en zonas periféricas e industriales de Lima Metropolitana (Ate, San Juan de Lurigancho y Puente Piedra), tal como anticipa la caracterización de ubicación de la sección 1.3. El 100% declara estado civil con carga familiar (casados o convivientes, con entre uno y cuatro hijos), lo que refuerza la lectura de que un descuento o una imputación de responsabilidad injustificada representa para ellos un riesgo económico directo sobre el sostenimiento del hogar.
+**Datos demográficos y ocupacionales.** Las dos personas entrevistadas —Angel Giuseppe Barrera Romero (40 años, jefe de almacén central) y Miguel Pomasonco (53 años, coordinador de despacho y transporte de materiales)— tienen una edad promedio de 46.5 años. Ángel reside en Ate y Miguel en La Victoria. Ambos participan directamente en la preparación, organización y seguimiento de una cantidad importante de despachos destinados a diferentes obras. Ángel coordina aproximadamente cuatro obras y entre veinte y treinta despachos por semana, mientras que Miguel gestiona normalmente entre tres y cinco obras activas y entre quince y veinticinco despachos semanales. Esto evidencia que ambos necesitan controlar simultáneamente información correspondiente a múltiples pedidos, vehículos y destinos.
 
-**Frecuencia de hallazgos comunes.** Los porcentajes se calculan sobre la muestra de tres entrevistas del segmento (n=3), conforme al criterio de sustento estadístico indicado en el enunciado del proyecto.
+**Frecuencia de hallazgos comunes.** Los porcentajes se calculan sobre la muestra de dos entrevistas reales del segmento (n=2).
 
-| Característica observada | Frecuencia (n=3) | Porcentaje |
+| Característica observada | Frecuencia (n=2) | Porcentaje |
 |---|---|---|
-| El pesaje en báscula o la guía de remisión constituye el principal respaldo documental de lo despachado | 3/3 | 100% |
-| La responsabilidad ante un faltante recae sobre él sin que exista evidencia que la desvirtúe con facilidad | 3/3 | 100% |
-| Reporta pérdida de visibilidad o de cobertura durante el tránsito entre el almacén y la obra | 3/3 | 100% |
-| Nombra marcas de vehículos/equipos o referentes del rubro (colegas, gremios) como fuente de orientación | 3/3 | 100% |
-| Usa un registro paralelo en papel como respaldo ante fallas del sistema o falta de cobertura | 2/3 | 67% |
-| La comunicación con obra o con el conductor se da predominantemente por llamada de voz | 2/3 | 67% |
-| Declara no tener autoridad para decidir la adopción de una herramienta de control | 2/3 | 67% |
-| Manifiesta desconfianza explícita hacia una herramienta nueva que le añada trabajo sin resolverle el problema | 2/3 | 67% |
+| Utiliza diferentes herramientas y canales para gestionar la información de un mismo despacho | 2/2 | 100% |
+| Considera complejo controlar pedidos divididos entre varios vehículos o viajes | 2/2 | 100% |
+| Pierde parte de la visibilidad del despacho después de que la unidad sale del almacén | 2/2 | 100% |
+| Debe revisar varias fuentes de información cuando existe una diferencia entre lo despachado y lo recibido | 2/2 | 100% |
+| Considera importante mantener evidencia de las distintas etapas del despacho | 2/2 | 100% |
+| Considera necesario centralizar la información relacionada con cada despacho | 2/2 | 100% |
+| Utiliza Excel como parte de las herramientas actuales de control | 2/2 | 100% |
+| Utiliza llamadas o mensajería instantánea para complementar la coordinación y seguimiento | 2/2 | 100% |
+| Considera importante que una nueva herramienta sea sencilla y no vuelva más lento el proceso operativo | 2/2 | 100% |
 
-**Objetivos.** Los tres entrevistados orientan su objetivo a evitar ser señalados como responsables de un faltante que no ocasionaron: Jorge busca no tener que dar explicaciones a la gerencia ni a los clientes, Rosa busca que el almacén reconozca su trabajo mediante un registro que la respalde, y Walter busca terminar cada ruta sin descuentos en su liquidación por diferencias ajenas a su gestión. Este hallazgo confirma y precisa el objetivo "contar con respaldo verificable de lo efectivamente despachado" ya consignado en la ficha preliminar de la sección 2.3.1.
+**Objetivos.** Los dos entrevistados orientan sus objetivos hacia mantener un proceso de despacho organizado, reducir errores y conservar control sobre los materiales enviados a las distintas obras. Ángel busca organizar los despachos de manera rápida y ordenada, reducir retrasos, centralizar la información y contar con evidencia clara de cada etapa del proceso. Miguel busca mantener control sobre varios despachos y obras simultáneamente, verificando correctamente el stock, la preparación del material, la asignación del transporte, el pesaje, los documentos y la autorización de salida. En ambos casos se identifica como objetivo común aumentar el control y la trazabilidad de los despachos sin generar pasos adicionales que hagan más lenta la operación.
 
-**Frustraciones.** La frustración compartida por los tres es la asimetría entre la rapidez con la que se les imputa una responsabilidad y la dificultad para demostrar, con evidencia verificable, que su parte del proceso se ejecutó conforme. Jorge describe esta disputa entre el almacén y el transportista sin que quede claro quién debe asumirla; Rosa relata haber cargado con la responsabilidad de un faltante que correspondía a otro turno; Walter relata un descuento en su liquidación por no poder demostrar, al momento del reclamo, que la unidad había salido completa. Los tres identifican el tramo de tránsito interurbano como el punto de mayor fragilidad de la trazabilidad, en línea con lo señalado en la descripción del segmento en la sección 1.3.
+**Frustraciones.** La frustración más consistente entre los dos entrevistados es la dispersión de la información relacionada con un mismo despacho. Ángel utiliza guías de remisión, Excel, WhatsApp, llamadas y documentación física, mientras que Miguel menciona el sistema interno, Excel, WhatsApp, correos electrónicos y documentos físicos. Cuando aparece una diferencia entre lo despachado y lo recibido, ambos deben revisar distintas fuentes, fotografías, documentos y conversaciones para determinar qué ocurrió. Asimismo, los dos identifican dificultades cuando un pedido debe dividirse entre varios viajes o vehículos, ya que posteriormente es necesario comprobar que la suma de las diferentes entregas coincida con lo solicitado inicialmente. Otro problema compartido es la pérdida de visibilidad durante el traslado, debido a que después de la salida del almacén no siempre existe un mecanismo uniforme para conocer el estado del vehículo o detectar oportunamente un retraso.
 
-**Personalidad, herramientas y entorno organizacional.** Se observa una gradiente de autoridad asociada a la jerarquía: Jorge, como jefe de almacén, ha rechazado en el pasado propuestas de sistemas que no se ajustaban al proceso real de su operación, mientras que Rosa y Walter no tienen ninguna injerencia sobre qué herramienta se adopta, decisión que en el caso de Walter corresponde al dueño de la empresa de transporte. Los tres muestran una actitud práctica y cauta frente a la tecnología, con preferencia por el respaldo físico o verbal (papel, ticket, llamada) por sobre un sistema digital en el que no confían plenamente, y con predominio del canal de voz sobre el texto en la comunicación operativa, tal como anticipaba la sección 1.3. La terminología reportada —guía de remisión, vale de báscula, parte de despacho, visto bueno del residente, la guía— es consistente entre sí y con la terminología recogida en el Segmento 1, lo que sugiere un vocabulario compartido entre ambos extremos de la cadena de suministro en torno al documento de despacho.
+**Personalidad, herramientas y entorno organizacional.** Ambos entrevistados muestran una orientación práctica hacia la tecnología y consideran que una nueva herramienta debe facilitar el trabajo existente en lugar de añadir pasos innecesarios. Ángel coordina despachos mediante una combinación de documentación física, Excel, WhatsApp y llamadas, mientras que Miguel complementa estas herramientas con el sistema interno y correos electrónicos. En ambos casos existe interés por contar con una fuente centralizada de información que permita conocer qué ocurrió durante cada etapa del despacho y consultar posteriormente las evidencias asociadas. Asimismo, ambos consideran importante que la herramienta pueda utilizarse en condiciones de conectividad limitada y mantenga una operación rápida y sencilla. La terminología utilizada se relaciona con conceptos como guía de remisión, stock, pesaje, despacho, transporte y autorización de salida, términos que forman parte del proceso cotidiano de preparación y envío de materiales.
 
 #### Síntesis entre segmentos
 
-El hallazgo más relevante para el diseño de la solución es que ambos segmentos identifican el mismo punto de quiebre —el tramo entre la salida del almacén y la recepción en obra— como el origen de la pérdida de trazabilidad, pero lo experimentan desde posiciones opuestas: el Segmento 1 necesita demostrar que lo recibido correspondía a lo pedido, mientras que el Segmento 2 necesita demostrar que lo despachado salió completo. Ninguno de los dos dispone hoy de un registro compartido y verificable de ese tramo, y ambos recurren a las mismas herramientas de contingencia —llamadas telefónicas, mensajería instantánea y anotaciones en papel— para compensar esa ausencia. Esta convergencia sustenta directamente la propuesta de valor de Vigía y confirma, con la evidencia recogida en esta sección, las fichas preliminares de User Persona de la sección 2.3.1 y las tareas críticas identificadas en el User Task Matrix de la sección 2.3.2.
+El hallazgo más relevante para el diseño de la solución es que ambos segmentos participan en extremos distintos de un mismo proceso y encuentran dificultades para mantener continuidad sobre la información generada entre la salida del almacén y la recepción en obra. El Segmento 1 necesita comprobar que los materiales recibidos correspondan con lo esperado y evitar que las diferencias afecten el avance de las actividades de construcción. El Segmento 2 necesita mantener control sobre lo preparado y despachado, conocer qué ocurre durante el traslado y disponer de evidencia que permita aclarar posteriormente cualquier diferencia.
+
+En ambos segmentos se observa que la información necesaria para reconstruir un despacho puede encontrarse distribuida entre sistemas internos, hojas de cálculo, guías de remisión, llamadas, mensajes, fotografías y registros físicos. Cuando ocurre una diferencia, los usuarios deben reunir nuevamente estas fuentes para determinar qué sucedió. Esta coincidencia sustenta directamente la propuesta de valor de Vigía, orientada a mantener la trazabilidad de los materiales durante el proceso de despacho, transporte y recepción, y proporciona información para revisar y validar posteriormente los User Personas de la sección 2.3.1 y las tareas críticas identificadas en el User Task Matrix de la sección 2.3.2.
+
 
 <!-- Fuente: report/chapters/chapter-2-requirements-elicitation-analysis/2.3-needfinding.md -->
 
@@ -931,6 +936,7 @@ La sección se organiza en cuatro partes. En primer lugar, se presentan las fich
 
 Los artefactos de esta sección se elaboran en UXPressia, herramienta indicada para el proyecto, y se incorporan al informe mediante capturas de imagen acompañadas de su explicación y análisis correspondiente.
 
+
 <!-- Fuente: report/chapters/chapter-2-requirements-elicitation-analysis/2.3.1-user-personas.md -->
 
 #### 2.3.1. User Personas
@@ -941,7 +947,7 @@ Del análisis de la competencia se retoma, en particular, la constatación de qu
 
 > **Nota sobre el estado de esta sección.** Los arquetipos que se presentan a continuación fueron elaborados a partir de la investigación documental de los segmentos objetivo y del análisis de la competencia, y han sido contrastados con el análisis preliminar de entrevistas de la sección 2.2.3. Dado que, conforme a lo señalado en la sección 2.2.2, la mayor parte de las entrevistas consignadas son entradas ilustrativas pendientes de grabación, las fichas siguientes conservan carácter preliminar. Los elementos marcados como confirmados coinciden con los patrones observados en al menos dos de las tres entrevistas de su segmento; el resto será validado, corregido o descartado con la muestra real antes de la entrega final del informe.
 
-##### User Persona del Segmento 1: Empresas Constructoras e Inmobiliarias
+##### User Persona del Segmento 1: Representantes de Empresas Constructoras e Inmobiliarias
 
 Este arquetipo representa al profesional responsable de la gestión técnica de la obra, encargado de la cubicación de planos, el pedido de materiales y la recepción física en el frente de trabajo. Su perfil consolida rasgos observados en las tres entrevistas del segmento (sección 2.2.3): la responsabilidad de sustentar diferencias ante una instancia superior, la dificultad para reconstruir lo ocurrido con un despacho cuando la discrepancia se detecta tarde, y la exposición a asumir faltantes ajenos a su gestión directa.
 
@@ -963,11 +969,14 @@ Este arquetipo representa al profesional responsable de la gestión técnica de 
 | **Canales digitales de interacción** | Aplicaciones de mensajería instantánea para la coordinación diaria ; correo electrónico corporativo para comunicaciones formales; llamadas telefónicas ante urgencias. |
 | **Condiciones de conectividad** | Intermitente en el frente de obra, con zonas de cobertura limitada o nula. |
 | **Terminología frecuente** | Guía de remisión, cubicación, vale de salida, merma, faltante. |
-![Carlos Mendoza.png](../../assets/chapther-2/user-persona/Carlos%20Mendoza.png)
+
+**Figura 3**
+
+![Carlos Mendoza..png](../../assets/chapther-2/user-persona/Carlos%20Mendoza..png)
 
 **Párrafo descriptivo para UXPressia.** Carlos Mendoza es un ingeniero civil residente de obra de 38 años, casado y con dos hijos, que reside en Los Olivos y se desplaza a diario a los dos frentes de obra que dirige para una constructora mediana. Con doce años de trayectoria en el sector, cinco de ellos como residente, es metódico y orientado al cumplimiento del cronograma, y prefiere resolver los problemas en el momento antes que escalarlos. Su objetivo central es cumplir el cronograma sin paralizaciones por falta de material y mantener el consumo dentro de lo presupuestado, de modo que pueda sustentar ante la gerencia cualquier diferencia que se presente. Lo que más lo frustra es enterarse de un faltante cuando la cuadrilla ya está detenida, no poder determinar en qué punto de la cadena se originó la diferencia y perder horas en llamadas y mensajes tratando de reconstruir lo ocurrido con un despacho, sabiendo que puede terminar asumiendo una responsabilidad que no le corresponde. Coordina su día a día por aplicaciones de mensajería instantánea, con conectividad intermitente en el frente de obra, y desconfía de cualquier herramienta que le agregue trabajo administrativo sin resolverle un problema concreto.
 
-##### User Persona del Segmento 2: Empresas de Logística, Transporte y Almacenes Satélite
+##### User Persona del Segmento 2: Representantes de Empresas de Logística, Transporte y Almacenes Satélite
 
 Este arquetipo representa al responsable de la custodia y el despacho de los materiales en el almacén central, encargado de la conformación de la carga, el pesaje y la coordinación con los transportistas. Su perfil consolida rasgos observados en las tres entrevistas del segmento (sección 2.2.3): el uso del pesaje y la guía de remisión como principal respaldo documental, la exposición a que se le impute un faltante sin evidencia que lo desvirtúe con facilidad, y la pérdida de visibilidad durante el tránsito entre el almacén y la obra.
 
@@ -990,10 +999,13 @@ Este arquetipo representa al responsable de la custodia y el despacho de los mat
 | **Condiciones de conectividad** | Estable en el almacén; variable durante el seguimiento de unidades en ruta.                                                                                                                                                                                                                                                       |
 | **Terminología frecuente** | Guía de remisión, vale de báscula, parte de despacho, visto bueno del residente.                                                                                                                                                                                                                                                  |
 
-![Miguel Rojas.png](../../assets/chapther-2/user-persona/Miguel%20Rojas.png)
+**Figura 4**
+
+![Miguel Rojas (1).png](../../assets/chapther-2/user-persona/Miguel%20Rojas%20%281%29.png)
 
 
 **Párrafo descriptivo para UXPressia.** Miguel Rojas es un jefe de almacén central de 45 años, conviviente y con tres hijos, que reside en Ate y con dieciocho años de experiencia en el sector, incluida trayectoria previa como despachador y operador de báscula. Es práctico y directo, valora los procedimientos claros y la constancia por escrito de lo actuado, y es cauto ante los cambios de sistema debido a experiencias previas de implementaciones que no prosperaron. Su objetivo es despachar completo y a tiempo lo solicitado por cada obra, contando con un respaldo verificable de lo efectivamente despachado que lo proteja de que se le impute una responsabilidad por faltantes originados fuera de su almacén. Lo que más lo frustra es recibir un reclamo días después del despacho, cuando ya es imposible reconstruir lo ocurrido, y depender de la guía de remisión en papel como único respaldo frente a ese reclamo. Se comunica principalmente por llamadas telefónicas y mensajería instantánea, con predominio del uso por voz, y su conectividad es estable en el almacén pero se vuelve variable en cuanto pierde de vista a la unidad que sale a ruta.
+
 
 <!-- Fuente: report/chapters/chapter-2-requirements-elicitation-analysis/2.3.2-user-task-matrix.md -->
 
@@ -1046,6 +1058,7 @@ La principal diferencia radica en el foco de cada arquetipo. Las tareas exclusiv
 
 Dado que estos hallazgos provienen en su mayoría de entrevistas ilustrativas (sección 2.2.2), esta confirmación debe entenderse como preliminar y será recalculada con la muestra real antes de la entrega final del informe.
 
+
 <!-- Fuente: report/chapters/chapter-2-requirements-elicitation-analysis/2.3.3-user-journey-mapping.md -->
 
 #### 2.3.3. User Journey Mapping
@@ -1072,6 +1085,8 @@ Cada User Journey Map se encuentra vinculado al User Persona correspondiente, cu
 | Gestión de la discrepancia | Comunica el faltante; intenta reconstruir lo ocurrido; coordina la reposición | Llamadas telefónicas, mensajería instantánea, correo electrónico | Frustración; percibe que asumirá una responsabilidad que no le corresponde | La reconstrucción depende de la memoria y de la versión de cada parte |
 | Cierre y conciliación | Consolida los registros del día; concilia el consumo contra lo presupuestado | Hoja de cálculo, software de presupuesto | Preocupación por sustentar las diferencias ante la gerencia | La información se encuentra dispersa entre documentos físicos y conversaciones |
 
+**Figura 5**
+
 ![User Journey Map_ Carlos Mendoza, ingeniero civil residente de obra.png](../../assets/chapther-2/user-journey-map/User%20Journey%20Map_%20Carlos%20Mendoza%2C%20ingeniero%20civil%20residente%20de%20obra.png)
 
 ##### User Journey Map: Miguel Rojas, jefe de almacén central
@@ -1088,7 +1103,10 @@ Cada User Journey Map se encuentra vinculado al User Persona correspondiente, cu
 | Tránsito | Consulta ocasionalmente al conductor sobre su avance | Llamadas telefónicas | Incertidumbre ante retrasos no informados | No dispone de información sobre el estado de la unidad ni de la carga |
 | Confirmación o reclamo | Recibe la confirmación de recepción o el reclamo por un faltante | Llamadas telefónicas, mensajería instantánea | Molestia cuando el reclamo llega días después del despacho | La reconstrucción de lo ocurrido depende de documentos físicos y de la memoria de los involucrados |
 
+**Figura 6**
+
 ![User Journey Map_ Miguel Rojas, jefe de almacén central.png](../../assets/chapther-2/user-journey-map/User%20Journey%20Map_%20Miguel%20Rojas%2C%20jefe%20de%20almac%C3%A9n%20central.png)
+
 
 <!-- Fuente: report/chapters/chapter-2-requirements-elicitation-analysis/2.3.4-empathy-mapping.md -->
 
@@ -1102,11 +1120,16 @@ El proceso de elaboración se inició con la preparación de la sesión colabora
 
 ##### Empathy Map: Carlos Mendoza, ingeniero civil residente de obra
 
+**Figura 7**
+
 ![Empathy map_Carlos.png](../../assets/chapther-2/empathy-mapping/Empathy%20map_Carlos.png)
 
 ##### Empathy Map: Miguel Rojas, jefe de almacén central
 
+**Figura 8**
+
 ![Empathy map_Miguell.png](../../assets/chapther-2/empathy-mapping/Empathy%20map_Miguell.png)
+
 
 <!-- Fuente: report/chapters/chapter-2-requirements-elicitation-analysis/2.4-big-picture-eventstorming.md -->
 
@@ -1150,18 +1173,19 @@ Los eventos del recorrido principal se ubican sobre una misma línea horizontal.
 
 El segundo tramo recorre desde la asignación de la unidad y el transportista hasta el cierre del caso de discrepancia, y abarca las agrupaciones de Trazabilidad en Tránsito, Recepción y Verificación en Obra, y Gestión de Discrepancias y Evidencia. En él se observa que la totalidad de los eventos del tramo de tránsito —posición reportada, desvío de ruta notificado, detención prolongada detectada, señal del dispositivo perdida y recuperada, y telemetría acumulada incorporada al recorrido— proviene del dispositivo a bordo. Tras la verificación del material, la línea se bifurca entre "Conformidad registrada", que conduce a "Despacho cerrado", y "Discrepancia reportada", que abre la última agrupación hasta "Caso cerrado".
 
-**Figura n**
+**Figura 9**
 
 *Primer Tramo de Línea de tiempo del Big Picture EventStorming de Vigía*
 
 ![IMAGEN 1 — primer tramo de la línea de tiempo](../../assets/chapther-2/big-event-storming/big-picture-tramo-1.png)
 
-**Figura n**
+**Figura 10**
 *Segundo Tramo de Línea de tiempo del Big Picture EventStorming de Vigía*
 
 ![IMAGEN 2 — segundo tramo de la línea de tiempo](../../assets/chapther-2/big-event-storming/big-picture-tramo-2.png)
 
-*Nota.* Tablero elaborado de forma colaborativa por el equipo de Trazza Labs en la herramienta Miro, durante la sesión de Big Picture EventStorming descrita en esta sección. La línea de tiempo se presenta en dos tramos por razones de legibilidad y corresponde a un único tablero continuo. El tablero en su resolución original, con la totalidad de los eventos y sus agrupaciones, puede consultarse en el siguiente enlace: [Big-Picture-Event-Storming](https://miro.com/app/board/uXjVHmvI2_I=/?share_link_id=10349296586).
+*Nota.* Tablero elaborado de forma colaborativa por el equipo de Trazza Labs en la herramienta Miro, durante la sesión de Big Picture EventStorming descrita en esta sección. La línea de tiempo se presenta en dos tramos por razones de legibilidad y corresponde a un único tablero continuo. El tablero en su resolución original, con la totalidad de los eventos y sus agrupaciones, puede consultarse en el siguiente enlace: [Big-Picture-Event-Storming](https://da.gd/hqzGI).
+
 
 <!-- Fuente: report/chapters/chapter-2-requirements-elicitation-analysis/2.5-ubiquitous-language.md -->
 
@@ -1206,8 +1230,6 @@ El glosario incluye únicamente términos del dominio de negocio de la cadena de
 <!-- Este glosario se ampliará conforme el equipo profundice en el Design-Level EventStorming de la sección 4.6.1 e identifique nuevos términos del dominio. -->
 
 
----
-
 <!-- Fuente: report/chapters/chapter-3-requirements-specification/3-capitulo-iii-requirements-specification.md -->
 
 ## Capítulo III: Requirements Specification
@@ -1216,57 +1238,59 @@ En este capítulo el equipo realiza la especificación de los requisitos de los 
 
 El capítulo se organiza en tres secciones internas. En primer lugar, User Stories presenta el conjunto de Epics, User Stories, Technical Stories y Landing Page Stories que traducen los hallazgos de la investigación en requisitos verificables, con sus respectivos criterios de aceptación. En segundo lugar, Impact Mapping vincula estos requisitos con los objetivos de negocio de Trazza Labs y con los User Persona identificados. Finalmente, Product Backlog organiza y prioriza el conjunto de Epics y User Stories para su desarrollo.
 
+
 <!-- Fuente: report/chapters/chapter-3-requirements-specification/3.1-user-stories.md -->
 
 #### 3.1. User Stories
 
 En esta sección se presenta el conjunto de Epics, User Stories, Technical Stories y Landing Page Stories identificados para Vigía. Las Epics se definieron a partir de los ocho Bounded Context candidatos identificados en el Big Picture EventStorming de la sección 2.4, actualizado tras la sesión de Design-Level EventStorming de la sección 4.6.1: Captación, Gestión de Cuentas y Accesos, Suscripciones y Pagos, Registro de Flota y Dispositivos, Gestión de Pedidos y Despacho, Trazabilidad en Tránsito, Recepción y Verificación en Obra, y Gestión de Discrepancias y Evidencia. La correspondencia entre ambos artefactos es directa: la Epic EP-06 (Landing Page) cubre el Bounded Context de Captación, y cada uno de los siete Bounded Context restantes se cubre con una Epic homónima (EP-01 a EP-05, EP-07 y EP-08).
 
-Para cada Epic se redactan las User Stories correspondientes a los roles de los User Persona identificados en la sección 2.3.1 y a los demás actores del dominio descritos en el Ubiquitous Language de la sección 2.5. Adicionalmente, se incluyen Technical Stories para los features del RESTful API que sustentan cada Epic, redactadas desde el rol Developer, y Landing Page Stories redactadas desde el rol Visitante (o el subconjunto de visitante por segmento objetivo, cuando corresponde), correspondientes al sitio web estático del modelo de negocio.
+Para cada Epic se redactan las User Stories correspondientes a los roles de los User Persona identificados en la sección 2.3.1 y a los demás actores del dominio descritos en el Ubiquitous Language de la sección 2.5. Adicionalmente, se incluyen Technical Stories para los features del RESTful API que sustentan cada Epic, redactadas desde el rol Desarrollador del frontend (quien consume el endpoint para implementar una funcionalidad en la Web Application o en el Landing Page, y no quien lo implementa en el backend), y Landing Page Stories redactadas desde el rol Visitante (o el subconjunto de visitante por segmento objetivo, cuando corresponde), correspondientes al sitio web estático del modelo de negocio.
 
 Cada User Story sigue el formato "Como [rol], deseo [acción], para [beneficio]". Los criterios de aceptación se redactan en tiempo presente, en tercera persona, sin hacer referencia a detalles de interfaz de usuario, y siguen la estructura Gherkin (Given-When-Then / Dado-Cuando-Entonces), salvo en el caso de reglas de negocio o restricciones que no dependen de una condición. En las Technical Stories, los criterios de aceptación describen los escenarios de interacción request/response del endpoint correspondiente.
 
 | Epic / Story ID | Título | Descripción | Criterios de Aceptación | Relacionado con (Epic ID) |
 |---|---|---|---|---|
-| EP-01 | Gestión de Cuentas y Accesos | Permite a la constructora registrar su organización, invitar a los miembros de su equipo, asignarles un rol y activar su suscripción, de modo que cada actor de la cadena de custodia acceda únicamente a la información y a las funciones que le corresponden. | No aplica a nivel de Epic; se detalla en las User Stories y Technical Stories relacionadas. | — |
-| US-01 | Registro de empresa y activación de suscripción | Como Administrador de la constructora, deseo registrar mi empresa y activar un plan de suscripción, para empezar a invitar a mi equipo a usar la plataforma. | Dado que el administrador completa el formulario de registro con los datos de la empresa, cuando envía la solicitud, entonces el sistema crea la empresa y muestra los planes de suscripción disponibles.<br><br>Dado que el administrador selecciona un plan de suscripción, cuando confirma el pago a través de la pasarela de pago, entonces el sistema activa la suscripción y habilita el acceso a la plataforma.<br><br>Dado que el pago es rechazado por la pasarela de pago, cuando el sistema recibe la notificación de rechazo, entonces el sistema informa al administrador y mantiene la suscripción en estado pendiente. | EP-01 |
+| EP-01 | Gestión de Cuentas y Accesos | Permite a la constructora registrar su organización con el plan de suscripción que eligió, activar su suscripción, invitar a los miembros de su equipo y asignarles un rol, de modo que cada actor de la cadena de custodia acceda únicamente a la información y a las funciones que le corresponden. | No aplica a nivel de Epic; se detalla en las User Stories y Technical Stories relacionadas. | — |
+| US-01 | Registro de empresa y activación de suscripción | Como Administrador de la constructora, deseo registrar mi empresa con el plan de suscripción que elegí y pagarlo, para activar mi suscripción y empezar a invitar a mi equipo a usar la plataforma. | Dado que el administrador llega con el plan elegido en el Landing Page (o lo elige al registrarse), cuando completa el formulario de registro con los datos de la empresa, entonces el sistema crea la empresa y muestra el plan elegido para confirmar el pago.<br><br>Dado que el administrador confirma el plan de suscripción elegido, cuando realiza el pago a través de la pasarela de pago, entonces el sistema activa la suscripción y habilita el acceso a la plataforma.<br><br>Dado que el pago es rechazado por la pasarela de pago, cuando el sistema recibe la notificación de rechazo, entonces el sistema informa al administrador y mantiene la suscripción en estado pendiente. | EP-01 |
 | US-02 | Invitación de usuarios y asignación de roles | Como Administrador de la constructora, deseo invitar a los miembros de mi equipo y asignarles un rol, para que cada uno acceda solo a las funciones que le corresponden. | Dado que el administrador registra el correo electrónico y el rol de un nuevo usuario, cuando envía la invitación, entonces el sistema notifica al invitado y registra la invitación como pendiente.<br><br>Dado que el usuario invitado acepta la invitación, cuando completa su registro, entonces el sistema le asigna el rol indicado y habilita su acceso a las funciones correspondientes.<br><br>Dado que un usuario no tiene un rol asignado, cuando intenta acceder a una función restringida, entonces el sistema deniega el acceso. | EP-01 |
-| TS-01 | Endpoint de autenticación de usuarios | Como Developer, deseo exponer un endpoint para la autenticación de usuarios, para que las aplicaciones cliente puedan iniciar sesión de forma segura. | Dado que el cliente envía credenciales válidas al endpoint de autenticación, cuando el servidor las valida, entonces el servidor responde con un código 200 y un token de sesión.<br><br>Dado que el cliente envía credenciales inválidas, cuando el servidor las valida, entonces el servidor responde con un código 401 sin emitir token.<br><br>Dado que el token de sesión ha expirado, cuando el cliente lo utiliza en una solicitud, entonces el servidor responde con un código 401 e indica que el token no es válido. | EP-01 |
+| TS-01 | Endpoint de autenticación de usuarios | Como desarrollador del frontend, necesito un endpoint de autenticación que valide las credenciales y devuelva un token de sesión, para poder implementar el inicio de sesión y restringir las pantallas según el rol del usuario. | Dado que el cliente envía credenciales válidas al endpoint de autenticación, cuando el servidor las valida, entonces el servidor responde con un código 200 y un token de sesión.<br><br>Dado que el cliente envía credenciales inválidas, cuando el servidor las valida, entonces el servidor responde con un código 401 sin emitir token.<br><br>Dado que el token de sesión ha expirado, cuando el cliente lo utiliza en una solicitud, entonces el servidor responde con un código 401 e indica que el token no es válido. | EP-01 |
 | US-15 | Inicio de sesión | Como Usuario (residente de obra, jefe de almacén, despachador o transportista), deseo iniciar sesión con mis credenciales, para acceder a las funciones que corresponden a mi rol. | Dado que el usuario ingresa un correo electrónico y una contraseña registrados, cuando envía el formulario, entonces el sistema lo autentica y lo redirige a las funciones de su rol.<br><br>Dado que el usuario ingresa credenciales incorrectas, cuando envía el formulario, entonces el sistema informa que las credenciales no son válidas sin indicar cuál de los dos datos falló.<br><br>Dado que la sesión del usuario ha expirado, cuando intenta realizar una acción dentro de la plataforma, entonces el sistema le solicita iniciar sesión nuevamente. | EP-01 |
 | EP-02 | Gestión de Pedidos y Despacho | Permite coordinar el pedido de materiales entre la obra y el almacén central, conformar la carga, registrar el pesaje en báscula y emitir la documentación que autoriza la salida del despacho. | No aplica a nivel de Epic; se detalla en las User Stories y Technical Stories relacionadas. | — |
 | US-03 | Envío de pedido de materiales | Como Residente de obra, deseo enviar un pedido de materiales al almacén central, para asegurar el abastecimiento de mi frente de obra. | Dado que el residente completa el pedido con los materiales y las cantidades requeridas, cuando lo envía, entonces el sistema registra el pedido y lo notifica al almacén central.<br><br>Dado que el pedido fue enviado, cuando el almacén lo recibe, entonces el sistema muestra al residente el estado "Pedido recibido". | EP-02 |
 | US-16 | Verificación de existencias disponibles | Como Jefe de almacén, deseo verificar las existencias disponibles al recibir un pedido, para determinar si puedo atenderlo completo o solo de forma parcial. | Dado que llega un nuevo pedido al almacén, cuando el jefe de almacén consulta las existencias de los materiales solicitados, entonces el sistema muestra la cantidad disponible de cada material.<br><br>Dado que la cantidad disponible de un material es menor a la solicitada, cuando el jefe de almacén confirma la verificación, entonces el sistema marca el pedido como "Atención parcial" e indica el material con existencia insuficiente. | EP-02 |
 | US-04 | Conformación de carga y registro de pesaje | Como Jefe de almacén, deseo registrar el pesaje y conformar la carga de un despacho, para dejar evidencia verificable de lo que efectivamente se despacha. | Dado que el jefe de almacén asigna los materiales de un pedido a una unidad de transporte, cuando confirma la asignación, entonces el sistema registra la conformación de la carga.<br><br>Dado que la unidad cargada pasa por la báscula, cuando el jefe de almacén registra el peso, entonces el sistema asocia el peso registrado con el despacho correspondiente.<br><br>Dado que el pesaje registrado no coincide con el peso estimado del pedido dentro de un margen tolerable, cuando el sistema evalúa la diferencia, entonces el sistema marca el despacho con una alerta de revisión. | EP-02 |
 | US-05 | Emisión de guía de remisión y asignación de transportista | Como Jefe de almacén, deseo emitir la guía de remisión digital y asignar el transportista, para autorizar la salida del despacho. | Dado que el despacho tiene el pesaje registrado, cuando el jefe de almacén asigna un transportista y confirma la emisión, entonces el sistema genera la guía de remisión digital y marca el despacho como autorizado.<br><br>Dado que un despacho no tiene el pesaje registrado, cuando el jefe de almacén intenta emitir la guía de remisión, entonces el sistema impide la emisión e indica el dato faltante. | EP-02 |
-| TS-02 | Endpoint de registro de pesaje | Como Developer, deseo exponer un endpoint para registrar el pesaje de un despacho, para que la aplicación cliente lo asocie de forma inmediata a la guía de remisión correspondiente. | Dado que el cliente envía el identificador del despacho y el valor del peso registrado, cuando el servidor procesa la solicitud, entonces el servidor responde con un código 201 y el recurso de pesaje creado.<br><br>Dado que el cliente envía un identificador de despacho inexistente, cuando el servidor procesa la solicitud, entonces el servidor responde con un código 404. | EP-02 |
+| TS-02 | Endpoint de registro de pesaje | Como desarrollador del frontend, necesito un endpoint para registrar el pesaje de un despacho, para poder mostrar en la pantalla de Despachos el peso asociado de forma inmediata a la guía de remisión correspondiente. | Dado que el cliente envía el identificador del despacho y el valor del peso registrado, cuando el servidor procesa la solicitud, entonces el servidor responde con un código 201 y el recurso de pesaje creado.<br><br>Dado que el cliente envía un identificador de despacho inexistente, cuando el servidor procesa la solicitud, entonces el servidor responde con un código 404. | EP-02 |
 | EP-03 | Trazabilidad en Tránsito | Permite al transportista registrar el inicio del traslado, actualizar su estado y reportar incidencias de ruta, sincronizando la información con el servidor de forma periódica en segundo plano. Conforme al hallazgo de la sección 2.4, la ubicación en tránsito se registra de forma autónoma a partir del dispositivo de seguimiento satelital vinculado a la unidad (ver EP-08); las historias de este Epic cubren el registro manual complementario del transportista (inicio de traslado, incidencias) mientras la app no dependa exclusivamente del dispositivo. | No aplica a nivel de Epic; se detalla en las User Stories y Technical Stories relacionadas. | — |
 | US-06 | Inicio de traslado | Como Transportista, deseo iniciar el traslado desde la aplicación, para que el almacén y la obra conozcan que el despacho está en camino. | Dado que el transportista tiene un despacho asignado con la guía de remisión emitida, cuando confirma el inicio del traslado, entonces el sistema registra el evento y lo notifica al almacén y a la obra de destino. | EP-03 |
 | US-07 | Registro de incidencia de ruta | Como Transportista, deseo registrar una incidencia de ruta, para dejar constancia de un desvío o una demora ocurrida durante el traslado. | Dado que el transportista está en tránsito, cuando registra una incidencia con su tipo y una descripción breve, entonces el sistema la asocia al despacho en curso y notifica a la obra de destino.<br><br>Dado que el transportista registra una incidencia, cuando confirma el registro, entonces el sistema la almacena localmente en el dispositivo hasta el siguiente ciclo de sincronización periódica. | EP-03 |
 | US-08 | Sincronización periódica de registros de tránsito | Como Transportista, deseo que mis registros se sincronicen automáticamente de forma periódica en segundo plano, para no tener que enviarlos manualmente uno por uno. | Dado que existen registros almacenados localmente en el dispositivo del transportista, cuando se cumple el intervalo de sincronización periódica, entonces el sistema sincroniza los registros pendientes con el servidor sin intervención del transportista.<br><br>Dado que un registro sincronizado hace referencia a un despacho que ya no existe, cuando el sistema intenta sincronizarlo, entonces el sistema marca el registro como no sincronizado y lo reporta como incidencia técnica. | EP-03 |
-| TS-03 | Endpoint de sincronización en lote | Como Developer, deseo exponer un endpoint para sincronizar en lote los registros de tránsito almacenados localmente, para que la aplicación cliente los envíe en cada ciclo de sincronización periódica. | Dado que el cliente envía un lote de eventos de tránsito con marca de tiempo local, cuando el servidor los procesa, entonces el servidor responde con un código 200 y el detalle de los eventos aceptados y rechazados.<br><br>Dado que el lote incluye un evento duplicado ya registrado previamente, cuando el servidor lo detecta, entonces el servidor lo descarta sin generar un registro duplicado. | EP-03 |
+| TS-03 | Endpoint de sincronización en lote | Como desarrollador del frontend, necesito un endpoint que reciba en lote los registros de tránsito almacenados localmente, para poder enviarlos en cada ciclo de sincronización periódica sin que el usuario intervenga. | Dado que el cliente envía un lote de eventos de tránsito con marca de tiempo local, cuando el servidor los procesa, entonces el servidor responde con un código 200 y el detalle de los eventos aceptados y rechazados.<br><br>Dado que el lote incluye un evento duplicado ya registrado previamente, cuando el servidor lo detecta, entonces el servidor lo descarta sin generar un registro duplicado. | EP-03 |
 | EP-04 | Recepción y Verificación en Obra | Permite al residente de obra registrar la llegada de la unidad, verificar el material recibido contra la guía de remisión digital y dar conformidad de recepción o reportar una discrepancia. | No aplica a nivel de Epic; se detalla en las User Stories y Technical Stories relacionadas. | — |
 | US-09 | Verificación del material recibido | Como Residente de obra, deseo verificar el material recibido contra la guía de remisión digital, para confirmar si el despacho llegó completo. | Dado que la unidad llega al frente de obra con un despacho autorizado, cuando el residente registra la llegada, entonces el sistema muestra el detalle de lo despachado para su verificación.<br><br>Dado que el residente cuenta lo descargado y lo compara contra la guía de remisión, cuando confirma que las cantidades coinciden, entonces el sistema registra la conformidad de recepción y cierra el despacho. | EP-04 |
 | US-10 | Reporte de discrepancia en recepción | Como Residente de obra, deseo reportar una discrepancia al momento de la recepción, para dejar constancia inmediata de un faltante o un daño detectado. | Dado que la cantidad recibida no coincide con la guía de remisión, cuando el residente registra la diferencia detectada, entonces el sistema abre un caso de discrepancia vinculado al despacho.<br><br>Dado que el residente adjunta evidencia fotográfica al reportar la discrepancia, cuando confirma el envío, entonces el sistema asocia la evidencia al caso de discrepancia abierto. | EP-04 |
-| TS-04 | Endpoint de comparación de cantidades | Como Developer, deseo exponer un endpoint que compare las cantidades despachadas con las cantidades recibidas, para que la aplicación cliente muestre la conformidad o la discrepancia de forma inmediata. | Dado que el cliente envía las cantidades recibidas para un despacho, cuando el servidor las compara con las cantidades despachadas, entonces el servidor responde con un código 200 indicando conformidad o discrepancia por cada ítem. | EP-04 |
+| TS-04 | Endpoint de comparación de cantidades | Como desarrollador del frontend, necesito un endpoint que compare las cantidades despachadas con las recibidas, para poder mostrar en la pantalla de Recepciones la conformidad o la diferencia de cada ítem de forma inmediata. | Dado que el cliente envía las cantidades recibidas para un despacho, cuando el servidor las compara con las cantidades despachadas, entonces el servidor responde con un código 200 indicando conformidad o discrepancia por cada ítem. | EP-04 |
 | US-14 | Sincronización periódica de registros de recepción | Como Residente de obra, deseo que mi registro de recepción se sincronice automáticamente de forma periódica en segundo plano, para no tener que enviarlo manualmente. | Dado que el residente registra la verificación o la conformidad de un despacho, cuando confirma el registro, entonces el sistema lo almacena localmente en el dispositivo hasta el siguiente ciclo de sincronización periódica.<br><br>Dado que existen registros de recepción almacenados localmente, cuando se cumple el intervalo de sincronización periódica, entonces el sistema sincroniza los registros pendientes con el servidor sin intervención del residente. | EP-04 |
-| TS-07 | Endpoint de sincronización de registros de recepción | Como Developer, deseo exponer un endpoint para sincronizar en lote los registros de recepción almacenados localmente, para que la aplicación cliente los envíe en cada ciclo de sincronización periódica. | Dado que el cliente envía un lote de eventos de recepción con marca de tiempo local, cuando el servidor los procesa, entonces el servidor responde con un código 200 y el detalle de los eventos aceptados y rechazados. | EP-04 |
+| TS-07 | Endpoint de sincronización de registros de recepción | Como desarrollador del frontend, necesito un endpoint que reciba en lote los registros de recepción almacenados localmente, para poder enviarlos en cada ciclo de sincronización periódica sin que el residente intervenga. | Dado que el cliente envía un lote de eventos de recepción con marca de tiempo local, cuando el servidor los procesa, entonces el servidor responde con un código 200 y el detalle de los eventos aceptados y rechazados. | EP-04 |
 | EP-05 | Gestión de Discrepancias y Evidencia | Permite consolidar la evidencia registrada por el almacén, el transporte y la obra sobre un mismo despacho, para determinar la responsabilidad ante un faltante y sustentar el caso ante la gerencia. | No aplica a nivel de Epic; se detalla en las User Stories y Technical Stories relacionadas. | — |
 | US-11 | Consulta de evidencia consolidada | Como Responsable de oficina técnica, deseo consultar la evidencia consolidada de un despacho con discrepancia, para determinar en qué punto de la cadena se originó la diferencia. | Dado que existe un caso de discrepancia abierto, cuando el responsable de oficina técnica lo consulta, entonces el sistema muestra la línea de tiempo con los registros del almacén, el transporte y la obra asociados a ese despacho. | EP-05 |
 | US-12 | Generación de reporte de sustento | Como Responsable de oficina técnica, deseo generar un reporte de sustento a partir de un caso de discrepancia, para presentarlo ante la gerencia o ante la empresa de transporte. | Dado que un caso de discrepancia tiene la evidencia consolidada, cuando el responsable de oficina técnica solicita el reporte, entonces el sistema genera un documento descargable con la línea de tiempo y la evidencia asociada.<br><br>Dado que un caso de discrepancia no tiene evidencia suficiente de alguna de las partes, cuando el sistema genera el reporte, entonces el sistema indica expresamente qué evidencia falta. | EP-05 |
 | US-13 | Cierre de caso de discrepancia | Como Responsable de oficina técnica, deseo cerrar un caso de discrepancia registrando la responsabilidad determinada, para dejar constancia del resultado y prevenir casos similares. | Dado que el responsable de oficina técnica registra la responsabilidad determinada para un caso, cuando confirma el cierre, entonces el sistema marca el caso como cerrado y lo incorpora al historial del despacho correspondiente. | EP-05 |
-| TS-05 | Endpoint de línea de tiempo consolidada | Como Developer, deseo exponer un endpoint que consolide en una sola respuesta los eventos de un despacho registrados por los tres actores de la cadena, para que la aplicación cliente construya la línea de tiempo del caso. | Dado que el cliente solicita la línea de tiempo de un despacho por su identificador, cuando el servidor procesa la solicitud, entonces el servidor responde con un código 200 y los eventos ordenados cronológicamente.<br><br>Dado que el identificador del despacho no existe, cuando el servidor procesa la solicitud, entonces el servidor responde con un código 404. | EP-05 |
-| EP-06 | Landing Page | Sitio web estático que presenta la propuesta de valor de Vigía a los visitantes de ambos segmentos objetivo, permitiéndoles conocer el producto y solicitar una demostración. | No aplica a nivel de Epic; se detalla en las Landing Page Stories y la Technical Story relacionadas. | — |
-| LP-01 | Página de inicio con la propuesta de valor | Como Visitante, deseo conocer la propuesta de valor de Vigía en la página de inicio, para entender en qué consiste la solución antes de solicitar más información. | Dado que el visitante ingresa a la página de inicio, cuando la página termina de cargar, entonces el sitio muestra la propuesta de valor, los segmentos atendidos y un llamado a la acción para solicitar una demostración. | EP-06 |
+| TS-05 | Endpoint de línea de tiempo consolidada | Como desarrollador del frontend, necesito un endpoint que consolide en una sola respuesta los eventos de un despacho registrados por los tres actores de la cadena, para poder construir la línea de tiempo del caso sin combinar varias consultas. | Dado que el cliente solicita la línea de tiempo de un despacho por su identificador, cuando el servidor procesa la solicitud, entonces el servidor responde con un código 200 y los eventos ordenados cronológicamente.<br><br>Dado que el identificador del despacho no existe, cuando el servidor procesa la solicitud, entonces el servidor responde con un código 404. | EP-05 |
+| EP-06 | Landing Page | Sitio web estático que presenta la propuesta de valor de Vigía a los visitantes de ambos segmentos objetivo, permitiéndoles conocer el producto, comparar los planes de suscripción y dejar los datos de su empresa para iniciar la suscripción. | No aplica a nivel de Epic; se detalla en las Landing Page Stories y la Technical Story relacionadas. | — |
+| LP-01 | Página de inicio con la propuesta de valor | Como Visitante, deseo conocer la propuesta de valor de Vigía en la página de inicio, para entender en qué consiste la solución antes de decidir suscribirme. | Dado que el visitante ingresa a la página de inicio, cuando la página termina de cargar, entonces el sitio muestra la propuesta de valor, los segmentos atendidos, los planes de suscripción disponibles y un llamado a la acción para elegir un plan. | EP-06 |
 | LP-02 | Sección para el segmento de empresas constructoras | Como Visitante del segmento Empresas Constructoras e Inmobiliarias, deseo ver una sección con los beneficios específicos para residentes y directores de obra, para identificar si la solución responde a mi problema de control de materiales. | Dado que el visitante navega a la sección dirigida a empresas constructoras, cuando la sección carga, entonces el sitio muestra los beneficios y casos de uso específicos para ese segmento. | EP-06 |
 | LP-03 | Sección para el segmento de logística y transporte | Como Visitante del segmento Empresas de Logística, Transporte y Almacenes Satélite, deseo ver una sección con los beneficios específicos para almacenes y transportistas, para identificar si la solución responde a mi necesidad de respaldo ante reclamos. | Dado que el visitante navega a la sección dirigida a empresas de logística y transporte, cuando la sección carga, entonces el sitio muestra los beneficios y casos de uso específicos para ese segmento. | EP-06 |
-| LP-04 | Formulario de solicitud de demostración | Como Visitante, deseo completar un formulario de contacto para solicitar una demostración, para que el equipo comercial de Trazza Labs se comunique conmigo. | Dado que el visitante completa el formulario de contacto con sus datos y su empresa, cuando lo envía, entonces el sitio confirma en pantalla que la solicitud fue recibida.<br><br>Dado que el visitante deja incompleto un campo obligatorio del formulario, cuando intenta enviarlo, entonces el sitio le indica qué campo debe completar sin enviar la solicitud. | EP-06 |
-| TS-06 | Endpoint de solicitud de demostración | Como Developer, deseo exponer un endpoint que reciba las solicitudes de demostración del Landing Page, para que el equipo comercial las gestione desde un mismo canal. | Dado que el cliente envía los datos de una solicitud de demostración con los campos obligatorios completos, cuando el servidor procesa la solicitud, entonces el servidor responde con un código 201 y registra la solicitud.<br><br>Dado que el cliente envía una solicitud sin un campo obligatorio, cuando el servidor la valida, entonces el servidor responde con un código 400 indicando el campo faltante. | EP-06 |
+| LP-04 | Formulario de contacto para suscripción | Como Visitante, deseo dejar los datos de mi empresa en un formulario de contacto, para que el equipo comercial de Trazza Labs se comunique conmigo y me ayude a iniciar mi suscripción. | Dado que el visitante completa el formulario de contacto con sus datos y su empresa, cuando lo envía, entonces el sitio confirma en pantalla que la solicitud fue recibida.<br><br>Dado que el visitante deja incompleto un campo obligatorio del formulario, cuando intenta enviarlo, entonces el sitio le indica qué campo debe completar sin enviar la solicitud. | EP-06 |
+| TS-06 | Endpoint de contacto para suscripción | Como desarrollador del frontend del Landing Page, necesito un endpoint que reciba los datos de contacto de las empresas interesadas en suscribirse, para poder conectar el formulario del sitio con el equipo comercial de Trazza Labs desde un mismo canal. | Dado que el cliente envía los datos de contacto de una empresa interesada en suscribirse con los campos obligatorios completos, cuando el servidor procesa la solicitud, entonces el servidor responde con un código 201 y registra la solicitud.<br><br>Dado que el cliente envía una solicitud sin un campo obligatorio, cuando el servidor la valida, entonces el servidor responde con un código 400 indicando el campo faltante. | EP-06 |
 | EP-07 | Suscripciones y Pagos | Permite gestionar el ciclo de vida de la suscripción de la empresa cliente, separado de la gestión de cuentas y usuarios porque depende de un sistema externo de cobro y evoluciona de forma independiente al ciclo de vida de los usuarios. | No aplica a nivel de Epic; se detalla en la User Story relacionada. | — |
 | US-17 | Gestión del ciclo de vida de la suscripción | Como Administrador de la constructora, deseo consultar el estado de mi suscripción y renovarla o regularizar un pago rechazado, para mantener el acceso de mi empresa a la plataforma sin interrupciones. | Dado que la suscripción de la empresa está próxima a vencer, cuando el administrador consulta el estado de la suscripción, entonces el sistema muestra la fecha de vencimiento y la opción de renovarla.<br><br>Dado que un cobro periódico es rechazado por la pasarela de pago, cuando el sistema recibe la notificación de rechazo, entonces el sistema marca la suscripción como "Pago pendiente" y notifica al administrador sin suspender el acceso de inmediato.<br><br>Dado que una suscripción permanece en estado "Pago pendiente" más allá del plazo de gracia definido, cuando el sistema evalúa las suscripciones vencidas, entonces el sistema suspende el acceso de la empresa hasta que se regularice el pago. | EP-07 |
 | EP-08 | Registro de Flota y Dispositivos | Permite registrar las unidades de transporte, vincular su dispositivo de seguimiento satelital y definir las geocercas del almacén y de la obra, como condición previa para que un despacho pueda registrarse y para que el tránsito se registre de forma autónoma (EP-03). | No aplica a nivel de Epic; se detalla en las User Stories y Technical Stories relacionadas. | — |
 | US-18 | Registro de unidad de transporte y vinculación de dispositivo GPS | Como Jefe de almacén, deseo registrar una unidad de transporte y vincularle su dispositivo de seguimiento satelital, para poder asignarla a un despacho con trazabilidad de ubicación. | Dado que el jefe de almacén registra los datos de una nueva unidad de transporte, cuando confirma el registro, entonces el sistema la incorpora a la flota disponible para asignación de despachos.<br><br>Dado que el jefe de almacén vincula un dispositivo de seguimiento satelital a la unidad, cuando confirma la vinculación, entonces el sistema asocia las futuras posiciones reportadas por ese dispositivo a esa unidad.<br><br>Dado que el dispositivo que se intenta vincular ya está asignado a otra unidad, cuando el jefe de almacén confirma la vinculación, entonces el sistema rechaza la vinculación e indica la unidad a la que ya pertenece. | EP-08 |
 | US-19 | Definición de geocercas de almacén y obra | Como Jefe de almacén, deseo definir la geocerca del almacén y de cada obra, para que el sistema pueda detectar automáticamente la salida y la llegada de una unidad. | Dado que el jefe de almacén dibuja el perímetro de un predio (almacén u obra) en el mapa, cuando confirma la geocerca, entonces el sistema la asocia a ese predio para su uso en la detección automática de eventos de tránsito. | EP-08 |
-| TS-08 | Endpoint de recepción de reportes del dispositivo GPS | Como Developer, deseo exponer un endpoint que reciba los reportes periódicos de posición del dispositivo de seguimiento satelital, para registrar automáticamente los eventos de tránsito sin intervención del transportista. | Dado que el dispositivo GPS de una unidad en tránsito envía un reporte de posición, cuando el servidor lo recibe, entonces el servidor registra el evento de ubicación asociado al despacho en curso y responde con un código 200.<br><br>Dado que el reporte de posición proviene de un dispositivo no vinculado a ninguna unidad activa, cuando el servidor lo recibe, entonces el servidor descarta el reporte y lo registra como evento no asociado. | EP-08 |
+| TS-08 | Endpoint de recepción de reportes del dispositivo GPS | Como desarrollador de la Web Application, necesito que el API reciba los reportes periódicos de posición del dispositivo de seguimiento satelital, para poder mostrar en las pantallas de Transporte y Envíos la ubicación de la unidad sin que el transportista registre nada. | Dado que el dispositivo GPS de una unidad en tránsito envía un reporte de posición, cuando el servidor lo recibe, entonces el servidor registra el evento de ubicación asociado al despacho en curso y responde con un código 200.<br><br>Dado que el reporte de posición proviene de un dispositivo no vinculado a ninguna unidad activa, cuando el servidor lo recibe, entonces el servidor descarta el reporte y lo registra como evento no asociado. | EP-08 |
+
 
 <!-- Fuente: report/chapters/chapter-3-requirements-specification/3.2-impact-mapping.md -->
 
@@ -1309,58 +1333,76 @@ En esta sección el equipo presenta el Impact Map elaborado para el modelo de ne
 
 A continuación se presenta la captura del Impact Map elaborado en UXPressia, donde los tres Business Goals se ubican en la primera columna, ambos User Personas se repiten como Actors bajo cada meta a la que contribuyen, y cada Impact se conecta con su Deliverable y con las User Stories correspondientes.
 
+**Figura 11**
+
 ![Impact map.png](../../assets/chapther-3/Impact-mapping/Impact%20map.png)
+
 
 <!-- Fuente: report/chapters/chapter-3-requirements-specification/3.3-product-backlog.md -->
 
 #### 3.3. Product Backlog
 
-En esta sección se presenta el Product Backlog de Vigía, que consolida el conjunto de User Stories, Technical Stories y Landing Page Stories de la sección 3.1, ordenadas según el valor que cada una aporta al negocio y no según el orden técnico en que podrían implementarse. Por esa razón, las Epics de acceso y cuentas (EP-01) no encabezan el backlog: se ubican únicamente los elementos mínimos necesarios para habilitar el registro de la empresa piloto y el inicio de sesión, intercalados en el punto en que efectivamente desbloquean valor para el usuario. En cambio, las Landing Page Stories se consideran desde el primer sprint, conforme a lo indicado en el enunciado, dado que generan valor comercial inmediato sin depender de ninguna otra funcionalidad.
+En esta sección se presenta el Product Backlog de Vigía, que consolida el conjunto de User Stories, Technical Stories y Landing Page Stories de la sección 3.1, ordenadas según el valor que cada una aporta al negocio y asignadas al Sprint en que se implementan. La asignación parte de la primera versión de cada producto: el Sprint 1 entrega únicamente el Landing Page, y el Sprint 2 entrega la primera versión de la Web Application, limitada al acceso y a la suscripción de la empresa. Las funcionalidades del dominio (pedido, despacho, tránsito, recepción y discrepancias) no se adelantan a esa primera versión; se incorporan en los Sprints siguientes.
 
-El orden refleja tres bloques de valor: (1) el Landing Page, que permite a Trazza Labs captar los primeros interesados desde el día uno; (2) el flujo núcleo de trazabilidad (pedido, despacho, tránsito y recepción), que constituye la propuesta de valor central de Vigía; y (3) la gestión de discrepancias y evidencia, que es el diferencial competitivo declarado en el Problem Statement de la sección 1.2.2.1. Las historias de robustez (verificación de existencias, incidencias de ruta y sincronización periódica en segundo plano) se ubican al final, dado que refuerzan el producto pero no son indispensables para validar la propuesta de valor con la empresa piloto.
+El orden refleja tres bloques de valor: (1) el Landing Page, que presenta la propuesta de valor y los planes de suscripción y capta desde el primer día a las empresas interesadas en suscribirse; (2) el flujo núcleo de trazabilidad (pedido, despacho, tránsito y recepción), que constituye la propuesta de valor central de Vigía; y (3) la gestión de discrepancias y evidencia, que es el diferencial competitivo declarado en el Problem Statement de la sección 1.2.2.1. Las historias de robustez (incidencias de ruta y sincronización periódica en segundo plano) se ubican al final, dado que refuerzan el producto pero no son indispensables para validar la propuesta de valor con la empresa piloto.
 
-Tras la actualización del modelo de dominio en el Design-Level EventStorming de la sección 4.6.1, se incorporan al backlog las historias de las Epics EP-07 (Suscripciones y Pagos) y EP-08 (Registro de Flota y Dispositivos): US-17 se ubica junto a US-01, por tratarse de la continuación natural de la activación de la suscripción; y US-18, US-19 y TS-08 se ubican como prerrequisito de US-05, dado que un despacho no puede asignarse a una unidad de transporte que no esté registrada y vinculada a su dispositivo de seguimiento satelital.
+Las historias de las Epics EP-07 (Suscripciones y Pagos) y EP-08 (Registro de Flota y Dispositivos) se ubican según su dependencia: US-17 acompaña a US-01 en el Sprint 2, por tratarse de la continuación natural de la activación de la suscripción; y US-18 y US-19 se ubican antes de US-04 y US-05, dado que un despacho no puede asignarse a una unidad de transporte que no esté registrada y vinculada a su dispositivo de seguimiento satelital. TS-08 se ubica en el Sprint 4, junto con las historias de tránsito que dependen de los reportes del dispositivo. TS-06 se ubica en el Sprint 2, porque requiere que exista el RESTful API para que el formulario del Landing Page deje de validar solo en el navegador.
 
-La estimación se expresa en Story Points, bajo la escala de Fibonacci (1 / 2 / 3 / 5 / 8), asignada por el equipo según la complejidad relativa percibida para cada historia.
+Las Technical Stories se redactan desde el rol de desarrollador del frontend, que es quien necesita que el RESTful API exponga una capacidad para poder implementar su pantalla.
 
-| # (Orden) | User Story Id | Título | Descripción | Story Points |
-|---|---|---|---|---|
-| 1 | LP-01 | Página de inicio con la propuesta de valor | Como Visitante, deseo conocer la propuesta de valor de Vigía en la página de inicio, para entender en qué consiste la solución antes de solicitar más información. | 2 |
-| 2 | LP-02 | Sección para el segmento de empresas constructoras | Como Visitante del segmento Empresas Constructoras e Inmobiliarias, deseo ver una sección con los beneficios específicos para residentes y directores de obra, para identificar si la solución responde a mi problema de control de materiales. | 2 |
-| 3 | LP-03 | Sección para el segmento de logística y transporte | Como Visitante del segmento Empresas de Logística, Transporte y Almacenes Satélite, deseo ver una sección con los beneficios específicos para almacenes y transportistas, para identificar si la solución responde a mi necesidad de respaldo ante reclamos. | 2 |
-| 4 | LP-04 | Formulario de solicitud de demostración | Como Visitante, deseo completar un formulario de contacto para solicitar una demostración, para que el equipo comercial de Trazza Labs se comunique conmigo. | 3 |
-| 5 | TS-06 | Endpoint de solicitud de demostración | Como Developer, deseo exponer un endpoint que reciba las solicitudes de demostración del Landing Page, para que el equipo comercial las gestione desde un mismo canal. | 2 |
-| 6 | US-01 | Registro de empresa y activación de suscripción | Como Administrador de la constructora, deseo registrar mi empresa y activar un plan de suscripción, para empezar a invitar a mi equipo a usar la plataforma. | 5 |
-| 7 | US-17 | Gestión del ciclo de vida de la suscripción | Como Administrador de la constructora, deseo consultar el estado de mi suscripción y renovarla o regularizar un pago rechazado, para mantener el acceso de mi empresa a la plataforma sin interrupciones. | 3 |
-| 8 | TS-01 | Endpoint de autenticación de usuarios | Como Developer, deseo exponer un endpoint para la autenticación de usuarios, para que las aplicaciones cliente puedan iniciar sesión de forma segura. | 3 |
-| 9 | US-15 | Inicio de sesión | Como Usuario (residente de obra, jefe de almacén, despachador o transportista), deseo iniciar sesión con mis credenciales, para acceder a las funciones que corresponden a mi rol. | 2 |
-| 10 | US-02 | Invitación de usuarios y asignación de roles | Como Administrador de la constructora, deseo invitar a los miembros de mi equipo y asignarles un rol, para que cada uno acceda solo a las funciones que le corresponden. | 3 |
-| 11 | US-03 | Envío de pedido de materiales | Como Residente de obra, deseo enviar un pedido de materiales al almacén central, para asegurar el abastecimiento de mi frente de obra. | 3 |
-| 12 | US-04 | Conformación de carga y registro de pesaje | Como Jefe de almacén, deseo registrar el pesaje y conformar la carga de un despacho, para dejar evidencia verificable de lo que efectivamente se despacha. | 5 |
-| 13 | TS-02 | Endpoint de registro de pesaje | Como Developer, deseo exponer un endpoint para registrar el pesaje de un despacho, para que la aplicación cliente lo asocie de forma inmediata a la guía de remisión correspondiente. | 3 |
-| 14 | US-18 | Registro de unidad de transporte y vinculación de dispositivo GPS | Como Jefe de almacén, deseo registrar una unidad de transporte y vincularle su dispositivo de seguimiento satelital, para poder asignarla a un despacho con trazabilidad de ubicación. | 5 |
-| 15 | US-19 | Definición de geocercas de almacén y obra | Como Jefe de almacén, deseo definir la geocerca del almacén y de cada obra, para que el sistema pueda detectar automáticamente la salida y la llegada de una unidad. | 3 |
-| 16 | TS-08 | Endpoint de recepción de reportes del dispositivo GPS | Como Developer, deseo exponer un endpoint que reciba los reportes periódicos de posición del dispositivo de seguimiento satelital, para registrar automáticamente los eventos de tránsito sin intervención del transportista. | 5 |
-| 17 | US-05 | Emisión de guía de remisión y asignación de transportista | Como Jefe de almacén, deseo emitir la guía de remisión digital y asignar el transportista, para autorizar la salida del despacho. | 3 |
-| 18 | US-06 | Inicio de traslado | Como Transportista, deseo iniciar el traslado desde la aplicación, para que el almacén y la obra conozcan que el despacho está en camino. | 2 |
-| 19 | US-09 | Verificación del material recibido | Como Residente de obra, deseo verificar el material recibido contra la guía de remisión digital, para confirmar si el despacho llegó completo. | 5 |
-| 20 | US-10 | Reporte de discrepancia en recepción | Como Residente de obra, deseo reportar una discrepancia al momento de la recepción, para dejar constancia inmediata de un faltante o un daño detectado. | 3 |
-| 21 | TS-04 | Endpoint de comparación de cantidades | Como Developer, deseo exponer un endpoint que compare las cantidades despachadas con las cantidades recibidas, para que la aplicación cliente muestre la conformidad o la discrepancia de forma inmediata. | 3 |
-| 22 | US-11 | Consulta de evidencia consolidada | Como Responsable de oficina técnica, deseo consultar la evidencia consolidada de un despacho con discrepancia, para determinar en qué punto de la cadena se originó la diferencia. | 3 |
-| 23 | TS-05 | Endpoint de línea de tiempo consolidada | Como Developer, deseo exponer un endpoint que consolide en una sola respuesta los eventos de un despacho registrados por los tres actores de la cadena, para que la aplicación cliente construya la línea de tiempo del caso. | 5 |
-| 24 | US-12 | Generación de reporte de sustento | Como Responsable de oficina técnica, deseo generar un reporte de sustento a partir de un caso de discrepancia, para presentarlo ante la gerencia o ante la empresa de transporte. | 5 |
-| 25 | US-13 | Cierre de caso de discrepancia | Como Responsable de oficina técnica, deseo cerrar un caso de discrepancia registrando la responsabilidad determinada, para dejar constancia del resultado y prevenir casos similares. | 2 |
-| 26 | US-16 | Verificación de existencias disponibles | Como Jefe de almacén, deseo verificar las existencias disponibles al recibir un pedido, para determinar si puedo atenderlo completo o solo de forma parcial. | 2 |
-| 27 | US-07 | Registro de incidencia de ruta | Como Transportista, deseo registrar una incidencia de ruta, para dejar constancia de un desvío o una demora ocurrida durante el traslado. | 3 |
-| 28 | US-08 | Sincronización periódica de registros de tránsito | Como Transportista, deseo que mis registros se sincronicen automáticamente de forma periódica en segundo plano, para no tener que enviarlos manualmente uno por uno. | 5 |
-| 29 | TS-03 | Endpoint de sincronización en lote | Como Developer, deseo exponer un endpoint para sincronizar en lote los registros de tránsito almacenados localmente, para que la aplicación cliente los envíe en cada ciclo de sincronización periódica. | 5 |
-| 30 | US-14 | Sincronización periódica de registros de recepción | Como Residente de obra, deseo que mi registro de recepción se sincronice automáticamente de forma periódica en segundo plano, para no tener que enviarlo manualmente. | 3 |
-| 31 | TS-07 | Endpoint de sincronización de registros de recepción | Como Developer, deseo exponer un endpoint para sincronizar en lote los registros de recepción almacenados localmente, para que la aplicación cliente los envíe en cada ciclo de sincronización periódica. | 3 |
+La estimación se expresa en Story Points, bajo la escala de Fibonacci (1 / 2 / 3 / 5 / 8), asignada por el equipo según la complejidad relativa percibida para cada historia. El total del Product Backlog es de 103 Story Points.
+
+**Distribución por Sprint**
+
+| Sprint | Alcance | Historias | Story Points |
+|---|---|---|---|
+| 1 | Landing Page: propuesta de valor, planes y contacto | LP-01, LP-02, LP-03, LP-04 | 9 |
+| 2 | Primera versión de la Web Application: acceso y suscripción | TS-06, US-01, TS-01, US-15, US-02, US-17 | 18 |
+| 3 | Pedido, flota y conformación de carga | US-03, US-18, US-19, US-04, TS-02 | 19 |
+| 4 | Guía de remisión, tránsito y recepción | US-05, TS-08, US-06, US-09, US-10, TS-04 | 21 |
+| 5 | Discrepancias y evidencia | US-11, TS-05, US-12, US-13, US-16 | 17 |
+| 6 | Robustez y sincronización periódica | US-07, US-08, TS-03, US-14, TS-07 | 19 |
+
+**Product Backlog ordenado**
+
+| # (Orden) | Sprint | User Story Id | Título | Descripción | Story Points |
+|---|---|---|---|---|---|
+| 1 | 1 | LP-01 | Página de inicio con la propuesta de valor | Como Visitante, deseo conocer la propuesta de valor de Vigía en la página de inicio, para entender en qué consiste la solución antes de decidir suscribirme. | 2 |
+| 2 | 1 | LP-02 | Sección para el segmento de empresas constructoras | Como Visitante del segmento Empresas Constructoras e Inmobiliarias, deseo ver una sección con los beneficios específicos para residentes y directores de obra, para identificar si la solución responde a mi problema de control de materiales. | 2 |
+| 3 | 1 | LP-03 | Sección para el segmento de logística y transporte | Como Visitante del segmento Empresas de Logística, Transporte y Almacenes Satélite, deseo ver una sección con los beneficios específicos para almacenes y transportistas, para identificar si la solución responde a mi necesidad de respaldo ante reclamos. | 2 |
+| 4 | 1 | LP-04 | Formulario de contacto para suscripción | Como Visitante, deseo dejar los datos de mi empresa en un formulario de contacto, para que el equipo comercial de Trazza Labs se comunique conmigo y me ayude a iniciar mi suscripción. | 3 |
+| 5 | 2 | TS-06 | Endpoint de contacto para suscripción | Como desarrollador del frontend del Landing Page, necesito un endpoint que reciba los datos de contacto de las empresas interesadas en suscribirse, para poder conectar el formulario del sitio con el equipo comercial de Trazza Labs desde un mismo canal. | 2 |
+| 6 | 2 | US-01 | Registro de empresa y activación de suscripción | Como Administrador de la constructora, deseo registrar mi empresa con el plan de suscripción que elegí y pagarlo, para activar mi suscripción y empezar a invitar a mi equipo a usar la plataforma. | 5 |
+| 7 | 2 | TS-01 | Endpoint de autenticación de usuarios | Como desarrollador del frontend, necesito un endpoint de autenticación que valide las credenciales y devuelva un token de sesión, para poder implementar el inicio de sesión y restringir las pantallas según el rol del usuario. | 3 |
+| 8 | 2 | US-15 | Inicio de sesión | Como Usuario (residente de obra, jefe de almacén, despachador o transportista), deseo iniciar sesión con mis credenciales, para acceder a las funciones que corresponden a mi rol. | 2 |
+| 9 | 2 | US-02 | Invitación de usuarios y asignación de roles | Como Administrador de la constructora, deseo invitar a los miembros de mi equipo y asignarles un rol, para que cada uno acceda solo a las funciones que le corresponden. | 3 |
+| 10 | 2 | US-17 | Gestión del ciclo de vida de la suscripción | Como Administrador de la constructora, deseo consultar el estado de mi suscripción y renovarla o regularizar un pago rechazado, para mantener el acceso de mi empresa a la plataforma sin interrupciones. | 3 |
+| 11 | 3 | US-03 | Envío de pedido de materiales | Como Residente de obra, deseo enviar un pedido de materiales al almacén central, para asegurar el abastecimiento de mi frente de obra. | 3 |
+| 12 | 3 | US-18 | Registro de unidad de transporte y vinculación de dispositivo GPS | Como Jefe de almacén, deseo registrar una unidad de transporte y vincularle su dispositivo de seguimiento satelital, para poder asignarla a un despacho con trazabilidad de ubicación. | 5 |
+| 13 | 3 | US-19 | Definición de geocercas de almacén y obra | Como Jefe de almacén, deseo definir la geocerca del almacén y de cada obra, para que el sistema pueda detectar automáticamente la salida y la llegada de una unidad. | 3 |
+| 14 | 3 | US-04 | Conformación de carga y registro de pesaje | Como Jefe de almacén, deseo registrar el pesaje y conformar la carga de un despacho, para dejar evidencia verificable de lo que efectivamente se despacha. | 5 |
+| 15 | 3 | TS-02 | Endpoint de registro de pesaje | Como desarrollador del frontend, necesito un endpoint para registrar el pesaje de un despacho, para poder mostrar en la pantalla de Despachos el peso asociado de forma inmediata a la guía de remisión correspondiente. | 3 |
+| 16 | 4 | US-05 | Emisión de guía de remisión y asignación de transportista | Como Jefe de almacén, deseo emitir la guía de remisión digital y asignar el transportista, para autorizar la salida del despacho. | 3 |
+| 17 | 4 | TS-08 | Endpoint de recepción de reportes del dispositivo GPS | Como desarrollador de la Web Application, necesito que el API reciba los reportes periódicos de posición del dispositivo de seguimiento satelital, para poder mostrar en las pantallas de Transporte y Envíos la ubicación de la unidad sin que el transportista registre nada. | 5 |
+| 18 | 4 | US-06 | Inicio de traslado | Como Transportista, deseo iniciar el traslado desde la aplicación, para que el almacén y la obra conozcan que el despacho está en camino. | 2 |
+| 19 | 4 | US-09 | Verificación del material recibido | Como Residente de obra, deseo verificar el material recibido contra la guía de remisión digital, para confirmar si el despacho llegó completo. | 5 |
+| 20 | 4 | US-10 | Reporte de discrepancia en recepción | Como Residente de obra, deseo reportar una discrepancia al momento de la recepción, para dejar constancia inmediata de un faltante o un daño detectado. | 3 |
+| 21 | 4 | TS-04 | Endpoint de comparación de cantidades | Como desarrollador del frontend, necesito un endpoint que compare las cantidades despachadas con las recibidas, para poder mostrar en la pantalla de Recepciones la conformidad o la diferencia de cada ítem de forma inmediata. | 3 |
+| 22 | 5 | US-11 | Consulta de evidencia consolidada | Como Responsable de oficina técnica, deseo consultar la evidencia consolidada de un despacho con discrepancia, para determinar en qué punto de la cadena se originó la diferencia. | 3 |
+| 23 | 5 | TS-05 | Endpoint de línea de tiempo consolidada | Como desarrollador del frontend, necesito un endpoint que consolide en una sola respuesta los eventos de un despacho registrados por los tres actores de la cadena, para poder construir la línea de tiempo del caso sin combinar varias consultas. | 5 |
+| 24 | 5 | US-12 | Generación de reporte de sustento | Como Responsable de oficina técnica, deseo generar un reporte de sustento a partir de un caso de discrepancia, para presentarlo ante la gerencia o ante la empresa de transporte. | 5 |
+| 25 | 5 | US-13 | Cierre de caso de discrepancia | Como Responsable de oficina técnica, deseo cerrar un caso de discrepancia registrando la responsabilidad determinada, para dejar constancia del resultado y prevenir casos similares. | 2 |
+| 26 | 5 | US-16 | Verificación de existencias disponibles | Como Jefe de almacén, deseo verificar las existencias disponibles al recibir un pedido, para determinar si puedo atenderlo completo o solo de forma parcial. | 2 |
+| 27 | 6 | US-07 | Registro de incidencia de ruta | Como Transportista, deseo registrar una incidencia de ruta, para dejar constancia de un desvío o una demora ocurrida durante el traslado. | 3 |
+| 28 | 6 | US-08 | Sincronización periódica de registros de tránsito | Como Transportista, deseo que mis registros se sincronicen automáticamente de forma periódica en segundo plano, para no tener que enviarlos manualmente uno por uno. | 5 |
+| 29 | 6 | TS-03 | Endpoint de sincronización en lote | Como desarrollador del frontend, necesito un endpoint que reciba en lote los registros de tránsito almacenados localmente, para poder enviarlos en cada ciclo de sincronización periódica sin que el usuario intervenga. | 5 |
+| 30 | 6 | US-14 | Sincronización periódica de registros de recepción | Como Residente de obra, deseo que mi registro de recepción se sincronice automáticamente de forma periódica en segundo plano, para no tener que enviarlo manualmente. | 3 |
+| 31 | 6 | TS-07 | Endpoint de sincronización de registros de recepción | Como desarrollador del frontend, necesito un endpoint que reciba en lote los registros de recepción almacenados localmente, para poder enviarlos en cada ciclo de sincronización periódica sin que el residente intervenga. | 3 |
+
+**Figura 12**
 
 ![brave_screenshot_trello.com.png](../../assets/chapther-3/brave_screenshot_trello.com.png)
 
-
----
 
 <!-- Fuente: report/chapters/chapter-4-product-design/4-capitulo-iv-product-design.md -->
 
@@ -1370,6 +1412,7 @@ En este capítulo el equipo desarrolla la propuesta de Software Architecture & D
 
 El capítulo se organiza en las siguientes secciones internas: Style Guidelines, que sienta las bases visuales comunes para todo el equipo; Information Architecture, que define cómo se organiza, etiqueta, navega y busca el contenido; Landing Page UI Design y Web Applications UX/UI Design, que traducen esas decisiones en Wireframes, Wireflows, Mock-ups y User Flows; Web Applications Prototyping; Domain-Driven Software Architecture, que profundiza el Big Picture EventStorming de la sección 2.4 hasta identificar los Bounded Context y los diagramas C4; Software Object-Oriented Design; y Database Design.
 
+
 <!-- Fuente: report/chapters/chapter-4-product-design/4.1-style-guidelines.md -->
 
 ### 4.1. Style Guidelines
@@ -1377,6 +1420,7 @@ El capítulo se organiza en las siguientes secciones internas: Style Guidelines,
 En esta sección el equipo sienta las bases de un repositorio visual central y consistente para Vigía, de uso común para todo el equipo de diseño y desarrollo. El objetivo es que cualquier pantalla nueva, tanto del Landing Page como de la Web Application, mantenga una presentación uniforme y reconocible, reduciendo el tiempo de decisión visual en cada Sprint. Las decisiones siguen el lenguaje de diseño Material Design, indicado en la sección de Tecnología, adaptado a la identidad de marca de Trazza Labs, y se apoyan en PrimeVue como biblioteca de componentes de UI para su implementación en Vue.
 
 La sección se organiza en dos partes: General Style Guidelines, que fija las decisiones de branding, tipografía, color, espaciado y tono de comunicación; y Web Style Guide, que traduce esas decisiones a estándares de interacción para interfaces web responsivas.
+
 
 <!-- Fuente: report/chapters/chapter-4-product-design/4.1.1-general-style-guidelines.md -->
 
@@ -1452,6 +1496,7 @@ El color se usa de forma funcional y no decorativa: verde y rojo quedan reservad
 
 Como referencia de Design System existente sobre el cual se realizan las adaptaciones anteriores, se toma Material Design 3, del cual se conservan la escala tipográfica, la grilla de espaciado de 8px y el sistema de elevación, adaptando la paleta de color a la identidad de marca descrita.
 
+
 <!-- Fuente: report/chapters/chapter-4-product-design/4.1.2-web-style-guidelines.md -->
 
 #### 4.1.2. Web Style Guide
@@ -1494,6 +1539,7 @@ Esta sección traduce las decisiones de la sección 4.1.1 a estándares de inter
 
 **Accesibilidad.** Conforme a la restricción de accesibilidad (a11y) señalada en la sección 1.2.1, se exige un contraste mínimo AA (4.5:1) entre texto y fondo para todas las combinaciones de la paleta de la sección 4.1.1, tamaño de texto mínimo de 14px para contenido de lectura, y un área táctil mínima de 44x44px para elementos interactivos en mobile, dado el uso del producto en campo y con eventual uso de guantes de trabajo.
 
+
 <!-- Fuente: report/chapters/chapter-4-product-design/4.2-information-architecture.md -->
 
 ### 4.2. Information Architecture
@@ -1503,6 +1549,7 @@ En esta sección el equipo plantea las decisiones y el sustento que dirigen la f
 Las decisiones se apoyan directamente en los artefactos ya elaborados en capítulos anteriores: los seis Bounded Context candidatos del Big Picture EventStorming (sección 2.4) determinan la organización principal del contenido; el Ubiquitous Language (sección 2.5) determina el vocabulario de las etiquetas; y las Epics y User Stories (sección 3.1) determinan qué necesita ser encontrado, filtrado o navegado en cada pantalla.
 
 La sección se organiza en cinco partes: Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems y Navigation Systems, siguiendo la estructura clásica de sistemas de Information Architecture propuesta por Rosenfeld y Morville en *Information Architecture for the Web and Beyond*, adaptada al alcance específico de Vigía.
+
 
 <!-- Fuente: report/chapters/chapter-4-product-design/4.2.1-organization-systems.md -->
 
@@ -1535,6 +1582,7 @@ Se descarta deliberadamente un esquema puramente cronológico para el Dashboard 
 | EP-04 Recepción y Verificación en Obra | Secuencial | Según audiencia (solo lo asignado al residente de esa obra) | Continúa el mismo flujo secuencial de EP-02/EP-03 hasta su cierre |
 | EP-05 Gestión de Discrepancias y Evidencia | Matricial | Por tópico (obra) y por estado (caso) simultáneamente | Ningún criterio es jerárquicamente superior al otro para la Oficina Técnica, que a veces necesita ver "todo lo de esta obra" y otras veces "todo lo que sigue abierto" |
 | EP-06 Landing Page | Jerárquica | Por tópico (segmento / producto / contacto) | El visitante no tiene una tarea secuencial que cumplir; navega libremente por temas de su interés |
+
 
 <!-- Fuente: report/chapters/chapter-4-product-design/4.2.2-labeling-systems.md -->
 
@@ -1595,6 +1643,7 @@ Se evita deliberadamente la etiqueta "Login" en favor de "Iniciar sesión", y la
 | Credenciales inválidas al iniciar sesión (US-15) | "El correo o la contraseña no son correctos." |
 | Pérdida de conexión durante el registro en obra (US-14) | "Sin conexión. Tu registro se guardó en el dispositivo y se enviará automáticamente." |
 
+
 <!-- Fuente: report/chapters/chapter-4-product-design/4.2.3-seo-tags-and-meta-tags.md -->
 
 #### 4.2.3. SEO Tags and Meta Tags
@@ -1628,6 +1677,7 @@ Dado que estas páginas requieren autenticación y no están dirigidas a posicio
 | Inicio de sesión | Iniciar sesión \| Vigía | Accede a Vigía con tu correo y contraseña para gestionar tus despachos y recepciones. | iniciar sesión Vigía, acceso plataforma | Trazza Labs |
 | Panel principal | Inicio \| Vigía | Consulta el estado de tus despachos, recepciones y discrepancias en un solo lugar. | panel Vigía, estado de despachos | Trazza Labs |
 | Discrepancias | Discrepancias \| Vigía | Consulta la evidencia consolidada y el estado de los casos de discrepancia abiertos. | discrepancias despacho, evidencia recepción | Trazza Labs |
+
 
 <!-- Fuente: report/chapters/chapter-4-product-design/4.2.4-searching-systems.md -->
 
@@ -1664,6 +1714,7 @@ En todos los casos, el filtro se aplica sobre datos ya cargados para la empresa 
 | Resultado vacío | Se muestra el mensaje específico definido en la sección 4.2.2 ("No hay despachos que coincidan con este filtro."), nunca una lista en blanco sin explicación |
 | Filtros activos | Se muestran como chips removibles sobre la lista, para que el usuario vea de un vistazo qué filtro está aplicando y pueda quitarlo sin abrir de nuevo el panel de filtros |
 
+
 <!-- Fuente: report/chapters/chapter-4-product-design/4.2.5-navigation-systems.md -->
 
 #### 4.2.5. Navigation Systems
@@ -1688,6 +1739,7 @@ En todos los casos, el filtro se aplica sobre datos ya cargados para la empresa 
 **Navegación de retorno y migas de pan.** En las pantallas de detalle (un despacho específico, un caso de discrepancia específico) se incluye una miga de pan (breadcrumb) de dos niveles como máximo (por ejemplo, Discrepancias > Caso #124), evitando jerarquías de navegación más profundas que no se justifican por el volumen de información del producto.
 
 **Confirmación antes de acciones irreversibles.** Toda acción que cierra un estado del dominio (autorizar un despacho, registrar la conformidad de recepción, cerrar un caso de discrepancia) requiere una confirmación explícita del usuario antes de ejecutarse, dado que estas acciones no tienen una ruta de "deshacer" dentro del alcance actual del producto.
+
 
 <!-- Fuente: report/chapters/chapter-4-product-design/4.3-landing-page-ui-desing.md -->
 
@@ -1820,6 +1872,7 @@ Para mantener una experiencia visual consistente en toda la Landing Page, aplica
 - Uso de llamados a la acción visibles como “Solicitar demo”, “Ver planes” y “Elegir plan”.
 - Distribución clara del contenido para que el visitante pueda comprender progresivamente qué es Vigía, qué problema resuelve, cómo funciona y qué beneficios ofrece.
 
+
 <!-- Fuente: report/chapters/chapter-4-product-design/4.3.1-landing-page-wireframe.md -->
 
 ### 4.3.1. Landing Page Wireframe
@@ -1845,6 +1898,7 @@ Para mantener una experiencia visual consistente en toda la Landing Page, aplica
   <img src="../../assets/Chapther-4/wireframes-landing/Footer.png" width="48%">
 </p>
 
+
 <!-- Fuente: report/chapters/chapter-4-product-design/4.3.2-landing-page-mock-up.md -->
 
 ### 4.3.2. Landing Page Mock-up
@@ -1868,6 +1922,7 @@ Para mantener una experiencia visual consistente en toda la Landing Page, aplica
   <img src="../../assets/Chapther-4/mock-ups-landing/Footer.png" width="48%">
 </p>
 
+
 <!-- Fuente: report/chapters/chapter-4-product-design/4.4-web-applications-ux-ui-design.md -->
 
 ### 4.4. Web Applications UX/UI Design
@@ -1882,19 +1937,33 @@ Herramientas externas pendientes de usar por el equipo para completar esta secci
 - **Figma** — para los Wireframes de la sección 4.4.1 (los Mock-ups de 4.4.3 ya están elaborados ahí).
 - **FigJam / LucidChart / Overflow** — para los Wireflow Diagrams de la sección 4.4.2 y los User Flow Diagrams de la sección 4.4.4.
 
+
 <!-- Fuente: report/chapters/chapter-4-product-design/4.4.1-web-applications-wireframes.md -->
 
 ## 4.4.1 Web Applications Wireframes
 
 
+**Figura 13**
+
 ![Wireframe 1.png](../../assets/charapter-4/wireframes1.png)
+
+**Figura 14**
+
 ![Wireframe2.png](../../assets/charapter-4/wireframes2.png)
+
+**Figura 15**
+
 ![Wireframe3.png](../../assets/charapter-4/wireframes3.png)
+
 
 <!-- Fuente: report/chapters/chapter-4-product-design/4.4.2-web-applications-wireflow-diagrams.md -->
 
 ## 4.4.2 Web Applications Wireflow Diagrams
+
+**Figura 16**
+
 ![web-applications-wireflow-diagrams.png](../../assets/charapter-4/web-applications-wireflow-diagrams.png)
+
 
 <!-- Fuente: report/chapters/chapter-4-product-design/4.4.3-web-applications-mock-ups.md -->
 
@@ -1908,29 +1977,47 @@ En esta sección se presentan los Mock-ups de la Web Application de Vigía, orga
 
 Rol con visión transversal de la operación (equivalente al "Responsable de oficina técnica" descrito en la Epic EP-05 de la sección 3.1), usado en estos mock-ups por María Torres.
 
+**Figura 17**
+
 ![mock-up-Supervisor (1).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%281%29.png)
 **Despachos.** Panel de monitoreo de despachos con indicadores de despachos en preparación, programados, en tránsito y con incidencia; incluye la lista completa de despachos con filtros por obra, estado, transporte y fecha, y un panel de seguimiento de un despacho puntual con línea de estado (Preparación → Salida → En tránsito → Entrega) y mapa de ruta. Corresponde a la visión de supervisión de las Epics EP-02 y EP-03.
+
+**Figura 18**
 
 ![mock-up-Supervisor (2).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%282%29.png)
 **Transporte.** Vista de la flota de camiones con su estado (en ruta, en carga, en espera, con retraso, sin actividad), un mapa de seguimiento en tiempo real de las unidades, las asignaciones del día y un gráfico de disponibilidad de flota. Corresponde a la supervisión de US-06 y US-07 (EP-03).
 
+**Figura 19**
+
 ![mock-up-Supervisor (3).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%283%29.png)
 **Recepciones.** Tablero de recepciones con indicadores de recepciones del día, pendientes, con diferencia y completadas; la tabla compara lo enviado contra lo recibido por cada recepción, y el panel lateral muestra el detalle de una recepción con diferencia, incluyendo la observación registrada. Corresponde directamente a US-09 y US-10 (EP-04).
+
+**Figura 20**
 
 ![mock-up-Supervisor (4).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%284%29.png)
 **Problemas.** Listado de incidencias (faltantes, daños, retrasos, no conformidades) con prioridad y estado, filtrable por tipo, prioridad, estado y obra; el panel de detalle muestra la descripción completa de una incidencia y su tendencia en las últimas semanas. Corresponde a la gestión de discrepancias de EP-05, aunque el mock-up usa el término "Problemas" en lugar de "Discrepancias" — se recomienda unificar con el Ubiquitous Language de la sección 2.5.
 
+**Figura 21**
+
 ![mock-up-Supervisor (5).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%285%29.png)
 **Historial.** Bitácora general de eventos del sistema (despachos, recepciones, incidencias, documentos, configuración, usuarios) con buscador, filtros combinados y un resumen de actividad por tipo de evento en gráfico de dona. Sustenta la trazabilidad end-to-end declarada en el Problem Statement de la sección 1.2.2.1.
+
+**Figura 22**
 
 ![mock-up-Supervisor (6).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%286%29.png)
 **Reportes.** Panel ejecutivo con el cumplimiento global de la operación, despachos completados, recepciones con diferencia e incidencias resueltas, gráficos de cumplimiento mensual y desempeño por obra, y una tabla de reportes descargables en PDF y Excel. Corresponde a US-12 (generación de reporte de sustento, EP-05).
 
+**Figura 23**
+
 ![mock-up-Supervisor (7).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%287%29.png)
 **Inicio.** Pantalla de bienvenida con la sección "Requiere mi atención" (diferencias en recepción, retrasos, materiales fuera de especificación, aprobaciones pendientes), el estado general de las obras con barra de avance y estado, y el cumplimiento semanal en gráfico de barras. Es el punto de entrada que prioriza jerárquicamente los casos críticos, conforme a la Organization System definida en la sección 4.2.1.
 
+**Figura 24**
+
 ![mock-up-Supervisor (8).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%288%29.png)
 **Obras.** Listado de todas las obras activas con su zona, responsable, porcentaje de avance, despachos, recepciones e incidencias asociadas, un resumen por zona geográfica y una sección de obras que requieren atención por retrasos o incidencias críticas.
+
+**Figura 25**
 
 ![mock-up-Supervisor (9).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%289%29.png)
 **Materiales.** Inventario consolidado de materiales monitoreados con alertas de stock bajo por obra, los materiales más utilizados, el consumo por obra en el mes y la distribución del inventario por categoría.
@@ -1939,38 +2026,62 @@ Rol con visión transversal de la operación (equivalente al "Responsable de ofi
 
 Rol correspondiente al User Persona Miguel Rojas (jefe de almacén central, sección 2.3.1), usado en estos mock-ups por Carlos Mendoza (ver nota de consistencia al inicio de esta sección).
 
+**Figura 26**
+
 ![mock-up-Responsables de Almacen (1).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%281%29.png)
 **Inicio.** Saludo personalizado con indicadores de solicitudes pendientes, despachos en preparación, en tránsito y completados; incluye la lista de próximos despachos, el estado de despachos en gráfico de dona y la sección "Requiere mi atención" con alertas de stock bajo, transportista sin asignar y solicitudes por revisar.
+
+**Figura 27**
 
 ![mock-up-Responsables de Almacen (2).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%282%29.png)
 **Solicitudes.** Bandeja de solicitudes de materiales enviadas por las obras, con estado, prioridad y filtros, más un panel de solicitudes que requieren atención inmediata. Corresponde a la recepción del pedido del lado del almacén, previa a US-16 (verificación de existencias).
 
+**Figura 28**
+
 ![mock-up-Responsables de Almacen (3).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%283%29.png)
 **Detalle de solicitud (SOL-104).** Vista completa de una solicitud con los materiales pedidos, observaciones del residente, archivos adjuntos y las acciones de decisión disponibles (aprobar, solicitar cambios o rechazar), junto con el historial de acciones tomadas sobre la solicitud. Antesala de US-16 y US-04.
+
+**Figura 29**
 
 ![mock-up-Responsables de Almacen (4).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%284%29.png)
 **Materiales.** Inventario del almacén con código, categoría, stock actual y ubicación de cada material, alertas de stock bajo o sin stock, y los materiales más usados en el periodo. Sustenta la verificación de existencias (US-16).
 
+**Figura 30**
+
 ![mock-up-Responsables de Almacen (5).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%285%29.png)
 **Despachos.** Lista de despachos con su estado y un panel de seguimiento con stepper (Salida → En ruta → Cerca de obra → Llegada) y mapa de ruta estimada hacia la obra de destino, además de la actividad reciente del almacén. Corresponde a US-04 y US-05.
+
+**Figura 31**
 
 ![mock-up-Responsables de Almacen (6).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%286%29.png)
 **Nuevo despacho — paso 1 de 4 (Información).** Primer paso del asistente para crear un despacho: obra de destino, solicitud relacionada, fecha y hora de salida, tipo de despacho y observaciones, con un resumen en vivo de lo capturado. Primer paso de US-04/US-05.
 
+**Figura 32**
+
 ![mock-up-Responsables de Almacen (7).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%287%29.png)
 **Transporte.** Gestión de la flota de camiones y transportistas disponibles, con su placa, estado, última ubicación y próximo despacho asignado, más un mapa de seguimiento en tiempo real y las asignaciones del día. Sustenta la asignación de transportista de US-05.
+
+**Figura 33**
 
 ![mock-up-Responsables de Almacen (8).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%288%29.png)
 **Historial.** Bitácora de eventos del almacén (despachos, solicitudes, movimientos de stock, transporte, incidencias) con filtros combinados y un resumen de actividad por tipo en gráfico de dona.
 
+**Figura 34**
+
 ![mock-up-Responsables de Almacen (9).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%289%29.png)
 **Configuración.** Perfil del usuario con datos personales y cambio de contraseña, preferencias de idioma, tema y notificaciones, y un panel de "Permisos y acceso" que lista los módulos habilitados según el rol. Corresponde a la asignación de roles de EP-01 (US-02), vista desde el usuario final.
+
+**Figura 35**
 
 ![mock-up-Responsables de Almacen (10).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%2810%29.png)
 **Detalle de despacho (DS-104).** Vista completa de un despacho en preparación, con los materiales incluidos, información adicional (prioridad, tipo, referencia interna), el stepper de estado, la sección de transporte y conductor (aún sin asignar) y las acciones disponibles (editar, asignar transporte, marcar como en tránsito). Corresponde a US-04 y US-05.
 
+**Figura 36**
+
 ![mock-up-Responsables de Almacen (11).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%2811%29.png)
 **Modal "Editar despacho".** Formulario superpuesto para modificar la obra, la fecha y hora de salida, el tipo de despacho, la prioridad y las observaciones de un despacho ya creado. Corresponde a un ajuste posterior a US-04.
+
+**Figura 37**
 
 ![mock-up-Responsables de Almacen (12).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%2812%29.png)
 **Modal "Asignar transporte".** Formulario para seleccionar el camión, la empresa transportista, el conductor, el tipo de camión, la capacidad disponible y el dispositivo IoT asociado, con un resumen de la ruta estimada antes de confirmar. Corresponde al evento "Despacho autorizado" de US-05.
@@ -1979,31 +2090,113 @@ Rol correspondiente al User Persona Miguel Rojas (jefe de almacén central, secc
 
 Rol correspondiente al User Persona Carlos Mendoza (ingeniero civil residente de obra, sección 2.3.1), usado en estos mock-ups por Juan Pérez.
 
+**Figura 38**
+
 ![mock-up-Responsable de Obra (1).png](../../assets/Chapther-4/mock-ups/Responsable%20de%20Obra/mock-up-Responsable%20de%20Obra%20%281%29.png)
 **Obras.** Listado de las obras a cargo del residente con su avance, estado y próximo envío, y un panel de detalle de la obra seleccionada con su resumen, próximos envíos y avance por etapa constructiva (cimentación, estructura, instalaciones, acabados).
+
+**Figura 39**
 
 ![mock-up-Responsable de Obra (2).png](../../assets/Chapther-4/mock-ups/Responsable%20de%20Obra/mock-up-Responsable%20de%20Obra%20%282%29.png)
 **Envíos.** Indicadores de envíos en camino, por llegar hoy, retrasados y recibidos, con la lista de envíos filtrable y un panel de seguimiento con stepper y mapa en tiempo real del envío seleccionado. Corresponde a la visibilidad de EP-03 (US-06, US-07) desde el lado de la obra.
 
+**Figura 40**
+
 ![mock-up-Responsable de Obra (3).png](../../assets/Chapther-4/mock-ups/Responsable%20de%20Obra/mock-up-Responsable%20de%20Obra%20%283%29.png)
 **Recepciones.** Próximas llegadas, tabla de recepciones registradas con la comparación entre lo enviado y lo recibido, y un panel de detalle de recepción con checklist (material en buen estado, cantidad verificada, guía de remisión recibida, evidencia fotográfica) y la comparación de cantidades. Corresponde directamente a US-09.
+
+**Figura 41**
 
 ![mock-up-Responsable de Obra (4).png](../../assets/Chapther-4/mock-ups/Responsable%20de%20Obra/mock-up-Responsable%20de%20Obra%20%284%29.png)
 **Problemas.** Indicadores de problemas abiertos, retrasos, faltantes y resueltos, listado filtrable de incidencias, y el detalle de un problema (faltante de concreto premezclado) con su descripción, evidencia fotográfica adjunta y línea de seguimiento del estado. Corresponde directamente a US-10 (reporte de discrepancia con evidencia).
 
+**Figura 42**
+
 ![mock-up-Responsable de Obra (5).png](../../assets/Chapther-4/mock-ups/Responsable%20de%20Obra/mock-up-Responsable%20de%20Obra%20%285%29.png)
 **Historial.** Registros del mes, recepciones cerradas, envíos archivados y problemas resueltos, con filtros combinados, tabla de movimientos y una línea de tiempo de los últimos eventos de la obra.
 
+**Figura 43**
+
 ![mock-up-Responsable de Obra (6).png](../../assets/Chapther-4/mock-ups/Responsable%20de%20Obra/mock-up-Responsable%20de%20Obra%20%286%29.png)
 **Inicio.** Saludo personalizado con indicadores de envíos en camino, recepciones del día, materiales recibidos y problemas reportados; incluye la tabla de próximos envíos, el estado de recepción del plan en gráfico de dona y un comparativo semanal de material recibido contra lo planificado.
+
 
 <!-- Fuente: report/chapters/chapter-4-product-design/4.4.4-web-applications-user-flow-diagrams.md -->
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-El diagrama de flujo de usuario es una representación visual de los pasos que un usuario sigue al interactuar con una aplicación o sitio web. Muestra la secuencia de acciones que el usuario realiza para completar una tarea específica, lo que nos ayuda a identificar posibles puntos de fricción y a optimizar la experiencia del usuario.
+El diagrama de flujo de usuario es una representación visual de los pasos que un usuario sigue al interactuar con la aplicación para alcanzar un objetivo concreto (User Goal). Muestra la secuencia de acciones, los puntos de decisión y los distintos caminos posibles, lo que ayuda a identificar puntos de fricción y a optimizar la experiencia.
 
-![User Flow Diagram](../../assets/Chapther-4/userflow-diagram/user-flow-diagram.png)
+Para cada User Goal se elabora un único diagrama que integra tanto el **happy path** —el camino en el que todas las condiciones se cumplen y el objetivo se alcanza sin incidencias— como los **flujos alternativos** —las ramas que se activan ante un error, una validación fallida, una condición de excepción o un punto de decisión con más de una salida—. En los diagramas, el happy path corresponde a la salida afirmativa de cada rombo de decisión, mientras que los flujos alternativos se representan con las ramas de retorno (líneas discontinuas en color). Cada flujo deriva de los criterios de aceptación Gherkin de las User Stories de la sección 3.1.
+
+---
+
+#### 1. Inicio de sesión
+
+Este diagrama cubre el User Goal de autenticarse en la plataforma, derivado de la User Story **US-15** (y del endpoint **TS-01**). Representa el ingreso de credenciales, su validación, la verificación de vigencia de la sesión y la redirección del usuario a las funciones correspondientes a su rol.
+
+- **Happy path:** el usuario ingresa correo y contraseña, las credenciales son válidas y la sesión está activa; el sistema autentica al usuario y lo redirige a las funciones de su rol.
+- **Flujos alternativos:** (a) si las credenciales no son válidas, el sistema muestra un mensaje genérico sin indicar cuál dato falló y regresa al ingreso de credenciales; (b) si la sesión está expirada, el sistema solicita iniciar sesión nuevamente.
+
+**Figura 44**
+
+*Diagrama de flujo de usuario — Inicio de sesión en la plataforma Vigía*
+
+![Diagrama de flujo de usuario — Inicio de sesión](../../assets/Chapther-4/userflow-diagram/Blank%20diagram%20-%20Page%201%20Inicio%20de%20sesio%CC%81n%20en%20la%20plataforma%20Vigi%CC%81a.png)
+
+---
+
+#### 2. Pedido de materiales y emisión del despacho
+
+Este diagrama cubre el User Goal de solicitar materiales y conformar el despacho que sale del almacén, derivado de las User Stories **US-03, US-16, US-04 y US-05**. Se representa con carriles (swimlanes) para los roles Residente de obra y Jefe de almacén.
+
+- **Happy path:** el residente envía el pedido; el almacén tiene existencia suficiente, conforma la carga, registra el pesaje —que coincide con el estimado— y emite la guía de remisión digital, autorizando la salida del despacho.
+- **Flujos alternativos:** (a) si no hay existencia suficiente, el sistema marca el pedido como "Atención parcial" e indica el material faltante; (b) si el peso registrado no coincide con el estimado dentro del margen tolerable, el sistema marca el despacho con una alerta de revisión; (c) si el despacho no tiene el pesaje registrado, el sistema impide emitir la guía e indica el dato faltante.
+
+**Figura 45**
+
+*Diagrama de flujo de usuario — Pedido de materiales y emisión del despacho en Vigía*
+
+![Diagrama de flujo de usuario — Pedido de materiales y emisión del despacho](../../assets/Chapther-4/userflow-diagram/Blank%20diagram%20-%20Page%201%20Pedido%20de%20materiales%20y%20emisio%CC%81n%20del%20despacho%20en%20Vigi%CC%81a.png)
+
+---
+
+#### 3. Recepción y verificación en obra
+
+Este diagrama cubre el User Goal de recibir y verificar el material en el frente de obra, derivado de las User Stories **US-09, US-10 y US-14**. Contempla además la operación bajo conectividad intermitente.
+
+- **Happy path:** la unidad llega con un despacho autorizado, el residente coteja lo recibido contra la guía de remisión, las cantidades coinciden y el sistema registra la conformidad de recepción y cierra el despacho.
+- **Flujos alternativos:** (a) si las cantidades no coinciden, el residente registra la diferencia, el sistema abre un caso de discrepancia vinculado al despacho y el residente adjunta evidencia fotográfica; (b) si no hay conexión a internet, el sistema almacena el registro localmente hasta el siguiente ciclo de sincronización periódica; con conexión, lo sincroniza de inmediato con el servidor.
+
+**Figura 46**
+
+*Diagrama de flujo de usuario — Recepción y verificación de materiales en Vigía*
+
+![Diagrama de flujo de usuario — Recepción y verificación de materiales](../../assets/Chapther-4/userflow-diagram/Blank%20diagram%20-%20Page%201%20Recepcio%CC%81n%20y%20verificacio%CC%81n%20de%20materiales%20en%20Vigi%CC%81a.png)
+
+---
+
+#### 4. Gestión de un caso de discrepancia
+
+Este diagrama cubre el User Goal de investigar y cerrar un caso de discrepancia, derivado de las User Stories **US-11, US-12 y US-13**, desde el rol Responsable de oficina técnica.
+
+- **Happy path:** el responsable consulta el caso y la línea de tiempo consolidada (almacén, transporte y obra), solicita el reporte de sustento; al existir evidencia suficiente de todas las partes, el sistema genera el documento descargable, el responsable registra la responsabilidad, confirma el cierre y el sistema incorpora el caso al historial del despacho.
+- **Flujo alternativo:** si la evidencia es insuficiente, el sistema indica expresamente qué evidencia falta y el flujo regresa a la consulta del caso para completarla.
+
+**Figura 47**
+
+*Diagrama de flujo de usuario — Gestión de un caso de discrepancia en Vigía*
+
+![Diagrama de flujo de usuario — Gestión de un caso de discrepancia](../../assets/Chapther-4/userflow-diagram/Blank%20diagram%20-%20Page%201%20Gestio%CC%81n%20de%20un%20caso%20de%20discrepancia%20en%20Vigi%CC%81a.png)
+
+A continuación se presenta la misma gestión de discrepancia en una vista resumida, que condensa cada etapa en una sola acción para facilitar su lectura general; conserva el mismo happy path (evidencia suficiente → reporte → responsabilidad → cierre) y el mismo flujo alternativo (evidencia insuficiente → indicar qué falta → regresar a la consulta).
+
+**Figura 48**
+
+*Diagrama de flujo de usuario — Gestión de un caso de discrepancia en Vigía (vista resumida)*
+
+![Diagrama de flujo de usuario — Gestión de un caso de discrepancia (vista resumida)](../../assets/Chapther-4/userflow-diagram/Blank%20diagram%20-%20Page%201%20Gestio%CC%81n%20de%20un%20caso%20de%20discrepancia%20en%20Vigi%CC%81a%20%281%29.png)
+
 
 <!-- Fuente: report/chapters/chapter-4-product-design/4.5-web-applications-prototyping.md -->
 
@@ -2017,13 +2210,16 @@ El prototipo para Desktop Web Browser fue elaborado a partir de los Mock-ups des
 
 #### Evidencia del prototipo
 
+**Figura 49**
+
 ![Desktop Web Application Prototype](../../assets/Chapther-4/prototype/prototype-evidence.png)
 
 **Enlace al prototipo en Figma:**  
-[Desktop Web Application Prototype](https://www.figma.com/design/TqDOrA0R14a6qmep8lPz1H/Vigia?node-id=1218-2290&p=f&t=HegcE0HlCG9iQoek-0)
+[Desktop Web Application Prototype](https://da.gd/Ywria)
 
 **Video de navegación del prototipo:**  
-[Prototype Navigation Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201a277_upc_edu_pe/IQALhIpva1O8S6xgVQbAXuQ4ARUy4APNGKC6cpgeixn5W5M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=c2dhjG)
+[Prototype Navigation Video](https://tinyurl.com/2btzqwvo)
+
 
 <!-- Fuente: report/chapters/chapter-4-product-design/4.6-domain-driven-software-architecture.md -->
 
@@ -2036,6 +2232,7 @@ El recorrido de la sección es el siguiente. La sección 4.6.1 documenta la sesi
 Los diagramas del C4 Model se elaboran con Structurizr, herramienta indicada en la sección de Tecnología del enunciado del proyecto para los diagramas de Software Architecture bajo C4 Model.
 
 **Sobre el idioma de los artefactos.** Los nombres de Bounded Contexts y Aggregates se expresan en inglés, con su equivalente en español entre paréntesis en la primera mención de cada contexto. Esta decisión mantiene la correspondencia con el Ubiquitous Language de la sección 2.5, que conforme al enunciado del proyecto se redacta en inglés, y con el idioma por defecto de los productos de la solución. Los comandos, eventos, procesos de negocio y modelos de lectura conservan la redacción en español empleada en los tableros de EventStorming, de modo que la trazabilidad entre las secciones 2.4, 4.6.1 y el código permanezca visible.
+
 
 <!-- Fuente: report/chapters/chapter-4-product-design/4.6.1-design-level-eventstorming.md -->
 
@@ -2332,7 +2529,7 @@ El segundo es una corrección en el orden de resolución de un caso de discrepan
 
 **Evidencia de la sesión.**
 
-**Figura n**
+**Figura 50**
 
 *Bounded Context Gestión de Cuentas y Accesos del Design-Level EventStorming de Vigía*
 
@@ -2340,7 +2537,7 @@ El segundo es una corrección en el orden de resolución de un caso de discrepan
 
 *Nota.* Elaborado por el equipo de Trazza Labs en la herramienta Miro. Muestra el registro de la empresa, la activación de la suscripción a través de la pasarela de pago y el tratamiento del pago rechazado mediante el proceso de negocio de retención de suscripción.
 
-**Figura n**
+**Figura 51**
 
 *Bounded Context Identity and Access Management del Design-Level EventStorming de Vigía*
 
@@ -2348,7 +2545,7 @@ El segundo es una corrección en el orden de resolución de un caso de discrepan
 
 *Nota.* Elaborado por el equipo de Trazza Labs en la herramienta Miro. Muestra el flujo de invitación y asignación de roles, y el flujo de acceso con sus desenlaces alternativos de autenticación fallida, sesión expirada y acceso denegado.
 
-**Figura n**
+**Figura 52**
 
 *Bounded Context Fleet and Device Management del Design-Level EventStorming de Vigía*
 
@@ -2356,7 +2553,7 @@ El segundo es una corrección en el orden de resolución de un caso de discrepan
 
 *Nota.* Elaborado por el equipo de Trazza Labs en la herramienta Miro. Muestra el alta de la unidad de transporte, la vinculación del dispositivo GPS con su proceso de validación de disponibilidad, y la definición de las geocercas del almacén y de la obra sobre el agregado Geofence.
 
-**Figura n**
+**Figura 53**
 
 *Bounded Context Ordering and Dispatch del Design-Level EventStorming de Vigía*
 
@@ -2364,7 +2561,7 @@ El segundo es una corrección en el orden de resolución de un caso de discrepan
 
 *Nota.* Elaborado por el equipo de Trazza Labs en la herramienta Miro. Muestra la secuencia completa desde la solicitud del pedido hasta el registro de la salida de la unidad, con los agregados Pedido, Despacho y Recorrido, y los procesos de negocio de evaluación de cobertura, validación del pesaje y detección de salida de geocerca.
 
-**Figura n**
+**Figura 54**
 
 *Bounded Context Transit Traceability del Design-Level EventStorming de Vigía*
 
@@ -2372,7 +2569,7 @@ El segundo es una corrección en el orden de resolución de un caso de discrepan
 
 *Nota.* Elaborado por el equipo de Trazza Labs en la herramienta Miro. Muestra los eventos generados por la plataforma de telemetría GPS sobre el agregado Recorrido. Es el único marco del tablero que no contiene ninguna nota de rol de usuario.
 
-**Figura n**
+**Figura 55**
 
 *Bounded Context Site Reception and Verification del Design-Level EventStorming de Vigía*
 
@@ -2380,7 +2577,7 @@ El segundo es una corrección en el orden de resolución de un caso de discrepan
 
 *Nota.* Elaborado por el equipo de Trazza Labs en la herramienta Miro. Muestra el registro de la llegada, su cotejo contra el ingreso a la geocerca, la verificación del material con el modelo de lectura de la guía de remisión, y la bifurcación entre conformidad y discrepancia.
 
-**Figura n**
+**Figura 56**
 
 *Bounded Context Discrepancy and Evidence Management del Design-Level EventStorming de Vigía*
 
@@ -2388,7 +2585,8 @@ El segundo es una corrección en el orden de resolución de un caso de discrepan
 
 *Nota.* Elaborado por el equipo de Trazza Labs en la herramienta Miro. Muestra la apertura automática del caso, la consolidación de la evidencia de los tres tramos, la generación del reporte de sustento, la determinación de responsabilidad con el modelo de lectura de la línea de tiempo consolidada, y el cierre del caso.
 
-Link del tablero colaborativo en Miro: (Event-Storming)[https://miro.com/app/board/uXjVHmvI2_I=/?share_link_id=10349296586]
+Link del tablero colaborativo en Miro: (Event-Storming)[https://da.gd/hqzGI]
+
 
 <!-- Fuente: report/chapters/chapter-4-product-design/4.6.2-software-architecture-context-diagram.md -->
 
@@ -2425,13 +2623,14 @@ En segundo lugar, la relación con la plataforma de telemetría es la única cuy
 
 En tercer lugar, Vigía no se integra con sistemas de gestión de obra ni con sistemas de control de flota. Esta ausencia es deliberada para el alcance actual: la solución constituye el registro de origen de los eventos de custodia y no un agregador de información producida por otros sistemas.
 
-**Figura n**
+**Figura 57**
 
 *Diagrama de contexto de la arquitectura de software de Vigía*
 
 ![IMAGEN — diagrama de contexto](../../assets/Chapther-4/c4-model/c4-model-context-diagram.png)
 
 *Nota.* Elaborado por el equipo de Trazza Labs en draw.io, aplicando el C4 Model de Simon Brown. Los recuadros de borde punteado delimitan las dos organizaciones que participan de la cadena de custodia. El diagrama editable puede consultarse en: [ENLACE].
+
 
 <!-- Fuente: report/chapters/chapter-4-product-design/4.6.3-software-architecture-container-diagrams.md -->
 
@@ -2471,13 +2670,14 @@ Las tecnologías corresponden a las indicadas en la sección de Tecnología del 
 
 *Dos marcas de tiempo en los reportes de posición.* El endpoint de ingesta conserva la marca de tiempo de ocurrencia informada por el dispositivo y registra además la marca de tiempo de recepción en el servidor. Conservar ambas permite distinguir cuándo ocurrió el hecho de cuándo llegó su registro, distinción de la que depende el valor probatorio de la evidencia consolidada en un caso de discrepancia.
 
-**Figura n**
+**Figura 58**
 
 *Diagrama de contenedores de la arquitectura de software de Vigía*
 
 ![IMAGEN — diagrama de contenedores](../../assets/Chapther-4/c4-model/c4-model-container-diagram.png)
 
 *Nota.* Elaborado por el equipo de Trazza Labs en draw.io, aplicando el C4 Model de Simon Brown. El recuadro de borde punteado delimita el alcance del sistema. El diagrama editable puede consultarse en: [ENLACE].
+
 
 <!-- Fuente: report/chapters/chapter-4-product-design/4.6.4-software-architecture-components-diagrams.md -->
 
@@ -2520,13 +2720,13 @@ El componente de tránsito es el único que no recibe llamadas originadas en la 
 
 **Interacción entre componentes.** Los componentes de dominio se comunican entre sí siguiendo las relaciones establecidas en la sección 4.6.1. Por legibilidad, el diagrama representa únicamente las tres relaciones que convergen en el componente de discrepancias desde los componentes de despacho, tránsito y recepción, que son las que sostienen la línea de tiempo consolidada de un caso. El conjunto completo de relaciones entre contextos se encuentra en la tabla correspondiente de la sección 4.6.1.
 
-**Figura n**
+**Figura 59**
 
 *Diagrama de componentes del RESTful API de Vigía*
 
 ![IMAGEN — componentes del RESTful API](../../assets/Chapther-4/c4-model/c4-model-component-diagram-restful_api.png)
 
-*Nota.* Elaborado por el equipo de Trazza Labs en draw.io, aplicando el C4 Model de Simon Brown. Los ocho componentes de dominio corresponden uno a uno con los Bounded Contexts identificados en la sección 4.6.1. El diagrama editable puede consultarse en: [C4-Model](https://drive.google.com/drive/folders/1ulaVldRC3op0fzlr8bJrSKF164jlX3jc?usp=sharing).
+*Nota.* Elaborado por el equipo de Trazza Labs en draw.io, aplicando el C4 Model de Simon Brown. Los ocho componentes de dominio corresponden uno a uno con los Bounded Contexts identificados en la sección 4.6.1. El diagrama editable puede consultarse en: [C4-Model](https://tinyurl.com/284v5twu).
 
 ---
 
@@ -2561,13 +2761,13 @@ Además de los once módulos, el container incluye cuatro componentes transversa
 
 **Interacción entre componentes.** Por legibilidad, el diagrama no traza una flecha individual desde cada uno de los once módulos hacia el cliente del API: todos ellos invocan al cliente de la misma manera, y esa relación se generaliza en una sola flecha entre los módulos y el cliente del API.
 
-**Figura n**
+**Figura 60**
 
 *Diagrama de componentes de la Web Application de Vigía*
 
 ![IMAGEN — componentes de la Web Application](../../assets/Chapther-4/c4-model/c4-model-component-diagram-web_application.png)
 
-*Nota.* Elaborado por el equipo de Trazza Labs en draw.io, aplicando el C4 Model de Simon Brown. Los módulos se agrupan por la navegación real de la aplicación, construida a partir de los mockups de Figma. El diagrama editable puede consultarse en: [C4-Model](https://drive.google.com/drive/folders/1ulaVldRC3op0fzlr8bJrSKF164jlX3jc?usp=sharing).
+*Nota.* Elaborado por el equipo de Trazza Labs en draw.io, aplicando el C4 Model de Simon Brown. Los módulos se agrupan por la navegación real de la aplicación, construida a partir de los mockups de Figma. El diagrama editable puede consultarse en: [C4-Model](https://tinyurl.com/284v5twu).
 
 ---
 
@@ -2593,19 +2793,21 @@ El componente de demo es el único con relación directa al RESTful API. El enca
 
 Ninguna de las secciones exige autenticación, a diferencia de los otros dos containers. Es la razón por la que aquí no existe un componente de control de acceso.
 
-**Figura n**
+**Figura 61**
 
 *Diagrama de componentes del Landing Page de Vigía*
 
 ![IMAGEN — componentes del Landing Page](../../assets/Chapther-4/c4-model/c4-model-component-diagram-landing_page.png)
 
-*Nota.* Elaborado por el equipo de Trazza Labs en draw.io, aplicando el C4 Model de Simon Brown. El formulario de demostración es el único componente con relación directa al RESTful API. El diagrama editable puede consultarse en: [C4-Model](https://drive.google.com/drive/folders/1ulaVldRC3op0fzlr8bJrSKF164jlX3jc?usp=sharing).
+*Nota.* Elaborado por el equipo de Trazza Labs en draw.io, aplicando el C4 Model de Simon Brown. El formulario de demostración es el único componente con relación directa al RESTful API. El diagrama editable puede consultarse en: [C4-Model](https://tinyurl.com/284v5twu).
+
 
 <!-- Fuente: report/chapters/chapter-4-product-design/4.7-software-object-oriented-design.md -->
 
 ## 4.7. Software Object-Oriented Design
 
 En esta sección se detalla el diseño orientado a objetos del backend de la plataforma Vigía, modelado a partir de los conceptos estratégicos y tácticos identificados en el Design-Level EventStorming (sección 4.6.1) y el lenguaje ubicuo (Ubiquitous Language, sección 2.5).   El diseño se estructura bajo los principios de Domain-Driven Design (DDD) y la arquitectura limpia (Clean Architecture), adoptando el paradigma orientado a objetos sobre el lenguaje de programación C# (.NET 8). Los modelos de dominio encapsulan las reglas de negocio e invariantes críticas de cada Bounded Context, abstrayendo la persistencia y la infraestructura mediante contratos e interfaces desacopladas. Para cada contexto delimitado, se presentan las entidades raíz de agregado (Aggregate Roots), entidades secundarias, objetos de valor (Value Objects), enumeraciones (Enums) e interfaces de repositorios o servicios de dominio, garantizando una alta cohesión interna y bajo acoplamiento entre módulos.
+
 
 <!-- Fuente: report/chapters/chapter-4-product-design/4.7.1-class-diagrams.md -->
 
@@ -2616,45 +2818,779 @@ A continuación, se presentan los diagramas de clases UML para cada uno de los B
 ### 1. BC-01: Lead Management (Captación)
 Este contexto administra las solicitudes de demostración originadas por los visitantes a través del Landing Page comercial antes de que exista un vínculo contractual formal.
 
+**Figura 62**
+
 ![Diagrama.1](../../assets/Chapther-4/BC-01.png)
 
 ### 2. BC-02: Identity and Access Management (IAM)
 Este contexto administra las organizaciones cliente, los usuarios autenticados, la asignación estricta de roles y el ciclo de vida de las invitaciones.
+
+**Figura 63**
 
 ![Diagrama.2](../../assets/Chapther-4/BC-02.png)
 
 ### 3. BC-03: Subscriptions and Payment (Suscripciones y Pagos)
 Responde por la relación contractual, los planes SaaS, la facturación recurrente y la integración con la pasarela de pagos externa para autorizar el servicio a las empresas cliente registradas en BC-02.
 
+**Figura 64**
+
 ![Diagrama.3](../../assets/Chapther-4/BC-03.png)
 
 ### 4. BC-04: Fleet and Device Management
 Responde por el registro de los camiones de carga pesada, la vinculación unitaria de dispositivos telemáticos GPS y la delimitación de geocercas en almacenes y obras.
+
+**Figura 65**
 
 ![Diagrama.4](../../assets/Chapther-4/BC-04.png)
 
 ### 5. BC-05: Ordering and Dispatch
 Gestiona el requerimiento de materiales, el desglose de ítems, el pesaje certificado en balanza de plataforma, la conformación de carga y la emisión de la guía de remisión que autoriza la salida del almacén central.
 
+**Figura 66**
+
 ![Diagrama.5](../../assets/Chapther-4/BC-05.png)
 
 ### 6. BC-06: Transit Traceability
 Modela el recorrido satelital continuo de la unidad durante su tránsito, capturando los reportes telemáticos del dispositivo GPS sin intervención humana directa y registrando anomalías de ruta.
+
+**Figura 67**
 
 ![Diagrama.6](../../assets/Chapther-4/BC-06.png)
 
 ### 7. BC-07: Site Reception and Verification
 Cubre la llegada de la unidad al frente de obra, el cotejo de materiales contra la guía digital de remisión y el registro fotográfico de evidencias ante faltantes o daños.
 
+**Figura 68**
+
 ![Diagrama.7](../../assets/Chapther-4/BC-07.png)
 
 ### 8. BC-08: Discrepancy and Evidence Management
 Contexto que consolida los historiales del despacho, el trayecto satelital y la recepción en obra para generar el expediente probatorio, expedir el reporte de sustento y adjudicar formalmente la responsabilidad.
 
+**Figura 69**
+
 ![Diagrama.8](../../assets/Chapther-4/BC-08.png)
 
 
+<!-- Fuente: report/chapters/chapter-4-product-design/4.8-database-design.md -->
+
+### 4.8. Database Design
+
+En esta sección se presenta el diseño de la persistencia de la solución. Partiendo de los diagramas de clases elaborados en la sección 4.7.1, se traduce cada agregado a su representación en una base de datos relacional, especificando las tablas, columnas, constraints y relaciones que permiten conservar el estado del dominio. El motor de base de datos es PostgreSQL, conforme a lo establecido en el Container Diagram de la sección 4.6.3, y el acceso se realiza mediante Entity Framework Core desde la capa de persistencia identificada en la sección 4.6.4.
+
+El diseño responde a cuatro criterios que se aplican de manera uniforme en los ocho Bounded Contexts:
+
+**Un diagrama por Bounded Context.** La separación establecida en la sección 4.6.1 se conserva en el nivel de persistencia. Cada contexto agrupa sus propias tablas y ningún diagrama comparte tablas con otro.
+
+**Los Value Objects se aplanan en la tabla de su agregado.** Un Value Object no posee identidad propia, de modo que sus atributos se incorporan como columnas de la tabla del agregado que lo contiene, empleando un prefijo que indica su procedencia. Así ocurre con `ContactInfo`, `Money`, `Location`, `DigitalWaybill` y `SupportingEvidence`. La única excepción son los Value Objects que aparecen como colección dentro del agregado, como `PositionReport` y `ConsolidatedTimelineEntry`, los cuales requieren tabla propia con clave primaria técnica, ya que una colección no admite representación en columnas.
+
+**Las enumeraciones se representan como columnas de texto con restricción CHECK.** Los valores de cada enumeración provienen del dominio y forman un conjunto cerrado que no se modifica durante la operación, por lo que una tabla de catálogo resultaría innecesaria. La restricción CHECK conserva la misma garantía con menor complejidad.
+
+**No existen claves foráneas entre Bounded Contexts.** Cuando un agregado referencia una entidad de otro contexto, como ocurre con `company_id`, `vehicle_id` o `dispatch_id`, la columna se declara como identificador sin constraint de integridad referencial. Establecer una clave foránea entre contextos acoplaría sus esquemas y contradiría la separación definida en la sección 4.6.1. La consistencia de estas referencias es responsabilidad del componente de dominio correspondiente.
+
+
+<!-- Fuente: report/chapters/chapter-4-product-design/4.8.1-database-diagrams.md -->
+
+#### 4.8.1. Database Diagrams
+
+A continuación se presentan los Database Diagrams correspondientes a cada uno de los ocho Bounded Contexts. Cada diagrama entidad-relación se elabora con **Mermaid** (`erDiagram`), de modo que su definición se escribe en texto y se versiona junto con el informe en el repositorio; a partir de esa definición se genera la imagen que acompaña a cada contexto. Para cada Bounded Context se incluye el diagrama, la relación de tablas con sus columnas y tipos de dato, la especificación de constraints y relaciones, y el código fuente Mermaid que lo produce.
+
 ---
+
+##### 1. BC-01: Lead Management
+
+Este contexto conserva las solicitudes de demostración originadas en el Landing Page. Se resuelve en una sola tabla, sin relaciones, dado que la captación ocurre antes de que exista vínculo contractual con la empresa solicitante. El Value Object `ContactInfo` se aplana con el prefijo `contact_`.
+
+**Tabla `demo_requests`**
+
+| Columna | Tipo | Constraint | Origen en 4.7.1 |
+|---|---|---|---|
+| id | uuid | PRIMARY KEY | `DemoRequest.id` |
+| company_name | varchar(150) | NOT NULL | `DemoRequest.companyName` |
+| segment | varchar(30) | NOT NULL, CHECK | enum `TargetSegment` |
+| contact_full_name | varchar(120) | NOT NULL | VO `ContactInfo.fullName` |
+| contact_business_email | varchar(150) | NOT NULL | VO `ContactInfo.businessEmail` |
+| contact_phone_number | varchar(20) | NOT NULL | VO `ContactInfo.phoneNumber` |
+| status | varchar(20) | NOT NULL, CHECK | enum `DemoRequestStatus` |
+| submitted_at | timestamptz | NOT NULL | `DemoRequest.submittedAt` |
+| contacted_at | timestamptz | NULL | `DemoRequest.contactedAt` |
+
+**Constraints**
+
+| Nombre | Tipo | Definición |
+|---|---|---|
+| pk_demo_requests | PRIMARY KEY | `(id)` |
+| ck_demo_requests_segment | CHECK | `segment IN ('CONSTRUCTION_COMPANY', 'LOGISTICS_AND_TRANSPORT')` |
+| ck_demo_requests_status | CHECK | `status IN ('SUBMITTED', 'CONTACTED', 'SCHEDULED', 'DISCARDED')` |
+
+**Figura 70**
+
+*Diagrama de base de datos del Bounded Context BC-01: Lead Management*
+
+![Diagrama de base de datos BC-01](../../assets/Chapther-4/databases/database-diagram-bc-01.png)
+*Nota.* Elaboración propia del equipo de Trazza Labs, derivada del diagrama de clases de la sección 4.7.1. El diagrama se modela como entidad-relación y se genera a partir de su definición en texto (Mermaid `erDiagram`), de modo que permanece versionado junto con el informe.
+
+**Código fuente del diagrama (Mermaid `erDiagram`)**
+
+```mermaid
+erDiagram
+    demo_requests {
+        uuid id PK
+        varchar company_name
+        varchar segment "CHECK enum"
+        varchar contact_full_name
+        varchar contact_business_email
+        varchar contact_phone_number
+        varchar status "CHECK enum"
+        timestamptz submitted_at
+        timestamptz contacted_at "NULL"
+    }
+```
+
+---
+
+##### 2. BC-02: Identity and Access Management
+
+Este contexto sostiene el registro de las organizaciones cliente, sus usuarios y el ciclo de vida de las invitaciones. La tabla `companies` actúa como raíz y las otras dos dependen de ella. El atributo `role` acota, mediante una restricción `CHECK`, el conjunto de roles que un usuario autenticado puede asumir en la plataforma; este conjunto cubre a todos los actores de la cadena de custodia identificados en las User Stories de la sección 3.1, tanto los del segmento de empresas constructoras (`ADMINISTRATOR`, `RESIDENT_ENGINEER`, `TECHNICAL_OFFICE_MANAGER`) como los del segmento de logística y transporte (`WAREHOUSE_MANAGER`, `DISPATCHER`, `CARRIER`), dado que un usuario del operador logístico pertenece a su propia organización registrada en `companies`.
+
+**Tabla `companies`**
+
+| Columna | Tipo | Constraint |
+|---|---|---|
+| id | uuid | PRIMARY KEY |
+| legal_name | varchar(200) | NOT NULL |
+| tax_id | varchar(15) | NOT NULL, UNIQUE |
+| subscription_active | boolean | NOT NULL, DEFAULT false |
+| created_at | timestamptz | NOT NULL |
+
+**Tabla `users`**
+
+| Columna | Tipo | Constraint |
+|---|---|---|
+| id | uuid | PRIMARY KEY |
+| company_id | uuid | NOT NULL, FOREIGN KEY → `companies(id)` |
+| full_name | varchar(120) | NOT NULL |
+| email | varchar(150) | NOT NULL, UNIQUE |
+| password_hash | varchar(255) | NOT NULL |
+| role | varchar(30) | NOT NULL, CHECK |
+| is_active | boolean | NOT NULL, DEFAULT true |
+
+**Tabla `invitations`**
+
+| Columna | Tipo | Constraint |
+|---|---|---|
+| id | uuid | PRIMARY KEY |
+| company_id | uuid | NOT NULL, FOREIGN KEY → `companies(id)` |
+| email | varchar(150) | NOT NULL |
+| role_assigned | varchar(30) | NOT NULL, CHECK |
+| status | varchar(20) | NOT NULL, CHECK |
+| sent_at | timestamptz | NOT NULL |
+| accepted_at | timestamptz | NULL |
+
+**Relaciones**
+
+| Origen | Destino | Cardinalidad | Regla de borrado |
+|---|---|---|---|
+| users.company_id | companies.id | N:1 | ON DELETE RESTRICT |
+| invitations.company_id | companies.id | N:1 | ON DELETE CASCADE |
+
+**Constraints CHECK**
+
+| Nombre | Definición |
+|---|---|
+| ck_users_role | `role IN ('ADMINISTRATOR', 'RESIDENT_ENGINEER', 'WAREHOUSE_MANAGER', 'TECHNICAL_OFFICE_MANAGER', 'DISPATCHER', 'CARRIER')` |
+| ck_invitations_role | `role_assigned IN ('ADMINISTRATOR', 'RESIDENT_ENGINEER', 'WAREHOUSE_MANAGER', 'TECHNICAL_OFFICE_MANAGER', 'DISPATCHER', 'CARRIER')` |
+| ck_invitations_status | `status IN ('PENDING', 'ACCEPTED', 'REVOKED', 'EXPIRED')` |
+
+**Figura 71**
+
+*Diagrama de base de datos del Bounded Context BC-02: Identity and Access Management*
+
+![Diagrama de base de datos BC-02](../../assets/Chapther-4/databases/database-diagram-bc-02.png)
+*Nota.* Elaboración propia del equipo de Trazza Labs, derivada del diagrama de clases de la sección 4.7.1. El diagrama se modela como entidad-relación y se genera a partir de su definición en texto (Mermaid `erDiagram`), de modo que permanece versionado junto con el informe.
+
+**Código fuente del diagrama (Mermaid `erDiagram`)**
+
+```mermaid
+erDiagram
+    companies {
+        uuid id PK
+        varchar legal_name
+        varchar tax_id UK
+        boolean subscription_active
+        timestamptz created_at
+    }
+    users {
+        uuid id PK
+        uuid company_id FK
+        varchar full_name
+        varchar email UK
+        varchar password_hash
+        varchar role "CHECK enum"
+        boolean is_active
+    }
+    invitations {
+        uuid id PK
+        uuid company_id FK
+        varchar email
+        varchar role_assigned "CHECK enum"
+        varchar status "CHECK enum"
+        timestamptz sent_at
+        timestamptz accepted_at "NULL"
+    }
+    companies ||--o{ users : "emplea (RESTRICT)"
+    companies ||--o{ invitations : "envia (CASCADE)"
+```
+
+---
+
+##### 3. BC-03: Subscriptions and Payment
+
+Este contexto sostiene la relación contractual con la empresa cliente y el registro de los pagos procesados por la pasarela externa. El Value Object `Money` se aplana en dos tablas distintas, con prefijo `price_` en el plan y `amount_paid_` en la transacción.
+
+**Tabla `subscription_plans`**
+
+| Columna | Tipo | Constraint |
+|---|---|---|
+| id | uuid | PRIMARY KEY |
+| tier | varchar(20) | NOT NULL, CHECK |
+| name | varchar(80) | NOT NULL |
+| max_active_jobsites | integer | NOT NULL |
+| max_monthly_dispatches | integer | NOT NULL |
+| price_amount | numeric(12,2) | NOT NULL, CHECK |
+| price_currency | char(3) | NOT NULL |
+
+**Tabla `subscriptions`**
+
+| Columna | Tipo | Constraint |
+|---|---|---|
+| id | uuid | PRIMARY KEY |
+| company_id | uuid | NOT NULL |
+| plan_id | uuid | NOT NULL, FOREIGN KEY → `subscription_plans(id)` |
+| start_date | date | NOT NULL |
+| renewal_date | date | NOT NULL |
+| status | varchar(20) | NOT NULL, CHECK |
+
+**Tabla `payment_transactions`**
+
+| Columna | Tipo | Constraint |
+|---|---|---|
+| id | uuid | PRIMARY KEY |
+| subscription_id | uuid | NOT NULL, FOREIGN KEY → `subscriptions(id)` |
+| external_gateway_tx_id | varchar(120) | NOT NULL, UNIQUE |
+| amount_paid_amount | numeric(12,2) | NOT NULL |
+| amount_paid_currency | char(3) | NOT NULL |
+| processed_at | timestamptz | NOT NULL |
+| status | varchar(20) | NOT NULL, CHECK |
+| failure_reason | varchar(300) | NULL |
+
+**Relaciones**
+
+| Origen | Destino | Cardinalidad | Regla de borrado |
+|---|---|---|---|
+| subscriptions.plan_id | subscription_plans.id | N:1 | ON DELETE RESTRICT |
+| payment_transactions.subscription_id | subscriptions.id | N:1 | ON DELETE CASCADE |
+| subscriptions.company_id | *(BC-02)* | — | Sin clave foránea |
+
+**Constraints CHECK**
+
+| Nombre | Definición |
+|---|---|
+| ck_subscription_plans_tier | `tier IN ('STARTER', 'PROFESSIONAL', 'ENTERPRISE')` |
+| ck_subscription_plans_price | `price_amount >= 0` |
+| ck_subscriptions_status | `status IN ('PENDING_PAYMENT', 'ACTIVE', 'SUSPENDED', 'EXPIRED', 'CANCELLED')` |
+| ck_payment_transactions_status | `status IN ('PENDING', 'AUTHORIZED', 'REJECTED', 'REFUNDED')` |
+
+**Figura 72**
+
+*Diagrama de base de datos del Bounded Context BC-03: Subscriptions and Payment*
+
+![Diagrama de base de datos BC-03](../../assets/Chapther-4/databases/database-diagram-bc-03.png)
+*Nota.* Elaboración propia del equipo de Trazza Labs, derivada del diagrama de clases de la sección 4.7.1. El diagrama se modela como entidad-relación y se genera a partir de su definición en texto (Mermaid `erDiagram`), de modo que permanece versionado junto con el informe.
+
+**Código fuente del diagrama (Mermaid `erDiagram`)**
+
+```mermaid
+erDiagram
+    subscription_plans {
+        uuid id PK
+        varchar tier "CHECK enum"
+        varchar name
+        integer max_active_jobsites
+        integer max_monthly_dispatches
+        numeric price_amount "CHECK min 0"
+        char price_currency
+    }
+    subscriptions {
+        uuid id PK
+        uuid company_id "BC-02, sin FK"
+        uuid plan_id FK
+        date start_date
+        date renewal_date
+        varchar status "CHECK enum"
+    }
+    payment_transactions {
+        uuid id PK
+        uuid subscription_id FK
+        varchar external_gateway_tx_id UK
+        numeric amount_paid_amount
+        char amount_paid_currency
+        timestamptz processed_at
+        varchar status "CHECK enum"
+        varchar failure_reason "NULL"
+    }
+    subscription_plans ||--o{ subscriptions : "define (RESTRICT)"
+    subscriptions ||--o{ payment_transactions : "registra (CASCADE)"
+```
+
+---
+
+##### 4. BC-04: Fleet and Device Management
+
+Este contexto sostiene el registro de las unidades de transporte y la delimitación de geocercas. Sus dos tablas corresponden a agregados independientes y no existe relación entre ellas: la evaluación de si una unidad se encuentra dentro de una geocerca se resuelve en el componente de dominio, no mediante una relación en la base de datos. El Value Object `Location` se aplana con prefijo `current_pos_` en las unidades y `center_` en las geocercas.
+
+**Tabla `vehicles`**
+
+| Columna | Tipo | Constraint |
+|---|---|---|
+| id | uuid | PRIMARY KEY |
+| company_id | uuid | NOT NULL |
+| license_plate | varchar(10) | NOT NULL, UNIQUE |
+| brand | varchar(50) | NOT NULL |
+| model | varchar(50) | NOT NULL |
+| max_capacity_tons | numeric(8,2) | NOT NULL |
+| is_gps_paired | boolean | NOT NULL, DEFAULT false |
+| gps_device_id | varchar(60) | NULL, UNIQUE |
+| current_pos_latitude | double precision | NULL |
+| current_pos_longitude | double precision | NULL |
+
+**Tabla `geofences`**
+
+| Columna | Tipo | Constraint |
+|---|---|---|
+| id | uuid | PRIMARY KEY |
+| company_id | uuid | NOT NULL |
+| name | varchar(120) | NOT NULL |
+| type | varchar(20) | NOT NULL, CHECK |
+| center_latitude | double precision | NOT NULL |
+| center_longitude | double precision | NOT NULL |
+| radius_meters | double precision | NOT NULL, CHECK |
+
+**Constraints**
+
+| Nombre | Tipo | Definición |
+|---|---|---|
+| uq_vehicles_license_plate | UNIQUE | `(license_plate)` |
+| uq_vehicles_gps_device_id | UNIQUE | `(gps_device_id)` — garantiza la vinculación unitaria del dispositivo |
+| ck_vehicles_gps_pairing | CHECK | `(is_gps_paired = false AND gps_device_id IS NULL) OR (is_gps_paired = true AND gps_device_id IS NOT NULL)` |
+| ck_geofences_type | CHECK | `type IN ('WAREHOUSE', 'JOB_SITE')` |
+| ck_geofences_radius | CHECK | `radius_meters > 0` |
+
+**Figura 73**
+
+*Diagrama de base de datos del Bounded Context BC-04: Fleet and Device Management*
+![Diagrama de base de datos BC-04](../../assets/Chapther-4/databases/database-diagram-bc-04.png)
+
+*Nota.* Elaboración propia del equipo de Trazza Labs, derivada del diagrama de clases de la sección 4.7.1. El diagrama se modela como entidad-relación y se genera a partir de su definición en texto (Mermaid `erDiagram`), de modo que permanece versionado junto con el informe.
+
+**Código fuente del diagrama (Mermaid `erDiagram`)**
+
+```mermaid
+erDiagram
+    vehicles {
+        uuid id PK
+        uuid company_id
+        varchar license_plate UK
+        varchar brand
+        varchar model
+        numeric max_capacity_tons
+        boolean is_gps_paired
+        varchar gps_device_id UK "NULL"
+        double current_pos_latitude "NULL"
+        double current_pos_longitude "NULL"
+    }
+    geofences {
+        uuid id PK
+        uuid company_id
+        varchar name
+        varchar type "CHECK enum"
+        double center_latitude
+        double center_longitude
+        double radius_meters "CHECK min 0"
+    }
+```
+
+---
+
+##### 5. BC-05: Ordering and Dispatch
+
+Este contexto sostiene el pedido de materiales, su desglose en ítems y la conformación del despacho que sale del almacén. La tabla `orders` actúa como raíz de las otras dos. El Value Object `DigitalWaybill` se aplana en `dispatches` con prefijo `waybill_`, y sus columnas admiten nulo porque el despacho existe antes de que se emita la guía de remisión.
+
+**Tabla `orders`**
+
+| Columna | Tipo | Constraint |
+|---|---|---|
+| id | uuid | PRIMARY KEY |
+| site_id | uuid | NOT NULL |
+| requested_by_user_id | uuid | NOT NULL |
+| order_date | timestamptz | NOT NULL |
+| status | varchar(25) | NOT NULL, CHECK |
+
+**Tabla `order_items`**
+
+| Columna | Tipo | Constraint |
+|---|---|---|
+| id | uuid | PRIMARY KEY |
+| order_id | uuid | NOT NULL, FOREIGN KEY → `orders(id)` |
+| material_name | varchar(150) | NOT NULL |
+| unit_of_measure | varchar(15) | NOT NULL |
+| requested_quantity | numeric(12,3) | NOT NULL |
+| assigned_quantity | numeric(12,3) | NOT NULL, DEFAULT 0 |
+
+**Tabla `dispatches`**
+
+| Columna | Tipo | Constraint |
+|---|---|---|
+| id | uuid | PRIMARY KEY |
+| order_id | uuid | NOT NULL, FOREIGN KEY → `orders(id)` |
+| vehicle_id | uuid | NOT NULL |
+| carrier_id | uuid | NOT NULL |
+| estimated_weight_kg | numeric(12,2) | NOT NULL |
+| scale_weight_kg | numeric(12,2) | NOT NULL |
+| status | varchar(30) | NOT NULL, CHECK |
+| departed_at | timestamptz | NULL |
+| waybill_number | varchar(40) | NULL |
+| waybill_issued_at | timestamptz | NULL |
+| waybill_authorized_by_user_id | uuid | NULL |
+
+**Relaciones**
+
+| Origen | Destino | Cardinalidad | Regla de borrado |
+|---|---|---|---|
+| order_items.order_id | orders.id | N:1 (1..*) | ON DELETE CASCADE |
+| dispatches.order_id | orders.id | N:1 (0..*) | ON DELETE RESTRICT |
+| dispatches.vehicle_id | *(BC-04)* | — | Sin clave foránea |
+| orders.site_id, orders.requested_by_user_id, dispatches.carrier_id | *(otros contextos)* | — | Sin clave foránea |
+
+**Constraints CHECK**
+
+| Nombre | Definición |
+|---|---|
+| ck_orders_status | `status IN ('PENDING', 'PARTIALLY_ATTENDED', 'COMPLETELY_ATTENDED', 'CANCELLED')` |
+| ck_dispatches_status | `status IN ('DRAFT', 'WEIGHT_CONFIRMED', 'WEIGHT_FLAGGED_FOR_REVIEW', 'WAYBILL_ISSUED', 'DEPARTED')` |
+| ck_order_items_quantities | `assigned_quantity <= requested_quantity` |
+
+**Figura 74**
+
+*Diagrama de base de datos del Bounded Context BC-05: Ordering and Dispatch*
+
+![Diagrama de base de datos BC-05](../../assets/Chapther-4/databases/database-diagram-bc-05.png)
+*Nota.* Elaboración propia del equipo de Trazza Labs, derivada del diagrama de clases de la sección 4.7.1. El diagrama se modela como entidad-relación y se genera a partir de su definición en texto (Mermaid `erDiagram`), de modo que permanece versionado junto con el informe.
+
+**Código fuente del diagrama (Mermaid `erDiagram`)**
+
+```mermaid
+erDiagram
+    orders {
+        uuid id PK
+        uuid site_id
+        uuid requested_by_user_id
+        timestamptz order_date
+        varchar status "CHECK enum"
+    }
+    order_items {
+        uuid id PK
+        uuid order_id FK
+        varchar material_name
+        varchar unit_of_measure
+        numeric requested_quantity
+        numeric assigned_quantity
+    }
+    dispatches {
+        uuid id PK
+        uuid order_id FK
+        uuid vehicle_id "BC-04, sin FK"
+        uuid carrier_id
+        numeric estimated_weight_kg
+        numeric scale_weight_kg
+        varchar status "CHECK enum"
+        timestamptz departed_at "NULL"
+        varchar waybill_number "NULL"
+        timestamptz waybill_issued_at "NULL"
+        uuid waybill_authorized_by_user_id "NULL"
+    }
+    orders ||--|{ order_items : "contiene (CASCADE)"
+    orders ||--o{ dispatches : "genera (RESTRICT)"
+```
+
+---
+
+##### 6. BC-06: Transit Traceability
+
+Este contexto sostiene el recorrido de la unidad durante el traslado y las anomalías detectadas en ruta. La tabla `position_reports` constituye el único caso en que un Value Object recibe clave primaria propia, dado que se presenta como colección dentro del agregado. Se emplea `bigserial` en lugar de `uuid` por el volumen previsto: es la tabla que acumula más filas, ya que recibe un registro por cada reporte del dispositivo GPS.
+
+Las columnas `occurred_at` y `received_at` conservan, respectivamente, el momento informado por el dispositivo y el momento de recepción en el servidor. Esta distinción corresponde a la decisión adoptada en la sección 4.6.3 y sostiene el valor probatorio de la evidencia consolidada en el apartado 8 de esta misma sección (BC-08).
+
+**Tabla `routes`**
+
+| Columna | Tipo | Constraint |
+|---|---|---|
+| id | uuid | PRIMARY KEY |
+| dispatch_id | uuid | NOT NULL |
+| vehicle_id | uuid | NOT NULL |
+| started_at | timestamptz | NOT NULL |
+| completed_at | timestamptz | NULL |
+| current_status | varchar(25) | NOT NULL, CHECK |
+
+**Tabla `position_reports`**
+
+| Columna | Tipo | Constraint |
+|---|---|---|
+| id | bigserial | PRIMARY KEY |
+| route_id | uuid | NOT NULL, FOREIGN KEY → `routes(id)` |
+| latitude | double precision | NOT NULL |
+| longitude | double precision | NOT NULL |
+| speed_kmh | double precision | NOT NULL |
+| occurred_at | timestamptz | NOT NULL |
+| received_at | timestamptz | NOT NULL |
+
+**Tabla `route_incidents`**
+
+| Columna | Tipo | Constraint |
+|---|---|---|
+| id | uuid | PRIMARY KEY |
+| route_id | uuid | NOT NULL, FOREIGN KEY → `routes(id)` |
+| incident_type | varchar(30) | NOT NULL, CHECK |
+| description | varchar(300) | NOT NULL |
+| detected_at | timestamptz | NOT NULL |
+| is_resolved | boolean | NOT NULL, DEFAULT false |
+
+**Relaciones**
+
+| Origen | Destino | Cardinalidad | Regla de borrado |
+|---|---|---|---|
+| position_reports.route_id | routes.id | N:1 (0..*) | ON DELETE CASCADE |
+| route_incidents.route_id | routes.id | N:1 (0..*) | ON DELETE CASCADE |
+| routes.dispatch_id, routes.vehicle_id | *(BC-05 y BC-04)* | — | Sin clave foránea |
+
+**Constraints e índices**
+
+| Nombre | Tipo | Definición |
+|---|---|---|
+| ck_routes_status | CHECK | `current_status IN ('IN_TRANSIT', 'DEVIATION_ALERT', 'STOPPED', 'COMPLETED')` |
+| ck_route_incidents_type | CHECK | `incident_type IN ('PROLONGED_STOP', 'UNAUTHORIZED_DEVIATION', 'GPS_SIGNAL_LOST', 'GPS_SIGNAL_RESTORED')` |
+| idx_position_reports_route_occurred | ÍNDICE | `(route_id, occurred_at)` |
+
+**Figura 75**
+
+*Diagrama de base de datos del Bounded Context BC-06: Transit Traceability*
+
+![Diagrama de base de datos BC-06](../../assets/Chapther-4/databases/database-diagram-bc-06.png)
+*Nota.* Elaboración propia del equipo de Trazza Labs, derivada del diagrama de clases de la sección 4.7.1. El diagrama se modela como entidad-relación y se genera a partir de su definición en texto (Mermaid `erDiagram`), de modo que permanece versionado junto con el informe.
+
+**Código fuente del diagrama (Mermaid `erDiagram`)**
+
+```mermaid
+erDiagram
+    routes {
+        uuid id PK
+        uuid dispatch_id "BC-05, sin FK"
+        uuid vehicle_id "BC-04, sin FK"
+        timestamptz started_at
+        timestamptz completed_at "NULL"
+        varchar current_status "CHECK enum"
+    }
+    position_reports {
+        bigserial id PK
+        uuid route_id FK
+        double latitude
+        double longitude
+        double speed_kmh
+        timestamptz occurred_at
+        timestamptz received_at
+    }
+    route_incidents {
+        uuid id PK
+        uuid route_id FK
+        varchar incident_type "CHECK enum"
+        varchar description
+        timestamptz detected_at
+        boolean is_resolved
+    }
+    routes ||--o{ position_reports : "acumula (CASCADE)"
+    routes ||--o{ route_incidents : "registra (CASCADE)"
+```
+
+---
+
+##### 7. BC-07: Site Reception and Verification
+
+Este contexto sostiene la llegada de la unidad al frente de obra, el cotejo de lo recibido contra lo despachado y el registro fotográfico de evidencias. La cantidad de diferencia no se almacena como columna: se obtiene de la resta entre `dispatched_quantity` y `received_quantity`, de modo que conservarla duplicaría información ya contenida en ambas columnas.
+
+**Tabla `receptions`**
+
+| Columna | Tipo | Constraint |
+|---|---|---|
+| id | uuid | PRIMARY KEY |
+| dispatch_id | uuid | NOT NULL, UNIQUE |
+| verified_by_user_id | uuid | NOT NULL |
+| arrived_at | timestamptz | NOT NULL |
+| closed_at | timestamptz | NULL |
+| status | varchar(25) | NOT NULL, CHECK |
+
+**Tabla `reception_items`**
+
+| Columna | Tipo | Constraint |
+|---|---|---|
+| id | uuid | PRIMARY KEY |
+| reception_id | uuid | NOT NULL, FOREIGN KEY → `receptions(id)` |
+| material_name | varchar(150) | NOT NULL |
+| dispatched_quantity | numeric(12,3) | NOT NULL |
+| received_quantity | numeric(12,3) | NOT NULL |
+
+**Tabla `supporting_evidences`**
+
+| Columna | Tipo | Constraint |
+|---|---|---|
+| id | uuid | PRIMARY KEY |
+| reception_id | uuid | NOT NULL, FOREIGN KEY → `receptions(id)` |
+| evidence_url | varchar(500) | NOT NULL |
+| captured_at | timestamptz | NOT NULL |
+| caption | varchar(300) | NOT NULL |
+
+**Relaciones**
+
+| Origen | Destino | Cardinalidad | Regla de borrado |
+|---|---|---|---|
+| reception_items.reception_id | receptions.id | N:1 (1..*) | ON DELETE CASCADE |
+| supporting_evidences.reception_id | receptions.id | N:1 (0..*) | ON DELETE CASCADE |
+| receptions.dispatch_id, receptions.verified_by_user_id | *(BC-05 y BC-02)* | — | Sin clave foránea |
+
+**Constraints**
+
+| Nombre | Tipo | Definición |
+|---|---|---|
+| uq_receptions_dispatch | UNIQUE | `(dispatch_id)` — un despacho se recibe una sola vez |
+| ck_receptions_status | CHECK | `status IN ('ARRIVED', 'VERIFIED_CONFORMANT', 'VERIFIED_DISCREPANT')` |
+| ck_reception_items_quantities | CHECK | `dispatched_quantity >= 0 AND received_quantity >= 0` |
+
+**Figura 76**
+
+*Diagrama de base de datos del Bounded Context BC-07: Site Reception and Verification*
+
+![Diagrama de base de datos BC-07](../../assets/Chapther-4/databases/database-diagram-bc-07.png)
+*Nota.* Elaboración propia del equipo de Trazza Labs, derivada del diagrama de clases de la sección 4.7.1. El diagrama se modela como entidad-relación y se genera a partir de su definición en texto (Mermaid `erDiagram`), de modo que permanece versionado junto con el informe.
+
+**Código fuente del diagrama (Mermaid `erDiagram`)**
+
+```mermaid
+erDiagram
+    receptions {
+        uuid id PK
+        uuid dispatch_id UK "BC-05, sin FK"
+        uuid verified_by_user_id "BC-02, sin FK"
+        timestamptz arrived_at
+        timestamptz closed_at "NULL"
+        varchar status "CHECK enum"
+    }
+    reception_items {
+        uuid id PK
+        uuid reception_id FK
+        varchar material_name
+        numeric dispatched_quantity
+        numeric received_quantity
+    }
+    supporting_evidences {
+        uuid id PK
+        uuid reception_id FK
+        varchar evidence_url
+        timestamptz captured_at
+        varchar caption
+    }
+    receptions ||--|{ reception_items : "detalla (CASCADE)"
+    receptions ||--o{ supporting_evidences : "adjunta (CASCADE)"
+```
+
+---
+
+##### 8. BC-08: Discrepancy and Evidence Management
+
+Este contexto sostiene el expediente del caso de discrepancia y la línea de tiempo que consolida los hechos registrados en el despacho, el traslado y la recepción. La columna `source_context` indica de qué Bounded Context proviene cada entrada de la línea de tiempo, lo que permite reunir evidencia de tres contextos sin establecer claves foráneas hacia ninguno de ellos: la trazabilidad se resuelve por copia y no por referencia, de modo que los datos quedan fijados en el momento de la consolidación y no se alteran ante cambios posteriores en los contextos de origen. Esta característica sostiene el valor probatorio del expediente.
+
+El atributo `timestamp` del diagrama de clases se nombra `entry_timestamp` en la base de datos, dado que `timestamp` constituye palabra reservada en SQL. Es la única denominación que se aparta de lo establecido en la sección 4.7.1.
+
+**Tabla `discrepancy_cases`**
+
+| Columna | Tipo | Constraint |
+|---|---|---|
+| id | uuid | PRIMARY KEY |
+| dispatch_id | uuid | NOT NULL |
+| reception_id | uuid | NOT NULL |
+| case_number | varchar(30) | NOT NULL, UNIQUE |
+| opened_at | timestamptz | NOT NULL |
+| closed_at | timestamptz | NULL |
+| status | varchar(25) | NOT NULL, CHECK |
+| determined_liability | varchar(20) | NOT NULL, CHECK |
+| resolution_summary | text | NULL |
+
+**Tabla `consolidated_timeline_entries`**
+
+| Columna | Tipo | Constraint |
+|---|---|---|
+| id | bigserial | PRIMARY KEY |
+| case_id | uuid | NOT NULL, FOREIGN KEY → `discrepancy_cases(id)` |
+| entry_timestamp | timestamptz | NOT NULL |
+| source_context | varchar(50) | NOT NULL |
+| event_description | varchar(300) | NOT NULL |
+
+**Relaciones**
+
+| Origen | Destino | Cardinalidad | Regla de borrado |
+|---|---|---|---|
+| consolidated_timeline_entries.case_id | discrepancy_cases.id | N:1 (1..*) | ON DELETE CASCADE |
+| discrepancy_cases.dispatch_id, .reception_id | *(BC-05 y BC-07)* | — | Sin clave foránea |
+
+**Constraints e índices**
+
+| Nombre | Tipo | Definición |
+|---|---|---|
+| uq_discrepancy_cases_number | UNIQUE | `(case_number)` |
+| ck_discrepancy_cases_status | CHECK | `status IN ('OPEN', 'UNDER_REVIEW', 'REPORT_GENERATED', 'CLOSED')` |
+| ck_discrepancy_cases_liability | CHECK | `determined_liability IN ('PENDING', 'SUPPLIER', 'CARRIER', 'WAREHOUSE', 'JOB_SITE', 'NORMAL_LOSS')` |
+| idx_timeline_case_timestamp | ÍNDICE | `(case_id, entry_timestamp)` |
+
+**Figura 77**
+
+*Diagrama de base de datos del Bounded Context BC-08: Discrepancy and Evidence Management*
+![Diagrama de base de datos BC-08](../../assets/Chapther-4/databases/database-diagram-bc-08.png)
+
+*Nota.* Elaboración propia del equipo de Trazza Labs, derivada del diagrama de clases de la sección 4.7.1. El diagrama se modela como entidad-relación y se genera a partir de su definición en texto (Mermaid `erDiagram`), de modo que permanece versionado junto con el informe.
+
+**Código fuente del diagrama (Mermaid `erDiagram`)**
+
+```mermaid
+erDiagram
+    discrepancy_cases {
+        uuid id PK
+        uuid dispatch_id "BC-05, sin FK"
+        uuid reception_id "BC-07, sin FK"
+        varchar case_number UK
+        timestamptz opened_at
+        timestamptz closed_at "NULL"
+        varchar status "CHECK enum"
+        varchar determined_liability "CHECK enum"
+        text resolution_summary "NULL"
+    }
+    consolidated_timeline_entries {
+        bigserial id PK
+        uuid case_id FK
+        timestamptz entry_timestamp
+        varchar source_context "por copia, no por referencia"
+        varchar event_description
+    }
+    discrepancy_cases ||--|{ consolidated_timeline_entries : "consolida (CASCADE)"
+```
+
 
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5-capitulo-v-product-implementation.md -->
 
@@ -2664,11 +3600,13 @@ En este capítulo el equipo documenta la implementación, validación y desplieg
 
 > **Nota sobre el alcance de esta entrega (AV1).** Conforme al enunciado del proyecto, el requisito de implementación para la entrega AV1 es que esté implementada y desplegada la primera versión del Landing Page. Por esa razón, el Sprint 1 documentado en este capítulo cubre únicamente las Landing Page Stories del Product Backlog (LP-01 a LP-04); el RESTful API y la Web Application se implementan a partir del Sprint 2, conforme al orden de prioridad establecido en la sección 3.3.
 
+
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.1-software-configuration-management.md -->
 
 ### 5.1. Software Configuration Management
 
 En esta sección el equipo documenta las bases de configuración de software que sostienen el desarrollo de Vigía a lo largo de todo su ciclo de vida: el entorno de desarrollo, el esquema de control de versiones, la guía de estilo del código fuente y la configuración de despliegue. Estas decisiones se establecen desde el Sprint 1 y se amplían conforme el alcance del producto crece en los siguientes Sprints, en particular cuando se incorpore el RESTful API y la Web Application.
+
 
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.1.1-software-development-environment-configuration.md -->
 
@@ -2688,6 +3626,7 @@ En esta sección el equipo documenta las bases de configuración de software que
 
 No se requiere gestor de paquetes ni herramienta de build para el Sprint 1, dado que el Landing Page se implementó como HTML5, CSS3 y JavaScript sin frameworks, conforme a lo indicado en la sección de Tecnología del enunciado del proyecto. Esta decisión también simplifica su despliegue directo en GitHub Pages.
 
+
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.1.2-source-code-management.md -->
 
 #### 5.1.2. Source Code Management
@@ -2696,8 +3635,8 @@ El equipo utiliza GIT gestionado desde GitHub, bajo la organización `upc-pre-20
 
 | Repositorio | Contenido | URL |
 |---|---|---|
-| Vigia-Report | Informe del proyecto (este documento), en Markdown | https://github.com/upc-pre-202620-1asi0730-8084-Developers/Vigia-Report |
-| vigia-landing | Código fuente del Landing Page | https://github.com/upc-pre-202620-1asi0730-8084-Developers/vigia-landing |
+| Vigia-Report | Informe del proyecto (este documento), en Markdown | https://tinyurl.com/2c98uev3 |
+| vigia-landing | Código fuente del Landing Page | https://tinyurl.com/282c9qzx |
 
 **GitFlow Workflow.** El repositorio Vigia-Report aplica GitFlow desde el inicio del proyecto: la rama `main` conserva el historial estable, la rama `develop` integra el trabajo en curso, y cada integrante desarrolla en una rama `feature/<nombre>` propia que se integra a `develop` mediante Pull Request. A la fecha de esta entrega, el repositorio registra las ramas `feature/Sandoval`, `feature/leonardo`, `feature/Apaza` y `feature/Cardenas`, y los Pull Requests #7, #8, #9 y #10 ya fueron revisados y fusionados a `develop`.
 
@@ -2717,6 +3656,7 @@ El repositorio vigia-landing, al cubrir únicamente la primera versión del Land
 | eliocerdan | 9 |
 | Usuario353 | 8 |
 
+
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.1.3-source-code-style-guide-and-conventions.md -->
 
 #### 5.1.3. Source Code Style Guide & Conventions
@@ -2730,6 +3670,7 @@ Para el código del Landing Page (HTML5, CSS3 y JavaScript), implementado en el 
 **CSS.** Las clases se nombran en minúsculas separadas por guion (kebab-case), con un prefijo corto por componente (`.hero-*`, `.plan-*`, `.t-*` para las tarjetas del equipo), evitando IDs para aplicar estilos. Los valores de color, espaciado y tipografía no se escriben como literales sueltos: se centralizan como variables CSS (`--color-primary`, `--sp-4`, etc.) definidas en `:root`, siguiendo directamente los tokens del Design System de la sección 4.1.1, de modo que un cambio de marca solo requiera modificar esas variables. Las media queries siguen un enfoque mobile-first para la Web Application y desktop-first para el Landing Page, conforme a lo definido en la sección 4.1.2.
 
 **JavaScript.** El script se encapsula en una única función autoejecutable (IIFE) para no exponer variables globales, usa `camelCase` para variables y funciones, y evita dependencias externas: la validación del formulario de demo, el menú móvil y el resaltado de la sección activa en el menú se implementan con JavaScript nativo (ES5, sin transpilación), suficiente para el alcance estático del Sprint 1.
+
 
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.1.4-software-deployment-configuration.md -->
 
@@ -2745,9 +3686,10 @@ El Landing Page de Vigía se despliega mediante **GitHub Pages**, directamente d
 | Rama de despliegue | `main` |
 | Carpeta publicada | `/docs` |
 | Archivo `.nojekyll` | Presente en `docs/`, para que GitHub Pages sirva los archivos tal cual, sin procesarlos con Jekyll |
-| URL de producción | https://upc-pre-202620-1asi0730-8084-developers.github.io/vigia-landing/ |
+| URL de producción | https://tinyurl.com/2xto55wc |
 
 **Proceso de despliegue actual.** El despliegue es automático a nivel de publicación (GitHub Pages reconstruye el sitio en cada push a `main` sobre la carpeta `/docs`), pero manual a nivel de integración: cada integrante hace `git push` directamente a `main` en este repositorio, dado que el Sprint 1 comprende un único entregable (el Landing Page) sin ramas paralelas en desarrollo todavía.
+
 
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2-landing-page-services-and-applications-implementation.md -->
 
@@ -2755,7 +3697,8 @@ El Landing Page de Vigía se despliega mediante **GitHub Pages**, directamente d
 
 En esta sección el equipo documenta, Sprint a Sprint, la implementación del Landing Page, del RESTful API y de la Web Application de Vigía. Cada Sprint incluye su planificación, los líderes y colaboradores por aspecto, el Sprint Backlog y la evidencia de desarrollo, ejecución, documentación de servicios, despliegue y colaboración del equipo.
 
-Conforme al alcance de la entrega AV1 (sección 5), esta sección documenta únicamente el **Sprint 1**, correspondiente a la primera versión del Landing Page. El Sprint 2 iniciará el desarrollo del RESTful API y de la Web Application, siguiendo el orden establecido en el Product Backlog de la sección 3.3.
+Esta sección documenta el **Sprint 1** (entrega AV1), correspondiente a la primera versión del Landing Page, y el **Sprint 2** (entrega TB1), que inicia el desarrollo de la Frontend Web Application y del RESTful API, siguiendo el orden establecido en el Product Backlog de la sección 3.3.
+
 
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.1-sprint-1/5.2.1-sprint-1.md -->
 
@@ -2766,6 +3709,7 @@ Conforme al alcance de la entrega AV1 (sección 5), esta sección documenta úni
 **Objetivo del Sprint:** Implementar y desplegar la primera versión del Landing Page de Vigía, cubriendo la propuesta de valor del producto, los beneficios diferenciados por segmento objetivo y el formulario de solicitud de demostración, para cumplir el requisito de implementación de la entrega AV1.
 
 Esta sección documenta el Sprint Planning, los líderes y colaboradores por aspecto, el Sprint Backlog y la evidencia de desarrollo, ejecución, documentación de servicios, despliegue y colaboración del equipo durante el Sprint.
+
 
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.1-sprint-1/5.2.1.1-sprint-planning-1.md -->
 
@@ -2791,6 +3735,7 @@ Esta sección documenta el Sprint Planning, los líderes y colaboradores por asp
 
 **Historia diferida.** TS-06 (Endpoint de solicitud de demostración) se excluye deliberadamente del Sprint 1: al no existir todavía el RESTful API, el formulario de LP-04 valida los datos en el propio navegador pero no los envía a un servicio real. TS-06 se retoma en el Sprint en que se implemente el RESTful API, momento en el cual el formulario del Landing Page se conectará a ese endpoint.
 
+
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.1-sprint-1/5.2.1.2-aspect-leaders-and-collaborators.md -->
 
 ##### 5.2.1.2. Aspect Leaders and Collaborators
@@ -2802,13 +3747,14 @@ Esta sección documenta el Sprint Planning, los líderes y colaboradores por asp
 | Documentación del informe (Vigia-Report) | Leonardo Lopez (Documentación y soporte) | Todo el equipo |
 | Coordinación general y arquitectura | Fabián Sandoval (Team Leader) | Todo el equipo |
 
+
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.1-sprint-1/5.2.1.3-sprint-backlog-1.md -->
 
 ##### 5.2.1.3. Sprint Backlog 1
 
 | User Story Id | Título | Story Points | Estado | Evidencia |
 |---|---|---|---|---|
-| LP-01 | Página de inicio con la propuesta de valor | 2 | Completada | Sección "Inicio" en https://upc-pre-202620-1asi0730-8084-developers.github.io/vigia-landing/ |
+| LP-01 | Página de inicio con la propuesta de valor | 2 | Completada | Sección "Inicio" en https://tinyurl.com/2xto55wc |
 | LP-02 | Sección para el segmento de empresas constructoras | 2 | Completada | Sección "Cómo funciona" / "Beneficios" del Landing Page desplegado |
 | LP-03 | Sección para el segmento de logística y transporte | 2 | Completada | Sección "Beneficios" del Landing Page desplegado |
 | LP-04 | Formulario de solicitud de demostración | 3 | Completada (validación en cliente; envío real pendiente de TS-06) | Sección "Demo" del Landing Page desplegado |
@@ -2828,11 +3774,12 @@ Esta sección documenta el Sprint Planning, los líderes y colaboradores por asp
 
 **Total estimado del Sprint:** 36 horas, distribuidas entre las Engineering Tasks de las cuatro Landing Page Stories comprometidas.
 
+
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.1-sprint-1/5.2.1.4-development-evidence-for-sprint-review.md -->
 
 ##### 5.2.1.4. Development Evidence for Sprint Review
 
-El código fuente del Landing Page se encuentra en el repositorio [vigia-landing](https://github.com/upc-pre-202620-1asi0730-8084-Developers/vigia-landing), en la carpeta `docs/`, organizado en `index.html`, `styles.css`, `script.js` y `assets/`. El commit `689c72f` ("chore: initial commit") registra la primera versión completa del sitio.
+El código fuente del Landing Page se encuentra en el repositorio [vigia-landing](https://tinyurl.com/282c9qzx), en la carpeta `docs/`, organizado en `index.html`, `styles.css`, `script.js` y `assets/`. El commit `689c72f` ("chore: initial commit") registra la primera versión completa del sitio.
 
 El código aplica directamente los tokens de diseño definidos en la sección 4.1.1 mediante variables CSS (`--color-primary`, `--color-accent`, `--sp-*` para el espaciado de 8px), de modo que la hoja de estilos sea la fuente única de verdad del Design System para este producto.
 
@@ -4615,22 +5562,40 @@ ol {
 }());
 ```
 
+
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.1-sprint-1/5.2.1.5-execution-evidence-for-sprint-review.md -->
 
 ##### 5.2.1.5. Execution Evidence for Sprint Review
 
 El Landing Page se encuentra desplegado y accesible públicamente en:
 
-**https://upc-pre-202620-1asi0730-8084-developers.github.io/vigia-landing/**
+**https://tinyurl.com/2xto55wc**
 
 El sitio incluye las secciones Inicio, Cómo funciona, Beneficios, Planes, Demo, Equipo y Contacto, con navegación funcional por anclas, resaltado de la sección activa al hacer scroll, menú adaptado a mobile, y el formulario de solicitud de demo con validación de campos requeridos y de formato de correo electrónico.
 
 
+**Figura 78**
+
 ![landing (1).png](../../assets/chapther-5/landing%20%281%29.png)
+
+**Figura 79**
+
 ![landing (2).png](../../assets/chapther-5/landing%20%282%29.png)
+
+**Figura 80**
+
 ![landing (3).png](../../assets/chapther-5/landing%20%283%29.png)
+
+**Figura 81**
+
 ![landing (4).png](../../assets/chapther-5/landing%20%284%29.png)
+
+**Figura 82**
+
 ![landing (5).png](../../assets/chapther-5/landing%20%285%29.png)
+
+ 
+
 
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.1-sprint-1/5.2.1.6-services-documentation-evidence-for-sprint-review.md -->
 
@@ -4638,13 +5603,17 @@ El sitio incluye las secciones Inicio, Cómo funciona, Beneficios, Planes, Demo,
 
 Esta subsección no aplica al Sprint 1: el alcance de este Sprint comprendió únicamente el Landing Page (sitio estático), sin ningún servicio del RESTful API implementado todavía. La Technical Story TS-06 (endpoint de solicitud de demostración), que sí generará documentación de servicio mediante OpenAPI Specification vía Swagger conforme a lo indicado en la sección de Tecnología del enunciado, se implementará en el Sprint en que comience el desarrollo del RESTful API. Esta subsección se completará a partir de esa entrega.
 
+
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.1-sprint-1/5.2.1.7-software-deployment-evidence-for-sprint-review.md -->
 
 ##### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-El despliegue del Landing Page se configuró en GitHub Pages sobre el repositorio vigia-landing, con la rama `main` y la carpeta `/docs` como origen de publicación, conforme a lo detallado en la sección 5.1.4. La URL pública resultante es https://upc-pre-202620-1asi0730-8084-developers.github.io/vigia-landing/.
+El despliegue del Landing Page se configuró en GitHub Pages sobre el repositorio vigia-landing, con la rama `main` y la carpeta `/docs` como origen de publicación, conforme a lo detallado en la sección 5.1.4. La URL pública resultante es https://tinyurl.com/2xto55wc.
+
+**Figura 83**
 
 ![Pages-configuration.png](../../assets/chapther-5/Pages-configuration.png)
+
 
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.1-sprint-1/5.2.1.8-team-collaboration-insights-during-sprint.md -->
 
@@ -4663,10 +5632,139 @@ El equipo trabajó bajo GitFlow, con una rama `feature/<nombre>` por integrante 
 | Usuario353 | 8 | `feature/Cardenas.` |
 
 Los cinco integrantes registran commits propios durante el Sprint, lo que evidencia participación distribuida en la elaboración del informe y del Landing Page, conforme lo exige el enunciado del proyecto.
+
+**Figura 84**
+
 ![Collaboration-insigths.png](../../assets/chapther-5/Collaboration-insights.png)
 
 
----
+<!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.2-sprint-2/5.2.2-sprint-2.md -->
+
+#### 5.2.2. Sprint 2
+
+> **Nota sobre el estado de esta sección.** Esta sección corresponde a la entrega **TB1 (Stage Review, Semana 7)**. Documenta el segundo Sprint del proyecto, cuyo objetivo es desplegar la primera versión de la Frontend Web Application de Vigía, además de una nueva versión del Landing Page. La estructura que sigue está preparada conforme al enunciado; las subsecciones que dependen de la ejecución del Sprint (evidencia de desarrollo, ejecución, documentación de servicios, despliegue y colaboración) se completan con el trabajo real a medida que avanza el Sprint.
+
+**Duración:** por definir (Sprint 2, posterior al Sprint 1 y previo a la entrega TB1 de la Semana 7).
+
+**Objetivo del Sprint:** Implementar y desplegar la primera versión de la Frontend Web Application de Vigía, cubriendo el registro de la empresa, la activación de la suscripción y el acceso de los usuarios por rol, para cumplir el requisito de implementación de la entrega TB1; adicionalmente, desplegar una nueva versión del Landing Page con las correcciones y mejoras derivadas de la retroalimentación de AV1.
+
+Esta sección documenta el Sprint Planning, los líderes y colaboradores por aspecto, el Sprint Backlog y la evidencia de desarrollo, ejecución, documentación de servicios, despliegue y colaboración del equipo durante el Sprint 2.
+
+
+<!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.2-sprint-2/5.2.2.1-sprint-planning-2.md -->
+
+##### 5.2.2.1. Sprint Planning 2
+
+| Campo | Detalle |
+|---|---|
+| Sprint | 2 |
+| Duración | *(por definir — Sprint 2, previo a la entrega TB1 de la Semana 7)* |
+| Sprint Goal | Desplegar la primera versión de la Frontend Web Application de Vigía (registro de empresa, activación de suscripción y acceso por rol) y una nueva versión del Landing Page. |
+| Definition of Done del Sprint | La Web Application está desplegada en una URL pública, es responsive, aplica el Design System de la sección 4.1 y permite registrar una empresa, activar un plan e iniciar sesión según el rol; el Landing Page incorpora las correcciones de AV1 y permanece desplegado. |
+
+**Historias propuestas para el Sprint.** Del Product Backlog de la sección 3.3, se propone comprometer el bloque de Gestión de Cuentas y Accesos y Suscripciones, por ser el que habilita el ingreso a la Web Application y desbloquea el resto del flujo. *(Propuesta inicial, por confirmar en la ceremonia de Sprint Planning del equipo.)*
+
+| # (Orden en el Backlog) | User Story Id | Título | Story Points |
+|---|---|---|---|
+| 6 | US-01 | Registro de empresa y activación de suscripción | 5 |
+| 7 | US-17 | Gestión del ciclo de vida de la suscripción | 3 |
+| 8 | TS-01 | Endpoint de autenticación de usuarios | 3 |
+| 9 | US-15 | Inicio de sesión | 2 |
+| 10 | US-02 | Invitación de usuarios y asignación de roles | 3 |
+
+**Total propuesto:** 16 Story Points *(ajustar según la capacidad real del equipo para el Sprint 2).*
+
+
+<!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.2-sprint-2/5.2.2.2-aspect-leaders-and-collaborators.md -->
+
+##### 5.2.2.2. Aspect Leaders and Collaborators
+
+| Aspecto | Líder | Colaboradores |
+|---|---|---|
+| Frontend Web Application (UI/Frontend) | Elías (UX/UI y Frontend) | Leonardo Lopez |
+| RESTful API / Backend | Fabián Sandoval (Team Leader) | Mathias |
+| Landing Page (nueva versión) | Elías (UX/UI y Frontend) | Elizabeth (Investigación y negocio) |
+| Documentación del informe (Vigia-Report) | Leonardo Lopez (Documentación y soporte) | Todo el equipo |
+| Coordinación general y arquitectura | Fabián Sandoval (Team Leader) | Todo el equipo |
+
+
+<!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.2-sprint-2/5.2.2.3-sprint-backlog-2.md -->
+
+##### 5.2.2.3. Sprint Backlog 2
+
+*(Completar con el estado real de cada historia al cierre del Sprint 2. La siguiente tabla refleja las historias propuestas en el Sprint Planning 2.)*
+
+| User Story Id | Título | Story Points | Estado | Evidencia |
+|---|---|---|---|---|
+| US-01 | Registro de empresa y activación de suscripción | 5 | *(por completar)* | *(por completar)* |
+| US-17 | Gestión del ciclo de vida de la suscripción | 3 | *(por completar)* | *(por completar)* |
+| TS-01 | Endpoint de autenticación de usuarios | 3 | *(por completar)* | *(por completar)* |
+| US-15 | Inicio de sesión | 2 | *(por completar)* | *(por completar)* |
+| US-02 | Invitación de usuarios y asignación de roles | 3 | *(por completar)* | *(por completar)* |
+
+**Story Points comprometidos:** 16 *(ajustar al confirmar el Sprint Planning).*
+
+**Tareas técnicas derivadas (Engineering Tasks).** Cada User Story del Sprint se descompone en Engineering Tasks estimadas en horas, dentro del rango de 4 a 8 horas establecido como máximo por tarea. *(Completar con las tareas reales del Sprint 2.)*
+
+| User Story | Engineering Task | Responsable | Estimación (h) | Estado |
+|---|---|---|---|---|
+| *(US)* | *(tarea)* | *(responsable)* | *(4–8)* | *(por completar)* |
+
+
+<!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.2-sprint-2/5.2.2.4-development-evidence-for-sprint-review.md -->
+
+##### 5.2.2.4. Development Evidence for Sprint Review
+
+*(Por completar con la evidencia de desarrollo del Sprint 2.)*
+
+Esta subsección documenta el desarrollo de la primera versión de la Frontend Web Application de Vigía. Debe incluir:
+
+- La referencia al repositorio de la Web Application (nuevo repositorio del alcance, p. ej. `vigia-webapp`), con la rama y los commits que registran el trabajo del Sprint.
+- Los fragmentos de código más representativos (componentes principales, aplicación del Design System de la sección 4.1, consumo del RESTful API de autenticación TS-01).
+- La evidencia de aplicación de GitFlow (ramas `feature/<nombre>` y Pull Requests integrados a `develop`).
+
+
+<!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.2-sprint-2/5.2.2.5-execution-evidence-for-sprint-review.md -->
+
+##### 5.2.2.5. Execution Evidence for Sprint Review
+
+*(Por completar con la evidencia de ejecución del Sprint 2.)*
+
+Esta subsección documenta la Web Application en funcionamiento. Debe incluir capturas de pantalla (y, si corresponde, enlaces de video) de los flujos implementados en el Sprint 2 —registro de empresa, activación de suscripción, inicio de sesión y acceso por rol— demostrando el comportamiento tanto en el happy path como en los flujos alternativos descritos en los User Flow Diagrams de la sección 4.4.4.
+
+
+<!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.2-sprint-2/5.2.2.6-services-documentation-evidence-for-sprint-review.md -->
+
+##### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+A diferencia del Sprint 1 —que comprendió únicamente el Landing Page estático, sin servicios—, el Sprint 2 incorpora los primeros servicios del RESTful API que sustentan la Frontend Web Application, en particular el endpoint de autenticación de usuarios (TS-01) y los servicios asociados al registro de empresa y la activación de suscripción (US-01, US-17).
+
+La documentación de estos servicios se elabora siguiendo la OpenAPI Specification vía Swagger, conforme a lo indicado en la sección de Tecnología del enunciado. Para cada endpoint se documenta la ruta, el método HTTP, los parámetros y el esquema del cuerpo de la solicitud, los esquemas de respuesta y los códigos de estado (por ejemplo, `200` y `401` para la autenticación, según los criterios de aceptación de TS-01 en la sección 3.1).
+
+*(Por completar con la evidencia real del Sprint 2: captura de la interfaz de Swagger UI con los endpoints documentados y el enlace al documento OpenAPI publicado.)*
+
+
+<!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.2-sprint-2/5.2.2.7-software-deployment-evidence-for-sprint-review.md -->
+
+##### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+*(Por completar con la evidencia de despliegue del Sprint 2.)*
+
+Esta subsección documenta el despliegue de los productos del Sprint 2. Debe incluir:
+
+- La URL pública de la primera versión de la Frontend Web Application desplegada.
+- La URL pública de la nueva versión del Landing Page.
+- La configuración de despliegue aplicada y la evidencia de que ambos sitios son accesibles vía internet.
+
+
+<!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.2-sprint-2/5.2.2.8-team-collaboration-insights-during-sprint.md -->
+
+##### 5.2.2.8. Team Collaboration Insights during Sprint
+
+*(Por completar con la evidencia de colaboración del Sprint 2.)*
+
+Esta subsección documenta cómo colaboró el equipo durante el Sprint 2 bajo GitFlow. Debe incluir la relación de Pull Requests integrados a `develop`, el cuadro de participación por integrante (commits por rama de trabajo) y la captura de la herramienta de gestión colaborativa, evidenciando la participación distribuida de todos los integrantes conforme lo exige el enunciado.
+
 
 <!-- Fuente: report/chapters/10-conclusiones.md -->
 
