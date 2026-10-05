@@ -1,0 +1,28 @@
+erDiagram
+    routes {
+        uuid id PK
+        uuid dispatch_id "BC-05, sin FK"
+        uuid vehicle_id "BC-04, sin FK"
+        timestamptz started_at
+        timestamptz completed_at "NULL"
+        varchar current_status "CHECK enum"
+    }
+    position_reports {
+        bigserial id PK
+        uuid route_id FK
+        double latitude
+        double longitude
+        double speed_kmh
+        timestamptz occurred_at
+        timestamptz received_at
+    }
+    route_incidents {
+        uuid id PK
+        uuid route_id FK
+        varchar incident_type "CHECK enum"
+        varchar description
+        timestamptz detected_at
+        boolean is_resolved
+    }
+    routes ||--o{ position_reports : "acumula (CASCADE)"
+    routes ||--o{ route_incidents : "registra (CASCADE)"

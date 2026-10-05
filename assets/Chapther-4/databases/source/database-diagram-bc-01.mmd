@@ -1,0 +1,12 @@
+erDiagram
+    demo_requests {
+        uuid id PK
+        varchar company_name
+        varchar segment "CHECK enum"
+        varchar contact_full_name
+        varchar contact_business_email
+        varchar contact_phone_number
+        varchar status "CHECK enum"
+        timestamptz submitted_at
+        timestamptz contacted_at "NULL"
+    }
