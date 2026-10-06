@@ -46,45 +46,357 @@ Septiembre 2026
 
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 </div>
 
+## Registro de Versiones del Informe
+
+El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto. Se considera una modificación relevante la adición o eliminación de secciones, así como las correcciones o mejoras producto de la retroalimentación recibida del docente o de la autocrítica del propio equipo. Entre una entrega y otra pueden generarse varias versiones del informe, cada una reflejada como una nueva fila en el siguiente cuadro.
+
+<table>
+  <thead>
+    <tr>
+      <th>Versión</th>
+      <th>Fecha</th>
+      <th>Autor</th>
+      <th>Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0.1.0</td>
+      <td>2026-09-01</td>
+      <td>Elías Ramos</td>
+      <td>Creación de la estructura base del informe y carpetas para los capítulos.</td>
+    </tr>
+    <tr>
+      <td>0.1.1</td>
+      <td>2026-09-02</td>
+      <td>Fabián Sandoval</td>
+      <td>Adición de los archivos Markdown para los capítulos 1 al 4.</td>
+    </tr>
+    <tr>
+      <td>0.1.2</td>
+      <td>2026-09-03</td>
+      <td>Fabián Sandoval</td>
+      <td>Inclusión del diseño de entrevistas para ambos segmentos objetivo.</td>
+    </tr>
+    <tr>
+      <td>0.1.3</td>
+      <td>2026-09-03</td>
+      <td>Leonardo López</td>
+      <td>Adición de la descripción inicial de la startup.</td>
+    </tr>
+    <tr>
+      <td>0.1.4</td>
+      <td>2026-09-04</td>
+      <td>Elías Ramos</td>
+      <td>Inclusión de rivales competitivos en la sección de análisis.</td>
+    </tr>
+    <tr>
+      <td>0.1.5</td>
+      <td>2026-09-04</td>
+      <td>Leonardo López</td>
+      <td>Redacción del análisis competitivo y correcciones en la sección.</td>
+    </tr>
+    <tr>
+      <td>0.1.6</td>
+      <td>2026-09-04</td>
+      <td>Elizabeth Apaza</td>
+      <td>Actualización de Lean UX Problem Statements y Assumptions.</td>
+    </tr>
+    <tr>
+      <td>0.1.7</td>
+      <td>2026-09-04</td>
+      <td>Mathias Cárdenas</td>
+      <td>Inclusión y actualización de Lean UX Hypothesis Statements.</td>
+    </tr>
+    <tr>
+      <td>0.1.8</td>
+      <td>2026-09-07</td>
+      <td>Elizabeth Apaza</td>
+      <td>Correcciones de formato y actualización de la sección de competidores.</td>
+    </tr>
+    <tr>
+      <td>0.1.9</td>
+      <td>2026-09-08</td>
+      <td>Leonardo López</td>
+      <td>Alineación de la redacción de User Personas con la guía de estilos.</td>
+    </tr>
+    <tr>
+      <td>0.2.0</td>
+      <td>2026-09-08</td>
+      <td>Fabián Sandoval</td>
+      <td>Adición de misión, visión, objetivos, restricciones y Solution Profile.</td>
+    </tr>
+    <tr>
+      <td>0.2.1</td>
+      <td>2026-09-09</td>
+      <td>Fabián Sandoval</td>
+      <td>Redacción del proceso Lean UX y estrategia frente a competidores.</td>
+    </tr>
+    <tr>
+      <td>0.2.2</td>
+      <td>2026-09-10</td>
+      <td>Fabián Sandoval</td>
+      <td>Inclusión de los perfiles de los integrantes del equipo.</td>
+    </tr>
+    <tr>
+      <td>0.2.3</td>
+      <td>2026-09-14</td>
+      <td>Leonardo López</td>
+      <td>Adición del registro de entrevista de Owen Aguirre y Empathy Mapping.</td>
+    </tr>
+    <tr>
+      <td>0.2.4</td>
+      <td>2026-09-15</td>
+      <td>Leonardo López</td>
+      <td>Inclusión de la Arquitectura de Información y Front-matter.</td>
+    </tr>
+    <tr>
+      <td>0.2.5</td>
+      <td>2026-09-16</td>
+      <td>Elías Ramos</td>
+      <td>Corrección de capturas y actualización general de registros de entrevistas.</td>
+    </tr>
+    <tr>
+      <td>0.2.6</td>
+      <td>2026-09-16</td>
+      <td>Elizabeth Apaza</td>
+      <td>Adición del registro y captura de la entrevista a Jennifer Ruiz.</td>
+    </tr>
+    <tr>
+      <td>0.2.7</td>
+      <td>2026-09-16</td>
+      <td>Fabián Sandoval</td>
+      <td>Inclusión del Lean UX Canvas en la documentación.</td>
+    </tr>
+    <tr>
+      <td>0.2.8</td>
+      <td>2026-09-17</td>
+      <td>Mathias Cárdenas</td>
+      <td>Adición de Software Object-Oriented Design y diagramas de clase UML.</td>
+    </tr>
+    <tr>
+      <td>0.2.9</td>
+      <td>2026-09-18</td>
+      <td>Leonardo López</td>
+      <td>Actualización del Product Backlog y corrección del mapa de impacto.</td>
+    </tr>
+    <tr>
+      <td>0.3.0</td>
+      <td>2026-09-18</td>
+      <td>Elizabeth Apaza</td>
+      <td>Subida de Wireframes y Web Applications Wireflow Diagrams.</td>
+    </tr>
+    <tr>
+      <td>0.3.1</td>
+      <td>2026-09-18</td>
+      <td>Fabián Sandoval</td>
+      <td>Inclusión del C4 Model y Component Diagrams.</td>
+    </tr>
+    <tr>
+      <td>0.3.2</td>
+      <td>2026-09-18</td>
+      <td>Elías Ramos</td>
+      <td>Adición de Mock-ups del Landing Page, Collaboration Insights y Student Outcome.</td>
+    </tr>
+    <tr>
+      <td>0.3.3</td>
+      <td>2026-09-18</td>
+      <td>Mathias Cárdenas</td>
+      <td>Actualización de contribuciones de perfil y adición de nuevos contextos.</td>
+    </tr>
+    <tr>
+      <td>0.3.4</td>
+      <td>2026-09-18</td>
+      <td>Elizabeth Apaza</td>
+      <td>Integración del registro y análisis demográfico de la entrevista a Walter Cconislla.</td>
+    </tr>
+    <tr>
+      <td>1.0.0</td>
+      <td>2026-09-18</td>
+      <td>Fabián Sandoval</td>
+      <td>Fusión de ramas a <em>main</em> para consolidar la primera entrega formal (AV1).</td>
+    </tr>
+    <tr>
+      <td>1.0.1</td>
+      <td>2026-09-30</td>
+      <td>Mathias Cárdenas</td>
+      <td>Formateo y traducción de la sección Lean UX Hypothesis Statements.</td>
+    </tr>
+    <tr>
+      <td>1.0.2</td>
+      <td>2026-10-01</td>
+      <td>Leonardo López</td>
+      <td>Corrección de User Stories, Product Backlog y actualización de habilidades en User Personas.</td>
+    </tr>
+    <tr>
+      <td>1.0.3</td>
+      <td>2026-10-05</td>
+      <td>Leonardo López</td>
+      <td>Inclusión de los diagramas de base de datos y Source Code Management.</td>
+    </tr>
+    <tr>
+      <td>1.0.4</td>
+      <td>2026-10-05</td>
+      <td>Elías Ramos</td>
+      <td>Actualización final de Mock-ups de la Web Application y diagramas C4 para TB1.</td>
+    </tr>
+  </tbody>
+</table>
+
+## Project Report Collaboration Insights
+
+Repositorio del Project Report: **https://tinyurl.com/2c98uev3**
+
+### AV1
+
+Durante esta entrega, la elaboración del informe se organizó bajo GitFlow: cada integrante trabajó sobre su propia rama `feature/<nombre>` (`feature/Sandoval`, `feature/leonardo`, `feature/Apaza`, `feature/Cardenas`, `feature/Ramos`), integrando su avance a la rama `develop` mediante Pull Request, en lugar de hacer commits directos sobre la rama compartida. Durante el periodo del Sprint 1 (01/09/2026 – 18/09/2026) se fusionaron a `develop` los Pull Requests #7, #8, #9 y #10.
+
+El siguiente cuadro resume la participación registrada en commits sobre el repositorio a la fecha de esta entrega:
+
+| Integrante (usuario de GitHub) | Commits | Rama de trabajo |
+|---|---|---|
+| Leonardo Lopez / Deiko-138 | 39 | `feature/leonardo` |
+| ApazaEN | 27 | `feature/Apaza` |
+| FabianSandovalCueto / JFabianSandoval | 20 | `feature/Sandoval` |
+| eliocerdan | 9 | `feature/Ramos` |
+| Usuario353 | 8 | `feature/Cardenas` |
+
+Los cinco integrantes registran commits propios sobre el repositorio durante el Sprint 1, lo que evidencia que todos participaron en la elaboración del informe, conforme lo exige el enunciado del proyecto.
+
+**Figura 1**
+
+![Collaboration-insigths.png](../../assets/chapther-5/Collaboration-insights.png)
+
+<table>
+  <thead>
+    <tr>
+      <th>Criterio específico</th>
+      <th>Acciones realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <tr>
+      <td>
+        Trabaja en equipo para proporcionar liderazgo en forma conjunta
+      </td>
+
+<td>
+        <p>
+          <strong>Sandoval Cueto, Fabián — AV1:</strong>
+          Coordinó la definición de la arquitectura de la solución y organizó la integración
+          del trabajo del equipo en el repositorio, revisando y aprobando los Pull Requests
+          #7, #8, #9 y #10 hacia la rama <code>develop</code>.
+        </p>
+
+<p>
+          <strong>Lopez, Leonardo — AV1:</strong>
+          Lideró la configuración del control de versiones mediante GitFlow y ramas por
+          integrante, además del despliegue del Landing Page. Asimismo, coordinó la redacción
+          y consistencia del informe entre capítulos.
+        </p>
+
+<p>
+          <strong>Ramos Cerdán, Elías Daniel — AV1:</strong>
+          Lideró el desarrollo del diseño UX/UI correspondiente a la Landing Page y a la
+          Web Application, elaborando wireframes, mock-ups, User Flow Diagrams y el prototipo
+          de navegación. Además, mantuvo la consistencia visual entre las diferentes vistas
+          y roles considerados para Vigía.
+        </p>
+
+<p>
+          <strong>Cardenas Huaman, Mathias Andree — AV1:</strong>
+          Guio al equipo en la formulación de las hipótesis de valor y coordinó la estructuración
+          del Lean UX Canvas para alinear la visión del negocio con métricas de éxito medibles.
+          Asimismo, asumió el liderazgo técnico en el diseño orientado a objetos, definiendo los
+          agregados, entidades y contratos de dominio en UML para cada Bounded Context en estrecha
+          coordinación con sus compañeros.
+        </p>
+
+<p>
+          <strong>Apaza Bocanegra, Elizabeth Noelia — AV1:</strong>
+          Contribuyó al análisis inicial del proyecto desarrollando la sección de Antecedentes y
+          problemática, así como los Lean UX Problem Statements. Con este aporte, facilitó que el
+          equipo tuviera un marco de referencia claro sobre el contexto y las necesidades de los
+          usuarios para alinear el diseño de la solución.
+        </p>
+      </td>
+
+<td>
+        Como equipo, demostramos un liderazgo compartido al asumir responsabilidades en diferentes
+        áreas del proyecto según nuestras fortalezas. Distribuimos el liderazgo entre la arquitectura
+        de la solución, el control de versiones, el diseño UX/UI, la investigación, Lean UX y el
+        modelado orientado a objetos. Esta organización permitió que cada integrante aportara desde
+        su especialidad y que las decisiones tomadas en una sección se mantuvieran relacionadas con
+        el resto del proyecto. De esta manera, logramos avanzar de forma conjunta manteniendo
+        coherencia entre el problema identificado, los requisitos, el diseño y la solución propuesta.
+      </td>
+    </tr>
+
+<tr>
+      <td>
+        Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas
+        y cumple objetivos
+      </td>
+
+<td>
+        <p>
+          <strong>Sandoval Cueto, Fabián — AV1:</strong>
+          Definió junto al equipo el alcance del Sprint 1, correspondiente al Landing Page,
+          y el orden de prioridad del Product Backlog, asegurando que las tareas asignadas
+          fueran claras para cada integrante.
+        </p>
+
+<p>
+          <strong>Lopez, Leonardo — AV1:</strong>
+          Documentó el Sprint Backlog y las evidencias de desarrollo, ejecución y despliegue
+          del Sprint 1, dejando trazabilidad de las tareas cumplidas por el equipo.
+        </p>
+
+<p>
+          <strong>Ramos Cerdán, Elías Daniel — AV1:</strong>
+          Cumplió las actividades asignadas relacionadas con el Startup Profile, registro
+          de entrevistas, diseño de la Landing Page, diseño de la Web Application, User Flow
+          Diagrams y prototipado. Asimismo, trabajó mediante la rama
+          <code>feature/Ramos</code>, registrando sus avances mediante commits y aportando
+          progresivamente al informe del proyecto.
+        </p>
+
+<p>
+          <strong>Cardenas Huaman, Mathias Andree — AV1:</strong>
+          Promovió la participación activa del grupo durante la ideación del Lean UX Canvas para
+          integrar las diferentes perspectivas del equipo. Planificó y ejecutó a tiempo la elaboración
+          de los diagramas de clases UML, descomponiendo el trabajo en entregables claros y asegurando
+          que las clases modeladas respondieran a las historias de usuario y alcances del Sprint.
+        </p>
+
+<p>
+          <strong>Apaza Bocanegra, Elizabeth Noelia — AV1:</strong>
+          Cumplió con las tareas de investigación y diseño establecidas, ejecutando dos entrevistas
+          a usuarios objetivo para la validación del problema. Además, aportó al avance estructural y
+          visual del proyecto elaborando los Web Applications Wireflow Diagrams y los wireframes
+          correspondientes a la Web Application, logrando las metas asignadas para esta entrega.
+        </p>
+      </td>
+
+<td>
+        Como equipo, organizamos las actividades de la entrega mediante la distribución de
+        responsabilidades y la definición de objetivos concretos para cada integrante. Cumplimos
+        tareas relacionadas con investigación, entrevistas, planificación del Sprint, diseño UX/UI,
+        wireframes, wireflows, prototipado, modelado UML, documentación y despliegue. Además,
+        utilizamos GitFlow, ramas individuales, commits y Pull Requests para mantener trazabilidad
+        sobre los avances realizados. La coordinación entre estas actividades permitió integrar los
+        diferentes entregables y alcanzar los objetivos establecidos para el AV1 de manera ordenada
+        y colaborativa.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 <!-- Fuente: report/chapters/chapter-1-introduction/1-capitulo-i-introduccion.md -->
@@ -5680,9 +5992,7 @@ Los cinco integrantes registran commits propios durante el Sprint, lo que eviden
 
 #### 5.2.2. Sprint 2
 
-> **Nota sobre el estado de esta sección.** Esta sección corresponde a la entrega **TB1 (Stage Review, Semana 7)**. Documenta el segundo Sprint del proyecto, cuyo objetivo es desplegar la primera versión de la Frontend Web Application de Vigía, además de una nueva versión del Landing Page. La estructura que sigue está preparada conforme al enunciado; las subsecciones que dependen de la ejecución del Sprint (evidencia de desarrollo, ejecución, documentación de servicios, despliegue y colaboración) se completan con el trabajo real a medida que avanza el Sprint.
-
-**Duración:** por definir (Sprint 2, posterior al Sprint 1 y previo a la entrega TB1 de la Semana 7).
+**Duración:** 2 semanas
 
 **Objetivo del Sprint:** Implementar y desplegar la primera versión de la Frontend Web Application de Vigía, cubriendo el registro de la empresa, la activación de la suscripción y el acceso de los usuarios por rol, para cumplir el requisito de implementación de la entrega TB1; adicionalmente, desplegar una nueva versión del Landing Page con las correcciones y mejoras derivadas de la retroalimentación de AV1.
 
@@ -6039,7 +6349,99 @@ Esta subsección documenta el despliegue de los productos del Sprint 2. Debe inc
 
 - Front end v1: https://vigia-frontend-8084.web.app
 - Landing Page v2: https://upc-pre-202620-1asi0730-8084-developers.github.io/vigia-landing/
-- Captura web
+- Captura web:
+
+![evidence for sprint review (1).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%281%29.png)
+
+**Figura 1.** Módulo Historial con el rol *Responsable de obra* (Juan Pérez). Muestra el registro de actividad del sistema con filtros por rango de fechas, tipo, usuario y referencia, listando 23 eventos (discrepancias, transportes, recepciones y despachos) con su estado.
+
+![evidence for sprint review (2).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%282%29.png)
+
+**Figura 2.** Módulo Problemas (Incidencias) con el rol *Responsable de obra*. Lista las incidencias por despacho (DSP-001 a DSP-003) con su obra, tipo, prioridad, fecha reportada y estado (Abierto, En revisión, Cerrado).
+
+![evidence for sprint review (3).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%283%29.png)
+
+**Figura 3.** Módulo Recepciones con el rol *Responsable de obra*. Presenta indicadores del día, próximas llegadas en tránsito, el listado de recepciones registradas y el panel de detalle de una recepción con la comparación de cantidades enviadas vs. recibidas.
+
+![evidence for sprint review (4).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%284%29.png)
+
+**Figura 4.** Módulo Obras con el rol *Responsable de obra*. Muestra las tarjetas resumen (obras activas, en riesgo, en curso, retrasadas), la lista de obras con su avance e incidencias, y el gráfico de distribución de obras por zona.
+
+![evidence for sprint review (5).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%285%29.png)
+
+**Figura 5.** Pantalla de Inicio (dashboard) del rol *Responsable de obra* (Juan Pérez). Incluye los indicadores principales, la sección "Requiere mi atención", las próximas llegadas, la actividad reciente y el avance de sus obras.
+
+![evidence for sprint review (6).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%286%29.png)
+
+**Figura 6.** Módulo Configuración con el rol *Supervisor (Admin)* (María Torres). Muestra el perfil del usuario, los datos de la cuenta y las preferencias de idioma y zona horaria.
+
+![evidence for sprint review (7).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%287%29.png)
+
+**Figura 7.** Módulo Reportes con el rol *Supervisor (Admin)*. Evidencia que la navegación y los permisos de acceso del módulo se encuentran activos para el rol, con el módulo planificado para la próxima iteración.
+
+![evidence for sprint review (8).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%288%29.png)
+
+**Figura 8.** Módulo Historial con el rol *Supervisor (Admin)*. Confirma el acceso al registro completo de actividad del sistema desde el rol supervisor.
+
+![evidence for sprint review (9).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%289%29.png)
+
+**Figura 9.** Módulo Recepciones con el rol *Supervisor (Admin)*. Muestra los indicadores de recepciones (hoy, pendientes, con discrepancias, completadas), los filtros por proyecto/estado/fechas y el detalle de la recepción seleccionada.
+
+![evidence for sprint review (10).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2810%29.png)
+
+**Figura 10.** Módulo Despachos con el rol *Supervisor (Admin)*. Presenta los contadores por estado (en preparación, programados, en tránsito, con incidencia) y el listado de despachos con obra, materiales, cantidad, transporte y fecha de salida.
+
+![evidence for sprint review (11).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2811%29.png)
+
+**Figura 11.** Módulo Transporte y Flota con el rol *Supervisor (Admin)*. Muestra la gestión de unidades con su placa, marca, modelo, capacidad y estado del dispositivo GPS (vinculado / sin dispositivo).
+
+![evidence for sprint review (12).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2812%29.png)
+
+**Figura 12.** Módulo Materiales con el rol *Supervisor (Admin)*. Presenta los indicadores de inventario y la tabla de estado del inventario con stock actual, stock mínimo, obra asociada y estado (en stock / stock bajo).
+
+![evidence for sprint review (13).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2813%29.png)
+
+**Figura 13.** Módulo Obras con el rol *Supervisor (Admin)*. Vista supervisora de la lista de obras con su avance, despachos, recepciones, incidencias y la distribución por zona.
+
+![evidence for sprint review (14).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2814%29.png)
+
+**Figura 14.** Pantalla de Inicio (dashboard) del rol *Supervisor (Admin)* (María Torres). Muestra la vista general de la operación con indicadores, "Requiere mi atención", el estado de operaciones (gráfico de despachos) y la actividad reciente.
+
+![evidence for sprint review (15).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2815%29.png)
+
+**Figura 15.** Módulo Configuración con el rol *Responsable de almacén* (Miguel Rojas). Muestra el perfil del usuario, los datos de la cuenta y las preferencias de idioma y zona horaria.
+
+![evidence for sprint review (16).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2816%29.png)
+
+**Figura 16.** Módulo Historial con el rol *Responsable de almacén*. Confirma el acceso al registro de actividad del sistema desde el rol de almacén.
+
+![evidence for sprint review (17).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2817%29.png)
+
+**Figura 17.** Módulo Transporte y Flota con el rol *Responsable de almacén*. Muestra las unidades de la flota con su capacidad y estado del dispositivo GPS.
+
+![evidence for sprint review (18).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2818%29.png)
+
+**Figura 18.** Módulo Despachos con el rol *Responsable de almacén*. Presenta los contadores por estado y el listado de despachos a preparar y programar desde el almacén.
+
+![evidence for sprint review (19).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2819%29.png)
+
+**Figura 19.** Módulo Solicitudes con el rol *Responsable de almacén*. Muestra los indicadores (pendientes, aprobadas, en revisión, urgentes) y el listado de solicitudes de materiales con su obra, cantidad, estado y prioridad.
+
+![evidence for sprint review (20).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2820%29.png)
+
+**Figura 20.** Módulo Materiales con el rol *Responsable de almacén*. Vista del inventario y su estado (en stock / stock bajo) por material, categoría y obra asociada.
+
+![evidence for sprint review (21).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2821%29.png)
+
+**Figura 21.** Pantalla de Inicio (dashboard) del rol *Responsable de almacén* (Miguel Rojas). Muestra los indicadores de almacén, "Requiere mi atención", el estado del inventario (gráfico) y los próximos despachos.
+
+![evidence for sprint review (22).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2822%29.png)
+
+**Figura 22.** Detalle de la pantalla de Inicio del rol *Responsable de almacén*, con las solicitudes y despachos que requieren atención, el estado del inventario y la actividad reciente.
+
+![evidence for sprint review (23).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2823%29.png)
+
+**Figura 23.** Módulo Configuración con el rol *Responsable de obra* (Juan Pérez). Muestra el perfil del usuario, los datos de la cuenta y las preferencias de idioma y zona horaria.
 
 
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.2-sprint-2/5.2.2.8-team-collaboration-insights-during-sprint.md -->

@@ -22,6 +22,3 @@ Los cinco integrantes registran commits propios sobre el repositorio durante el 
 
 ![Collaboration-insigths.png](../../assets/chapther-5/Collaboration-insights.png)
 
-🟢 *Nota: la captura anterior ya fue tomada y usada como evidencia en la sección 5.2.1.8; se reutiliza aquí porque el enunciado pide la misma evidencia de analíticos de colaboración en esta sección del front-matter. Confirmar que la ruta de la imagen cargue correctamente al exportar el informe.*
-
-🟢 **Pendiente de confirmar.** La correspondencia exacta entre los usuarios de GitHub de la tabla y los nombres completos de la sección 1.1.2 debe ser confirmada por el equipo (ver la misma nota en la sección 5.1.2).
