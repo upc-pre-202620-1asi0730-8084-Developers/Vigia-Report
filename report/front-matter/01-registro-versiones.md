@@ -2,10 +2,196 @@
 
 El objetivo de esta sección es resumir las modificaciones relevantes que se realizan al informe durante el ciclo de vida del proyecto. Se considera una modificación relevante la adición o eliminación de secciones, así como las correcciones o mejoras producto de la retroalimentación recibida del docente o de la autocrítica del propio equipo. Entre una entrega y otra pueden generarse varias versiones del informe, cada una reflejada como una nueva fila en el siguiente cuadro.
 
-| Versión | Fecha | Autor | Descripción de modificación |
-|---|---|---|---|
-| 1.0 | 2026-09-15 | Equipo Trazza Labs | Primera versión del informe, correspondiente a la entrega AV1. Incluye el Capítulo I completo (Startup Profile, Solution Profile y Lean UX Process); el Capítulo II hasta la sección 2.5 (análisis de la competencia, entrevistas, User Personas, User Task Matrix, User Journey Mapping, Empathy Mapping, Big Picture EventStorming y Ubiquitous Language); el Capítulo III completo (User Stories, Impact Mapping y Product Backlog); y el inicio del Capítulo IV (Style Guidelines e Information Architecture, secciones 4.1 a 4.2.5). |
-| 1.1 | 2026-09-18 | Equipo Trazza Labs | Revisión del Big Picture EventStorming (sección 2.4), ampliado de cinco a ocho Bounded Context candidatos (se agregan Captación, Suscripciones y Pagos, y Registro de Flota y Dispositivos); actualización correspondiente del Capítulo III (nuevas Epics EP-07 y EP-08 con sus User Stories y Technical Stories, y reordenamiento del Product Backlog). Se agregan al Capítulo IV el Lean UX Canvas (1.2.2.4), el Design-Level EventStorming (4.6.1), los Class Diagrams (4.7.1) y los Mock-ups de la Web Application (4.4.3, 27 pantallas). Se completa el Capítulo V (Product Implementation, Validation & Deployment) para el Sprint 1, con evidencia real de la primera versión del Landing Page implementada y desplegada en GitHub Pages. Se completan la Carátula, el Project Report Collaboration Insights y la sección Student Outcome del front-matter, y se corrige la Bibliografía. |
-| 1.2 | 2026-10-05 | Equipo Trazza Labs | Correcciones y mejoras producto de la retroalimentación de AV1, y preparación de la estructura para la entrega TB1. Se completa el Capítulo IV: Database Design (4.8) y Database Diagrams (4.8.1) para los ocho Bounded Context, elaborados como diagramas entidad-relación con Mermaid; User Flow Diagrams (4.4.4) para los principales User Goals, cada uno con su happy path y flujos alternativos; y evidencia de prototipo (4.5). Se amplían los Hypothesis Statements del Lean UX (1.2.2.3) y se añaden las Engineering Tasks estimadas en horas al Sprint Backlog 1 (5.2.1.3). Se corrige la coherencia del conjunto de roles en el diseño de base de datos (BC-02) respecto a los actores de las User Stories. Correcciones transversales de comunicación: numeración correlativa de todas las figuras del informe y normalización de rutas de imágenes. Se agrega la estructura de la sección 5.2.2. Sprint 2, requerida para la entrega TB1. |
+<table>
+  <thead>
+    <tr>
+      <th>Versión</th>
+      <th>Fecha</th>
+      <th>Autor</th>
+      <th>Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>0.1.0</td>
+      <td>2026-09-01</td>
+      <td>Elías Ramos</td>
+      <td>Creación de la estructura base del informe y carpetas para los capítulos[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.1.1</td>
+      <td>2026-09-02</td>
+      <td>Fabián Sandoval</td>
+      <td>Adición de los archivos Markdown para los capítulos 1 al 4[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.1.2</td>
+      <td>2026-09-03</td>
+      <td>Fabián Sandoval</td>
+      <td>Inclusión del diseño de entrevistas para ambos segmentos objetivo[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.1.3</td>
+      <td>2026-09-03</td>
+      <td>Leonardo López</td>
+      <td>Adición de la descripción inicial de la startup[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.1.4</td>
+      <td>2026-09-04</td>
+      <td>Elías Ramos</td>
+      <td>Inclusión de rivales competitivos en la sección de análisis[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.1.5</td>
+      <td>2026-09-04</td>
+      <td>Leonardo López</td>
+      <td>Redacción del análisis competitivo y correcciones en la sección[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.1.6</td>
+      <td>2026-09-04</td>
+      <td>Elizabeth Apaza</td>
+      <td>Actualización de Lean UX Problem Statements y Assumptions[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.1.7</td>
+      <td>2026-09-04</td>
+      <td>Mathias Cárdenas</td>
+      <td>Inclusión y actualización de Lean UX Hypothesis Statements[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.1.8</td>
+      <td>2026-09-07</td>
+      <td>Elizabeth Apaza</td>
+      <td>Correcciones de formato y actualización de la sección de competidores[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.1.9</td>
+      <td>2026-09-08</td>
+      <td>Leonardo López</td>
+      <td>Alineación de la redacción de User Personas con la guía de estilos[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.2.0</td>
+      <td>2026-09-08</td>
+      <td>Fabián Sandoval</td>
+      <td>Adición de misión, visión, objetivos, restricciones y Solution Profile[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.2.1</td>
+      <td>2026-09-09</td>
+      <td>Fabián Sandoval</td>
+      <td>Redacción del proceso Lean UX y estrategia frente a competidores[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.2.2</td>
+      <td>2026-09-10</td>
+      <td>Fabián Sandoval</td>
+      <td>Inclusión de los perfiles de los integrantes del equipo[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.2.3</td>
+      <td>2026-09-14</td>
+      <td>Leonardo López</td>
+      <td>Adición del registro de entrevista de Owen Aguirre y Empathy Mapping[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.2.4</td>
+      <td>2026-09-15</td>
+      <td>Leonardo López</td>
+      <td>Inclusión de la Arquitectura de Información y Front-matter[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.2.5</td>
+      <td>2026-09-16</td>
+      <td>Elías Ramos</td>
+      <td>Corrección de capturas y actualización general de registros de entrevistas[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.2.6</td>
+      <td>2026-09-16</td>
+      <td>Elizabeth Apaza</td>
+      <td>Adición del registro y captura de la entrevista a Jennifer Ruiz[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.2.7</td>
+      <td>2026-09-16</td>
+      <td>Fabián Sandoval</td>
+      <td>Inclusión del Lean UX Canvas en la documentación[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.2.8</td>
+      <td>2026-09-17</td>
+      <td>Mathias Cárdenas</td>
+      <td>Adición de Software Object-Oriented Design y diagramas de clase UML[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.2.9</td>
+      <td>2026-09-18</td>
+      <td>Leonardo López</td>
+      <td>Actualización del Product Backlog y corrección del mapa de impacto[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.3.0</td>
+      <td>2026-09-18</td>
+      <td>Elizabeth Apaza</td>
+      <td>Subida de Wireframes y Web Applications Wireflow Diagrams[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.3.1</td>
+      <td>2026-09-18</td>
+      <td>Fabián Sandoval</td>
+      <td>Inclusión del C4 Model y Component Diagrams[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.3.2</td>
+      <td>2026-09-18</td>
+      <td>Elías Ramos</td>
+      <td>Adición de Mock-ups del Landing Page, Collaboration Insights y Student Outcome[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.3.3</td>
+      <td>2026-09-18</td>
+      <td>Mathias Cárdenas</td>
+      <td>Actualización de contribuciones de perfil y adición de nuevos contextos[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>0.3.4</td>
+      <td>2026-09-18</td>
+      <td>Elizabeth Apaza</td>
+      <td>Integración del registro y análisis demográfico de la entrevista a Walter Cconislla[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>1.0.0</td>
+      <td>2026-09-18</td>
+      <td>Fabián Sandoval</td>
+      <td>Fusión de ramas a <em>main</em> para consolidar la primera entrega formal (AV1)[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>1.0.1</td>
+      <td>2026-09-30</td>
+      <td>Mathias Cárdenas</td>
+      <td>Formateo y traducción de la sección Lean UX Hypothesis Statements[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>1.0.2</td>
+      <td>2026-10-01</td>
+      <td>Leonardo López</td>
+      <td>Corrección de User Stories, Product Backlog y actualización de habilidades en User Personas[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>1.0.3</td>
+      <td>2026-10-05</td>
+      <td>Leonardo López</td>
+      <td>Inclusión de los diagramas de base de datos y Source Code Management[cite: 1].</td>
+    </tr>
+    <tr>
+      <td>1.0.4</td>
+      <td>2026-10-05</td>
+      <td>Elías Ramos</td>
+      <td>Actualización final de Mock-ups de la Web Application y diagramas C4 para TB1[cite: 1].</td>
+    </tr>
+  </tbody>
+</table>
 
-> **Nota sobre el estado de esta sección (actualizada en v1.2).** Las entrevistas registradas en la sección 2.2.2 siguen siendo, en su mayoría, entradas ilustrativas pendientes de grabación (ver nota de esa sección), por lo que los artefactos que dependen de ellas (Análisis de entrevistas, User Personas, User Task Matrix, User Journey Mapping y Empathy Mapping) conservan carácter preliminar; se actualizarán al completar como mínimo tres entrevistas reales por segmento, registradas en video. En el Capítulo IV ya se completaron las secciones 4.4.4 (User Flow Diagrams), 4.5 (Prototyping), 4.6.2 a 4.6.4 (Software Architecture C4), 4.8 y 4.8.1 (Database Design). Queda pendiente completar el perfil de algunos integrantes (sección 1.1.2) y el contenido de ejecución de la sección 5.2.2. Sprint 2 (evidencia de desarrollo, ejecución, documentación de servicios, despliegue y colaboración), que se llena con el trabajo real del Sprint 2 para la entrega TB1. Estos puntos se actualizarán en las versiones siguientes del informe, quedando reflejado dicho avance en este mismo cuadro.
