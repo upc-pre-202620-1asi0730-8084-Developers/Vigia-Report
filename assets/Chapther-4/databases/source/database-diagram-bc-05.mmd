@@ -1,0 +1,31 @@
+erDiagram
+    orders {
+        uuid id PK
+        uuid site_id
+        uuid requested_by_user_id
+        timestamptz order_date
+        varchar status "CHECK enum"
+    }
+    order_items {
+        uuid id PK
+        uuid order_id FK
+        varchar material_name
+        varchar unit_of_measure
+        numeric requested_quantity
+        numeric assigned_quantity
+    }
+    dispatches {
+        uuid id PK
+        uuid order_id FK
+        uuid vehicle_id "BC-04, sin FK"
+        uuid carrier_id
+        numeric estimated_weight_kg
+        numeric scale_weight_kg
+        varchar status "CHECK enum"
+        timestamptz departed_at "NULL"
+        varchar waybill_number "NULL"
+        timestamptz waybill_issued_at "NULL"
+        uuid waybill_authorized_by_user_id "NULL"
+    }
+    orders ||--|{ order_items : "contiene (CASCADE)"
+    orders ||--o{ dispatches : "genera (RESTRICT)"

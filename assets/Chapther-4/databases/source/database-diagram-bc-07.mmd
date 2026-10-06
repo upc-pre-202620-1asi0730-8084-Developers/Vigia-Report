@@ -1,0 +1,25 @@
+erDiagram
+    receptions {
+        uuid id PK
+        uuid dispatch_id UK "BC-05, sin FK"
+        uuid verified_by_user_id "BC-02, sin FK"
+        timestamptz arrived_at
+        timestamptz closed_at "NULL"
+        varchar status "CHECK enum"
+    }
+    reception_items {
+        uuid id PK
+        uuid reception_id FK
+        varchar material_name
+        numeric dispatched_quantity
+        numeric received_quantity
+    }
+    supporting_evidences {
+        uuid id PK
+        uuid reception_id FK
+        varchar evidence_url
+        timestamptz captured_at
+        varchar caption
+    }
+    receptions ||--|{ reception_items : "detalla (CASCADE)"
+    receptions ||--o{ supporting_evidences : "adjunta (CASCADE)"
