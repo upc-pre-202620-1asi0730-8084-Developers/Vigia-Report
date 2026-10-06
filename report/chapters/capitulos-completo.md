@@ -6,21 +6,29 @@
 
 **Carrera de Ingeniería de Software**
 
-Ciclo 2026-20
+**1ASI0730** 
 
-**1ASI0730 — Aplicaciones Web**
+**Aplicaciones Web**
 
-NRC 8084
+NRC 
 
-# Informe de Trabajo Final
+**8084**
 
-**Startup:** Trazza Labs
-
-**Producto:** Vigía
+**Informe del Trabajo Final**
 
 **Docente**
 
 Velásquez Núñez, Ángel Augusto
+
+
+
+Equipo
+
+**Trazza Labs**
+
+Proyecto
+
+**Vigia**
 
 **Integrantes**
 
@@ -32,11 +40,50 @@ Velásquez Núñez, Ángel Augusto
 | u20201a277 | Ramos Cerdan, Elias Daniel                |
 | u20221a132 | Sandoval Cueto, Fabian Jesus                |
 
+Periodo 202620
+
 Septiembre 2026
 
-</div>
-    
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+</div>
 
 
 
@@ -113,7 +160,7 @@ El equipo reúne perfiles complementarios en desarrollo backend, desarrollo fron
 
 | | |
 |---|---|
-| | **Apellidos y Nombres:** Sandoval, Fabián<br><br>**Código:** u2022XXXXX<br><br>**Carrera:** Ingeniería de Software<br><br>**Rol en el equipo:** Team Leader |
+| <img src="../../../assets/chapther-1/Fabian.jpg" width="150"> | **Apellidos y Nombres:** Sandoval, Fabián<br><br>**Código:** u2022XXXXX<br><br>**Carrera:** Ingeniería de Software<br><br>**Rol en el equipo:** Team Leader |
 
 *Soy estudiante de Ingeniería de Software con experiencia en desarrollo backend con Spring Boot y en desarrollo frontend con Vue 3 y PrimeVue, así como en el uso de Docker para la configuración de entornos de desarrollo. Manejo Git y GitHub aplicando GitFlow y Conventional Commits, lo que me permite coordinar la integración del trabajo del equipo en los repositorios del proyecto. Aporto al equipo en la organización de las tareas, la definición de la arquitectura de la solución y la implementación de los servicios del RESTful API.*
 
@@ -123,8 +170,9 @@ El equipo reúne perfiles complementarios en desarrollo backend, desarrollo fron
 
 | |                                                                                                                                                          |
 |---|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![leo.jpeg](../../assets/chapther-1/leo.jpeg) | **Apellidos y Nombres:** Lopez, Leonardo<br><br>**Código:** u20241a649<br><br>**Carrera:** Ingeniería de Software<br><br>**Rol en el equipo:** Developer |
-Mi nombre es leonardo gabriel lopez torres, estoy en el 6to ciclo de la carrera de ing de software en la upc, por lo general los conocimientos que tengo es sobre c sharp, c++, typesecript y javasciprt
+| <img src="../../../assets/chapther-1/leo.jpeg" width="150"> | **Apellidos y Nombres:** Lopez, Leonardo<br><br>**Código:** u20241a649<br><br>**Carrera:** Ingeniería de Software<br><br>**Rol en el equipo:** Developer |
+
+*Mi nombre es leonardo gabriel lopez torres, estoy en el 6to ciclo de la carrera de ing de software en la upc, por lo general los conocimientos que tengo es sobre c sharp, c++, typesecript y javasciprt*
 
 ---
 
@@ -132,7 +180,7 @@ Mi nombre es leonardo gabriel lopez torres, estoy en el 6to ciclo de la carrera 
 
 | | |
 |---|---|
-| <img src="../../assets/chapther-1/Andree.jpg" width="150"> | **Apellidos y Nombres:** Cardenas Huaman, Mathias Andree<br><br>**Código:** u202316353<br><br>**Carrera:** Ingeniería de Software<br><br>**Rol en el equipo:** Developer |
+| <img src="../../../assets/chapther-1/Andree.jpg" width="150"> | **Apellidos y Nombres:** Cardenas Huaman, Mathias Andree<br><br>**Código:** u202316353<br><br>**Carrera:** Ingeniería de Software<br><br>**Rol en el equipo:** Developer |
 
 *Actualmente me encuentro estudiando la carrera de Ingeniería de Software. Soy proactivo y comunicativo, trabajo en equipo y resolución de problemas, también me gusta colocarme objetivos desafiantes para mejorar. Me encanta el curso y mi meta es completarla con la máxima nota posible.*
 
@@ -142,7 +190,7 @@ Mi nombre es leonardo gabriel lopez torres, estoy en el 6to ciclo de la carrera 
 
 | | |
 |---|---|
-| <img src="../../assets/chapther-1/Elizabeth.jpg" width="150"> | **Apellidos y Nombres:** Apaza Bocanegra, Elizabeth Noelia<br><br>**Código:** u20231c197<br><br>**Carrera:** Ingeniería de Software<br><br>**Rol en el equipo:** Developer |
+| <img src="../../../assets/chapther-1/Elizabeth.jpg" width="150"> | **Apellidos y Nombres:** Apaza Bocanegra, Elizabeth Noelia<br><br>**Código:** u20231c197<br><br>**Carrera:** Ingeniería de Software<br><br>**Rol en el equipo:** Developer |
 
 *Soy estudiante de la carrera de Ingeniería de Software, tengo 20 años y me defino como una persona responsable, organizada y con facilidad para colaborar con los demás. Disfruto mucho del trabajo en equipo porque me permite intercambiar ideas y seguir aprendiendo de mi carrera. Me interesa desarrollar constantemente nuevas habilidades y busco aportar siempre con una comunicación clara y efectiva en cada proyecto. Mi objetivo es fortalecer mi formación académica y aprovechar cada experiencia para crecer tanto en lo profesional como en lo personal.*
 
@@ -152,7 +200,7 @@ Mi nombre es leonardo gabriel lopez torres, estoy en el 6to ciclo de la carrera 
 
 | |                                                                                                                                                                    |
 |---|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="../../assets/chapther-1/Ramos-Elias.jpg" width="150"> | **Apellidos y Nombres:** Ramos Cerdan, Elis Daniel<br><br>**Código:** u20201a277<br><br>**Carrera:** Ingeniería de Software<br><br>**Rol en el equipo:** Developer |
+| <img src="../../../assets/chapther-1/Ramos-Elias.jpg" width="150"> | **Apellidos y Nombres:** Ramos Cerdan, Elis Daniel<br><br>**Código:** u20201a277<br><br>**Carrera:** Ingeniería de Software<br><br>**Rol en el equipo:** Developer |
 
 *Mi nombre es Elias Daniel Ramos Cerdan y estoy en el séptimo ciclo de la carrera de Ingeniería de Software. Me adapto con facilidad a entornos nuevos y siempre busco maneras de mejorar mi ejecución de cada avance en los trabajos. El desarrollo de software es un área de gran interés para mí, tengo conocimientos en C++, python, html, css, y javascript y disfruto abordando problemas que exigen tanto razonamiento lógico como creatividad. Dentro del grupo mi objetivo es brindar soluciones que favorezcan un buen desarrollo del proyecto, y siempre estar al tanto de que se haga lo mejor de lo mejor.*
 
@@ -810,21 +858,29 @@ A continuación se consigna la información de cada entrevistado, agrupada por s
 
 En la entrevista, Owen relató su rutina diaria como residente de obra en un proyecto de edificación multifamiliar en Lima Metropolitana, describiendo cómo se entera de los despachos programados a través de un grupo de WhatsApp compartido con el almacén central y cómo verifica el material descargado contra la guía de remisión antes de firmar la conformidad. Señaló que la señal de internet en el frente de obra es intermitente, por lo que en varias ocasiones ha tenido que anotar las cantidades recibidas en un cuaderno físico para trasladarlas después a la hoja de cálculo de control de materiales. Relató un episodio reciente en el que un pedido de fierro corrugado llegó incompleto y tuvo que suspender el vaciado programado para esa faena mientras esperaba el reembarque, lo que generó un retraso de dos días en el cronograma. Indicó que, ante diferencias como esa, distingue una merma normal de una pérdida reportable según el porcentaje de tolerancia que maneja la oficina técnica, y que cualquier faltante mayor debe sustentarlo directamente ante su jefe de proyecto. Mencionó que el mayor desgaste de su trabajo es reconstruir, a partir de llamadas y capturas de pantalla, lo que ocurrió con un despacho cuando aparece una discrepancia días después de recibido el material. Sobre las marcas con las que trabaja, mencionó proveedores de cemento y acero de uso extendido en el mercado nacional, y comentó que se mantiene al día siguiendo páginas y grupos de colegas del rubro en redes sociales.
 
-| Entrevistado:          | Renzo Salazar Huamán (entrada ilustrativa, pendiente de grabación)                                                                                                                                                                                                                                                     |
-|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Duracion               | 22:10                                                                                                                                                                                                                                                                                                                   |
-| Genero                 | Masculino                                                                                                                                                                                                                                                                                                               |
-| Edad                   | 41                                                                                                                                                                                                                                                                                                                      |
-| Distrito de residencia | La Molina                                                                                                                                                                                                                                                                                                               |
-| Estado civil           | Casado, dos hijos en edad escolar                                                                                                                                                                                                                                                                                       |
-| Ocupacion              | Ingeniero Civil - Director de obra                                                                                                                                                                                                                                                                                      |
-| Objectivos             | Terminar la obra dentro del plazo contractual y sin sobrecostos por reposición de material, para consolidar su prestigio como director frente a la constructora                                                                                                                                                       |
-| Fecha de la entrevista | *Pendiente de grabación*                                                                                                                                                                                                                                                                                                |
-| Inicio en el video consolidado | *Pendiente*                                                                                                                                                                                                                                                                                                      |
-| Captura                | *Pendiente de grabación en video*                                                                                                                                                                                                                                                                                       |
-| Url:                   | *Pendiente*                                                                                                                                                                                                                                                                                                             |
+| Entrevistado:          | Enoc Javier Ramos Chumpitaz                                                                                                                                                                          |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre                 | Enoc Javier Ramos Chumpitaz                                                                                                                                                                          |
+| Genero                 | Masculino                                                                                                                                                                                            |
+| Edad                   | 48                                                                                                                                                                                                   |
+| Distrito de residencia | La Victoria                                                                                                                                                                                          |
+| Estado civil           | Casado, tres hijos                                                                                                                                                                                   |
+| Ocupacion              | Coordinador de despacho y transporte de materiales                                                                                                                                                   |
+| Objectivos             | Cumplir los despachos a tiempo, reducir errores y reclamos por diferencias entre lo enviado y lo recibido, y mantener un mejor control de la información durante todo el traslado de los materiales. |
+| Fecha de la entrevista | *5/10/2026*                                                                                                                                                                                          |
+| Duracion               | *14:17*                                                                                                                                                                                              |
+| Captura                | *![img.png](img.png)*                                                                                                                                                                                |
+| Url:                   | https://lix.li/fXZIPe                                                                                                                                                                                |
 
-Renzo describió su rol como director de obra a cargo de dos frentes simultáneos de una empresa constructora mediana, y explicó que el control del consumo de materiales frente a lo presupuestado es la responsabilidad que más lo desvela, porque cualquier desviación debe sustentarla directamente ante la gerencia general. Contó que la coordinación de los despachos se realiza mediante llamadas telefónicas y un grupo de WhatsApp con el almacén y los proveedores, y que su equipo utiliza el software de presupuestos y control de costos habitual del sector únicamente para el metrado y la valorización, mientras que el seguimiento del material que efectivamente ingresa a obra se lleva en hojas de cálculo paralelas que él mismo revisa cada tarde. Relató el caso de un despacho de cemento que llegó con quince bolsas menos de lo indicado en la guía de remisión, y que tardó casi una semana en esclarecer si la diferencia se había producido en el almacén o durante el traslado, sin llegar a una conclusión definitiva. Señaló que la decisión de adoptar cualquier herramienta nueva de control no depende de él sino de la oficina técnica central de la constructora, y que desconfiaría de un sistema que le añadiera pasos de registro sin reducirle el tiempo que hoy dedica a llamar y preguntar. Usó de forma reiterada los términos vale de salida, guía de remisión y cubicación para referirse a los documentos y procesos de su día a día. Sobre las marcas y referentes del rubro, indicó que trabaja con proveedores de acero y cemento de las marcas más conocidas del mercado y que se informa a través de publicaciones especializadas y del intercambio con otros directores de obra.
+**Resumen de la entrevista**
+
+El entrevistado se desempeña como coordinador de despacho y transporte de materiales y cuenta con aproximadamente dieciocho años de experiencia en operaciones logísticas, de los cuales siete los ha dedicado a la coordinación de despachos. Actualmente trabaja con alrededor de cuatro obras activas y gestiona entre dieciocho y veinticinco despachos por semana. Explica que el proceso comienza con la recepción del requerimiento de la obra, seguido de la verificación de stock, preparación del material, asignación del vehículo, carga, pesaje y revisión de la guía de remisión antes de autorizar la salida. Señala que cuando un pedido debe dividirse entre varios camiones aumenta la dificultad para controlar que la suma de las entregas coincida con lo solicitado inicialmente.
+
+Durante el traslado, menciona que algunas unidades cuentan con GPS, mientras que en otros casos el seguimiento depende principalmente de llamadas y mensajes de WhatsApp con los conductores. Indica que uno de los principales problemas es que los retrasos o cambios de ruta no siempre se detectan inmediatamente y, en ocasiones, recién se enteran cuando la obra consulta por la ubicación del vehículo. También comenta que existen tramos con poca cobertura de internet, por lo que los conductores deben guardar fotografías o información y enviarlas cuando recuperan la señal.
+
+Respecto a las diferencias entre lo despachado y lo recibido, relató un caso en el que una obra informó que faltaba un paquete de fierro. Para verificar lo ocurrido tuvieron que revisar la guía de remisión, el ticket de báscula, fotografías de la carga, mensajes y conversaciones con los involucrados. Finalmente se comprobó que el material sí había llegado, pero había sido colocado en otra zona de la obra y no se había contabilizado inicialmente. Señala que este tipo de situaciones genera pérdida de tiempo debido a que la información se encuentra distribuida entre el sistema interno, hojas de Excel, WhatsApp, documentos físicos y llamadas telefónicas.
+
+El entrevistado considera que una nueva herramienta debería centralizar la información de cada despacho, permitir revisar fácilmente las evidencias de salida, transporte y recepción, y funcionar aun cuando exista conectividad limitada. Sin embargo, señala que desconfiaría de una solución que fuera complicada, obligara a registrar la misma información varias veces o ralentizara el proceso de despacho. También menciona que la decisión de adoptar una nueva herramienta dependería principalmente de la jefatura de logística, el área de sistemas y la administración de la empresa. Finalmente, indica que en su trabajo utilizan términos como guía de remisión, ticket de báscula, vale de salida, conformidad y visto bueno, y que aplicaciones como WhatsApp y Google Maps forman parte habitual de las coordinaciones diarias.
 
 | Entrevistado:          | Jennifer Ruiz Aliaga                                                                                                                                                                                                                                                  |
 |------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -837,7 +893,7 @@ Renzo describió su rol como director de obra a cargo de dos frentes simultáneo
 | Objetivos             | Garantizar la recepción de materiales en óptimas condiciones y cantidades para cumplir la meta diaria de obra al 100%, y proponer mejoras para agilizar los procesos.                                                                                                                                                          |
 | Fecha de la entrevista | 15/09/2026                                                                                                                                                                                                                                                                                              |
 | Inicio en el video consolidado | 0:00                                                                                                                                                                                                                                                                                                      |
-| Captura                | <img src="../../assets/Chapther-4/entrevistas/entrevista-JenniferRuiz">                                                                                                                                                                                                                                                                                        |
+| Captura                | <img src="../../../assets/Chapther-4/entrevistas/entrevista-JenniferRuiz">                                                                                                                                                                                                                                                                                        |
 | Url:                   | https://tinyurl.com/2bk4j9a2                                                                                                                                                                                                                                                                                                             |
 
 Jennifer narró su experiencia como ingeniera civil que asumió funciones de coordinadora en proyectos de infraestructura educativa, y explicó que, al trabajar en provincias, la empresa le asigna un hospedaje cercano para facilitar sus largas jornadas que suelen extenderse hasta las siete de la noche. Describió que la notificación de un despacho llega mediante una guía de remisión indicando que el material está en ruta, y que en el frente de obra usa un sistema de inventario corporativo con buena señal de internet, lo cual agiliza notablemente el flujo de trabajo. Contó que, en una ocasión, un despacho de cerámicos llegó con colores y cantidades diferentes a lo solicitado y que la solución fue rechazar el camión completo porque en la obra no pueden recibir entregas parciales de una compra total. Mencionó que lo que más la desgasta es el conteo unitario y la verificación exhaustiva de calidad al recibir lotes masivos, a pesar de considerar siempre un cinco por ciento de merma por traslado. Sobre el vocabulario, remarcó que en su obra al registro de entradas y salidas de material le dicen simplemente el Kárdex, y que a la validación matutina de seguridad la llaman la charla de Soma. Comentó que los proveedores de agregados cambian constantemente, pues esto depende de la región, aunque mantienen a Aceros Arequipa como aliado fijo por su calidad y suelen realizar préstamos internos de materiales entre distintas obras.
@@ -856,7 +912,7 @@ Jennifer narró su experiencia como ingeniera civil que asumió funciones de coo
 | Objectivos             | Organizar los despachos de materiales de manera rápida y ordenada, reducir errores y retrasos, centralizar la información de cada despacho y contar con evidencias claras de cada etapa del proceso.                                                                                                                         |
 | Fecha de la entrevista | 13/09/2026                                                                                                                                                                                                                                                                                                                   |
 | Duración               | 16:36                                                                                                                                                                                                                                                                                                                        |
-| Captura                | <img src="../../assets/Chapther-4/entrevistas/entrevista-AngelBarrera.png" alt="Captura entrevista Angel Barrera" width="350">                                                                                                                                                                                                     |
+| Captura                | <img src="../../../assets/Chapther-4/entrevistas/entrevista-AngelBarrera.png" alt="Captura entrevista Angel Barrera" width="350">                                                                                                                                                                                                     |
 | Url:                   | https://tinyurl.com/295hvb4u |
 
 **Resumen de la entrevista**
@@ -874,26 +930,26 @@ El entrevistado se desempeña como jefe de almacén y despacho, cuenta con ampli
 | Objectivos             | Atiende normalmente entre 3 y 5 obras activas y coordina entre 15 y 25 despachos por semana.                                                                                                                                                                                                                                 |
 | Fecha de la entrevista | 14/09/2026                                                                                                                                                                                                                                                                                                                   |
 | Duracion               | 11:30                                                                                                                                                                                                                                                                                                                        |
-| Captura                | <img src="../../assets/Chapther-4/entrevistas/entrevista-MiguelPomasonco.png" alt="Captura entrevista Miguel Pomasonco" width="350">                                                                                                                                                                                      |
+| Captura                | <img src="../../../assets/Chapther-4/entrevistas/entrevista-MiguelPomasonco.png" alt="Captura entrevista Miguel Pomasonco" width="350">                                                                                                                                                                                      |
 | Url:                   | https://tinyurl.com/2923phzy |
 
 **Resumen de la entrevista**
 
 El entrevistado se desempeña como coordinador de despacho y transporte de materiales para obras y gestiona normalmente entre tres y cinco obras activas, coordinando entre quince y veinticinco despachos por semana. Explica que el proceso de despacho incluye la verificación de stock, preparación del material, asignación del transporte, pesaje, revisión de documentos y autorización de salida. Señala que una de las principales dificultades surge cuando un pedido se divide en varios viajes, ya que se debe controlar que la suma de todas las entregas coincida con lo solicitado. También menciona que el seguimiento de los vehículos no es uniforme, debido a que algunos cuentan con GPS y otros dependen de llamadas o mensajes con el conductor, lo que puede retrasar la detección de incidencias. Cuando existen diferencias entre lo despachado y lo recibido, deben revisar guías, fotografías, mensajes y conversaciones con los involucrados, lo que genera pérdida de tiempo. Además, indica que la información se encuentra repartida entre el sistema interno, Excel, WhatsApp, correos y documentos físicos. Considera que una nueva herramienta debería centralizar toda la información del despacho, permitir trabajar con conexión limitada, generar alertas ante retrasos y mostrar quién registró cada etapa, siempre manteniendo una operación rápida y sencilla.
 
-| Entrevistado:          | Walter Cconislla Mamani (entrada ilustrativa, pendiente de grabación)                                                                                                                                                                                                                                                  |
-|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Duracion               | 20:50                                                                                                                                                                                                                                                                                                                   |
-| Genero                 | Masculino                                                                                                                                                                                                                                                                                                               |
-| Edad                   | 52                                                                                                                                                                                                                                                                                                                      |
-| Distrito de residencia | Puente Piedra                                                                                                                                                                                                                                                                                                           |
-| Estado civil           | Casado, cuatro hijos, dos de ellos ya independientes                                                                                                                                                                                                                                                                    |
-| Ocupacion              | Transportista de carga pesada                                                                                                                                                                                                                                                                                          |
-| Objectivos             | Terminar cada ruta sin contratiempos ni descuentos en su liquidación por diferencias que él no ocasionó, para seguir sosteniendo a su familia con este trabajo                                                                                                                                                        |
-| Fecha de la entrevista | *Pendiente de grabación*                                                                                                                                                                                                                                                                                                |
-| Inicio en el video consolidado | *Pendiente*                                                                                                                                                                                                                                                                                                      |
-| Captura                | *Pendiente de grabación en video*                                                                                                                                                                                                                                                                                       |
-| Url:                   | *Pendiente*                                                                                                                                                                                                                                                                                                             |
+| Entrevistado:          | Walter Cconislla Mamani (entrada ilustrativa, pendiente de grabación)                                                                                         |
+|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Duracion               | 20:50                                                                                                                                                         |
+| Genero                 | Masculino                                                                                                                                                     |
+| Edad                   | 52                                                                                                                                                            |
+| Distrito de residencia | Puente Piedra                                                                                                                                                 |
+| Estado civil           | Casado, cuatro hijos, dos de ellos ya independientes                                                                                                          |
+| Ocupacion              | Transportista de carga pesada                                                                                                                                 |
+| Objectivos             | Terminar cada ruta sin contratiempos ni descuentos en su liquidación por diferencias que él no ocasionó, para seguir sosteniendo a su familia con este trabajo |
+| Fecha de la entrevista | 10/09/26                                                                                                                                                      |
+| Inicio en el video consolidado | 0:00                                                                                                                                                          |
+| Captura                |                                                                                                                              |
+| Url:                   | *Pendiente*                                                                                                                                                   |
 
 Walter contó su experiencia de más de veinte años como transportista de carga pesada al servicio de obras de construcción, describiendo que su jornada empieza en el almacén, donde espera a que se complete el pesaje y la firma de la guía de remisión antes de salir hacia la obra asignada. Relató que, una vez en ruta, tiene poca o ninguna visibilidad de si algo cambia en el pedido, y que su principal forma de comunicación con el residente de obra es una llamada telefónica cuando se acerca al destino o cuando surge un imprevisto como un desvío o una demora. Narró un episodio en el que, al llegar a la obra, el residente cuestionó que faltaba material, y que él no tuvo forma de demostrar en ese momento que la carga había salido completa según lo firmado en el almacén, lo que terminó en un descuento sobre su liquidación. Señaló que desconfiaría de cualquier aplicación que le exigiera completar registros mientras conduce, y que la decisión de usar una herramienta así no depende de él sino del dueño de la empresa de transporte para la que trabaja. Mencionó que a la guía de remisión la llama simplemente la guía y que a la conformidad de entrega en obra la llama el visto bueno del residente. Sobre las marcas, mencionó su camión de una marca de uso extendido entre transportistas de carga pesada del país, y dijo mantenerse informado a través de otros conductores y de grupos de transportistas en redes sociales.
 
@@ -1915,22 +1971,22 @@ Para mantener una experiencia visual consistente en toda la Landing Page, aplica
 #### Landing Page para Desktop Web Browser
 
 <p align="center">
-  <img src="../../assets/Chapther-4/wireframes-landing/Hero%20Section.png" width="48%">
-  <img src="../../assets/Chapther-4/wireframes-landing/Problem%20and%20Process%20Section.png" width="48%">
+  <img src="../../../assets/Chapther-4/wireframes-landing/Hero%20Section.png" width="48%">
+  <img src="../../../assets/Chapther-4/wireframes-landing/Problem%20and%20Process%20Section.png" width="48%">
 </p>
 
 <p align="center">
-  <img src="../../assets/Chapther-4/wireframes-landing/Benefits%20Section.png" width="48%">
-  <img src="../../assets/Chapther-4/wireframes-landing/Pricing%20Section.png" width="48%">
+  <img src="../../../assets/Chapther-4/wireframes-landing/Benefits%20Section.png" width="48%">
+  <img src="../../../assets/Chapther-4/wireframes-landing/Pricing%20Section.png" width="48%">
 </p>
 
 <p align="center">
-  <img src="../../assets/Chapther-4/wireframes-landing/Demo%20Section.png" width="48%">
-  <img src="../../assets/Chapther-4/wireframes-landing/Team%20Section.png" width="48%">
+  <img src="../../../assets/Chapther-4/wireframes-landing/Demo%20Section.png" width="48%">
+  <img src="../../../assets/Chapther-4/wireframes-landing/Team%20Section.png" width="48%">
 </p>
 
 <p align="center">
-  <img src="../../assets/Chapther-4/wireframes-landing/Footer.png" width="48%">
+  <img src="../../../assets/Chapther-4/wireframes-landing/Footer.png" width="48%">
 </p>
 
 
@@ -1939,23 +1995,25 @@ Para mantener una experiencia visual consistente en toda la Landing Page, aplica
 ### 4.3.2. Landing Page Mock-up
 
 <p align="center">
-  <img src="../../assets/Chapther-4/mock-ups-landing/Hero%20Section.png" width="48%">
-  <img src="../../assets/Chapther-4/mock-ups-landing/Problem%20and%20Process%20Section.png" width="48%">
+  <img src="../../../assets/Chapther-4/mock-ups-landing/Hero%20Section.png" width="48%">
+  <img src="../../../assets/Chapther-4/mock-ups-landing/Problem%20and%20Process%20Section.png" width="48%">
 </p>
 
 <p align="center">
-  <img src="../../assets/Chapther-4/mock-ups-landing/Benefits%20Section.png" width="48%">
-  <img src="../../assets/Chapther-4/mock-ups-landing/Pricing%20Section.png" width="48%">
+  <img src="../../../assets/Chapther-4/mock-ups-landing/Benefits%20Section.png" width="48%">
+  <img src="../../../assets/Chapther-4/mock-ups-landing/Pricing%20Section.png" width="48%">
 </p>
 
 <p align="center">
-  <img src="../../assets/Chapther-4/mock-ups-landing/Demo%20Section.png" width="48%">
-  <img src="../../assets/Chapther-4/mock-ups-landing/Team%20Section.png" width="48%">
+  <img src="../../../assets/Chapther-4/mock-ups-landing/Demo%20Section.png" width="48%">
+  <img src="../../../assets/Chapther-4/mock-ups-landing/Team%20Section.png" width="48%">
 </p>
 
 <p align="center">
-  <img src="../../assets/Chapther-4/mock-ups-landing/Footer.png" width="48%">
+  <img src="../../../assets/Chapther-4/mock-ups-landing/Footer.png" width="48%">
 </p>
+
+
 
 
 <!-- Fuente: report/chapters/chapter-4-product-design/4.4-web-applications-ux-ui-design.md -->
@@ -2012,148 +2070,88 @@ En esta sección se presentan los Mock-ups de la Web Application de Vigía, orga
 
 Rol con visión transversal de la operación (equivalente al "Responsable de oficina técnica" descrito en la Epic EP-05 de la sección 3.1), usado en estos mock-ups por María Torres.
 
-**Figura 17**
-
 ![mock-up-Supervisor (1).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%281%29.png)
-**Despachos.** Panel de monitoreo de despachos con indicadores de despachos en preparación, programados, en tránsito y con incidencia; incluye la lista completa de despachos con filtros por obra, estado, transporte y fecha, y un panel de seguimiento de un despacho puntual con línea de estado (Preparación → Salida → En tránsito → Entrega) y mapa de ruta. Corresponde a la visión de supervisión de las Epics EP-02 y EP-03.
-
-**Figura 18**
-
-![mock-up-Supervisor (2).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%282%29.png)
-**Transporte.** Vista de la flota de camiones con su estado (en ruta, en carga, en espera, con retraso, sin actividad), un mapa de seguimiento en tiempo real de las unidades, las asignaciones del día y un gráfico de disponibilidad de flota. Corresponde a la supervisión de US-06 y US-07 (EP-03).
-
-**Figura 19**
-
-![mock-up-Supervisor (3).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%283%29.png)
-**Recepciones.** Tablero de recepciones con indicadores de recepciones del día, pendientes, con diferencia y completadas; la tabla compara lo enviado contra lo recibido por cada recepción, y el panel lateral muestra el detalle de una recepción con diferencia, incluyendo la observación registrada. Corresponde directamente a US-09 y US-10 (EP-04).
-
-**Figura 20**
-
-![mock-up-Supervisor (4).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%284%29.png)
-**Problemas.** Listado de incidencias (faltantes, daños, retrasos, no conformidades) con prioridad y estado, filtrable por tipo, prioridad, estado y obra; el panel de detalle muestra la descripción completa de una incidencia y su tendencia en las últimas semanas. Corresponde a la gestión de discrepancias de EP-05, aunque el mock-up usa el término "Problemas" en lugar de "Discrepancias" — se recomienda unificar con el Ubiquitous Language de la sección 2.5.
-
-**Figura 21**
-
-![mock-up-Supervisor (5).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%285%29.png)
-**Historial.** Bitácora general de eventos del sistema (despachos, recepciones, incidencias, documentos, configuración, usuarios) con buscador, filtros combinados y un resumen de actividad por tipo de evento en gráfico de dona. Sustenta la trazabilidad end-to-end declarada en el Problem Statement de la sección 1.2.2.1.
-
-**Figura 22**
-
-![mock-up-Supervisor (6).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%286%29.png)
-**Reportes.** Panel ejecutivo con el cumplimiento global de la operación, despachos completados, recepciones con diferencia e incidencias resueltas, gráficos de cumplimiento mensual y desempeño por obra, y una tabla de reportes descargables en PDF y Excel. Corresponde a US-12 (generación de reporte de sustento, EP-05).
-
-**Figura 23**
-
-![mock-up-Supervisor (7).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%287%29.png)
 **Inicio.** Pantalla de bienvenida con la sección "Requiere mi atención" (diferencias en recepción, retrasos, materiales fuera de especificación, aprobaciones pendientes), el estado general de las obras con barra de avance y estado, y el cumplimiento semanal en gráfico de barras. Es el punto de entrada que prioriza jerárquicamente los casos críticos, conforme a la Organization System definida en la sección 4.2.1.
 
-**Figura 24**
-
-![mock-up-Supervisor (8).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%288%29.png)
+![mock-up-Supervisor (2).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%282%29.png)
 **Obras.** Listado de todas las obras activas con su zona, responsable, porcentaje de avance, despachos, recepciones e incidencias asociadas, un resumen por zona geográfica y una sección de obras que requieren atención por retrasos o incidencias críticas.
 
-**Figura 25**
+![mock-up-Supervisor (3).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%283%29.png)
+**Materiales.** Inventario consolidado de materiales monitoreados con alertas de stock bajo por obra, los materiales más utilizados, el consumo por obra en el mes y la distribución del inventario por categoría.
+
+![mock-up-Supervisor (4).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%284%29.png)
+**Despachos.** Panel de monitoreo de despachos con indicadores de despachos en preparación, programados, en tránsito y con incidencia; incluye la lista completa de despachos con filtros por obra, estado, transporte y fecha, y un panel de seguimiento de un despacho puntual con línea de estado (Preparación → Salida → En tránsito → Entrega) y mapa de ruta. Corresponde a la visión de supervisión de las Epics EP-02 y EP-03.
+
+![mock-up-Supervisor (5).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%285%29.png)
+**Transporte.** Vista de la flota de camiones con su estado (en ruta, en carga, en espera, con retraso, sin actividad), un mapa de seguimiento en tiempo real de las unidades, las asignaciones del día y un gráfico de disponibilidad de flota. Corresponde a la supervisión de US-06 y US-07 (EP-03).
+
+![mock-up-Supervisor (6).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%286%29.png)
+**Recepciones.** Tablero de recepciones con indicadores de recepciones del día, pendientes, con diferencia y completadas; la tabla compara lo enviado contra lo recibido por cada recepción, y el panel lateral muestra el detalle de una recepción con diferencia, incluyendo la observación registrada. Corresponde directamente a US-09 y US-10 (EP-04).
+
+![mock-up-Supervisor (7).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%287%29.png)
+**Problemas.** Listado de incidencias (faltantes, daños, retrasos, no conformidades) con prioridad y estado, filtrable por tipo, prioridad, estado y obra; el panel de detalle muestra la descripción completa de una incidencia y su tendencia en las últimas semanas. Corresponde a la gestión de discrepancias de EP-05, aunque el mock-up usa el término "Problemas" en lugar de "Discrepancias" — se recomienda unificar con el Ubiquitous Language de la sección 2.5.
+
+![mock-up-Supervisor (8).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%288%29.png)
+**Historial.** Bitácora general de eventos del sistema (despachos, recepciones, incidencias, documentos, configuración, usuarios) con buscador, filtros combinados y un resumen de actividad por tipo de evento en gráfico de dona. Sustenta la trazabilidad end-to-end declarada en el Problem Statement de la sección 1.2.2.1.
 
 ![mock-up-Supervisor (9).png](../../assets/Chapther-4/mock-ups/Supervisor/mock-up-Supervisor%20%289%29.png)
-**Materiales.** Inventario consolidado de materiales monitoreados con alertas de stock bajo por obra, los materiales más utilizados, el consumo por obra en el mes y la distribución del inventario por categoría.
+**Configuración.** Perfil del usuario con datos personales y cambio de contraseña, preferencias de idioma, tema y notificaciones, y un panel de "Permisos y acceso" que lista los módulos habilitados según el rol. Corresponde a la asignación de roles de EP-01 (US-02), vista desde el usuario final.
 
 ## Responsable de Almacén
 
 Rol correspondiente al User Persona Miguel Rojas (jefe de almacén central, sección 2.3.1), usado en estos mock-ups por Carlos Mendoza (ver nota de consistencia al inicio de esta sección).
 
-**Figura 26**
-
 ![mock-up-Responsables de Almacen (1).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%281%29.png)
 **Inicio.** Saludo personalizado con indicadores de solicitudes pendientes, despachos en preparación, en tránsito y completados; incluye la lista de próximos despachos, el estado de despachos en gráfico de dona y la sección "Requiere mi atención" con alertas de stock bajo, transportista sin asignar y solicitudes por revisar.
-
-**Figura 27**
 
 ![mock-up-Responsables de Almacen (2).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%282%29.png)
 **Solicitudes.** Bandeja de solicitudes de materiales enviadas por las obras, con estado, prioridad y filtros, más un panel de solicitudes que requieren atención inmediata. Corresponde a la recepción del pedido del lado del almacén, previa a US-16 (verificación de existencias).
 
-**Figura 28**
-
 ![mock-up-Responsables de Almacen (3).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%283%29.png)
 **Detalle de solicitud (SOL-104).** Vista completa de una solicitud con los materiales pedidos, observaciones del residente, archivos adjuntos y las acciones de decisión disponibles (aprobar, solicitar cambios o rechazar), junto con el historial de acciones tomadas sobre la solicitud. Antesala de US-16 y US-04.
-
-**Figura 29**
 
 ![mock-up-Responsables de Almacen (4).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%284%29.png)
 **Materiales.** Inventario del almacén con código, categoría, stock actual y ubicación de cada material, alertas de stock bajo o sin stock, y los materiales más usados en el periodo. Sustenta la verificación de existencias (US-16).
 
-**Figura 30**
-
 ![mock-up-Responsables de Almacen (5).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%285%29.png)
 **Despachos.** Lista de despachos con su estado y un panel de seguimiento con stepper (Salida → En ruta → Cerca de obra → Llegada) y mapa de ruta estimada hacia la obra de destino, además de la actividad reciente del almacén. Corresponde a US-04 y US-05.
-
-**Figura 31**
 
 ![mock-up-Responsables de Almacen (6).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%286%29.png)
 **Nuevo despacho — paso 1 de 4 (Información).** Primer paso del asistente para crear un despacho: obra de destino, solicitud relacionada, fecha y hora de salida, tipo de despacho y observaciones, con un resumen en vivo de lo capturado. Primer paso de US-04/US-05.
 
-**Figura 32**
-
 ![mock-up-Responsables de Almacen (7).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%287%29.png)
 **Transporte.** Gestión de la flota de camiones y transportistas disponibles, con su placa, estado, última ubicación y próximo despacho asignado, más un mapa de seguimiento en tiempo real y las asignaciones del día. Sustenta la asignación de transportista de US-05.
-
-**Figura 33**
 
 ![mock-up-Responsables de Almacen (8).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%288%29.png)
 **Historial.** Bitácora de eventos del almacén (despachos, solicitudes, movimientos de stock, transporte, incidencias) con filtros combinados y un resumen de actividad por tipo en gráfico de dona.
 
-**Figura 34**
-
 ![mock-up-Responsables de Almacen (9).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%289%29.png)
 **Configuración.** Perfil del usuario con datos personales y cambio de contraseña, preferencias de idioma, tema y notificaciones, y un panel de "Permisos y acceso" que lista los módulos habilitados según el rol. Corresponde a la asignación de roles de EP-01 (US-02), vista desde el usuario final.
-
-**Figura 35**
-
-![mock-up-Responsables de Almacen (10).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%2810%29.png)
-**Detalle de despacho (DS-104).** Vista completa de un despacho en preparación, con los materiales incluidos, información adicional (prioridad, tipo, referencia interna), el stepper de estado, la sección de transporte y conductor (aún sin asignar) y las acciones disponibles (editar, asignar transporte, marcar como en tránsito). Corresponde a US-04 y US-05.
-
-**Figura 36**
-
-![mock-up-Responsables de Almacen (11).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%2811%29.png)
-**Modal "Editar despacho".** Formulario superpuesto para modificar la obra, la fecha y hora de salida, el tipo de despacho, la prioridad y las observaciones de un despacho ya creado. Corresponde a un ajuste posterior a US-04.
-
-**Figura 37**
-
-![mock-up-Responsables de Almacen (12).png](../../assets/Chapther-4/mock-ups/Responsables%20de%20Almacen/mock-up-Responsables%20de%20Almacen%20%2812%29.png)
-**Modal "Asignar transporte".** Formulario para seleccionar el camión, la empresa transportista, el conductor, el tipo de camión, la capacidad disponible y el dispositivo IoT asociado, con un resumen de la ruta estimada antes de confirmar. Corresponde al evento "Despacho autorizado" de US-05.
 
 ## Responsable de Obra
 
 Rol correspondiente al User Persona Carlos Mendoza (ingeniero civil residente de obra, sección 2.3.1), usado en estos mock-ups por Juan Pérez.
 
-**Figura 38**
-
 ![mock-up-Responsable de Obra (1).png](../../assets/Chapther-4/mock-ups/Responsable%20de%20Obra/mock-up-Responsable%20de%20Obra%20%281%29.png)
-**Obras.** Listado de las obras a cargo del residente con su avance, estado y próximo envío, y un panel de detalle de la obra seleccionada con su resumen, próximos envíos y avance por etapa constructiva (cimentación, estructura, instalaciones, acabados).
-
-**Figura 39**
+**Inicio.** Saludo personalizado con indicadores de envíos en camino, recepciones del día, materiales recibidos y problemas reportados; incluye la tabla de próximos envíos, el estado de recepción del plan en gráfico de dona y un comparativo semanal de material recibido contra lo planificado.
 
 ![mock-up-Responsable de Obra (2).png](../../assets/Chapther-4/mock-ups/Responsable%20de%20Obra/mock-up-Responsable%20de%20Obra%20%282%29.png)
-**Envíos.** Indicadores de envíos en camino, por llegar hoy, retrasados y recibidos, con la lista de envíos filtrable y un panel de seguimiento con stepper y mapa en tiempo real del envío seleccionado. Corresponde a la visibilidad de EP-03 (US-06, US-07) desde el lado de la obra.
-
-**Figura 40**
+**Obras.** Listado de las obras a cargo del residente con su avance, estado y próximo envío, y un panel de detalle de la obra seleccionada con su resumen, próximos envíos y avance por etapa constructiva (cimentación, estructura, instalaciones, acabados).
 
 ![mock-up-Responsable de Obra (3).png](../../assets/Chapther-4/mock-ups/Responsable%20de%20Obra/mock-up-Responsable%20de%20Obra%20%283%29.png)
-**Recepciones.** Próximas llegadas, tabla de recepciones registradas con la comparación entre lo enviado y lo recibido, y un panel de detalle de recepción con checklist (material en buen estado, cantidad verificada, guía de remisión recibida, evidencia fotográfica) y la comparación de cantidades. Corresponde directamente a US-09.
-
-**Figura 41**
+**Envíos.** Indicadores de envíos en camino, por llegar hoy, retrasados y recibidos, con la lista de envíos filtrable y un panel de seguimiento con stepper y mapa en tiempo real del envío seleccionado. Corresponde a la visibilidad de EP-03 (US-06, US-07) desde el lado de la obra.
 
 ![mock-up-Responsable de Obra (4).png](../../assets/Chapther-4/mock-ups/Responsable%20de%20Obra/mock-up-Responsable%20de%20Obra%20%284%29.png)
-**Problemas.** Indicadores de problemas abiertos, retrasos, faltantes y resueltos, listado filtrable de incidencias, y el detalle de un problema (faltante de concreto premezclado) con su descripción, evidencia fotográfica adjunta y línea de seguimiento del estado. Corresponde directamente a US-10 (reporte de discrepancia con evidencia).
-
-**Figura 42**
+**Recepciones.** Próximas llegadas, tabla de recepciones registradas con la comparación entre lo enviado y lo recibido, y un panel de detalle de recepción con checklist (material en buen estado, cantidad verificada, guía de remisión recibida, evidencia fotográfica) y la comparación de cantidades. Corresponde directamente a US-09.
 
 ![mock-up-Responsable de Obra (5).png](../../assets/Chapther-4/mock-ups/Responsable%20de%20Obra/mock-up-Responsable%20de%20Obra%20%285%29.png)
-**Historial.** Registros del mes, recepciones cerradas, envíos archivados y problemas resueltos, con filtros combinados, tabla de movimientos y una línea de tiempo de los últimos eventos de la obra.
-
-**Figura 43**
+**Problemas.** Indicadores de problemas abiertos, retrasos, faltantes y resueltos, listado filtrable de incidencias, y el detalle de un problema (faltante de concreto premezclado) con su descripción, evidencia fotográfica adjunta y línea de seguimiento del estado. Corresponde directamente a US-10 (reporte de discrepancia con evidencia).
 
 ![mock-up-Responsable de Obra (6).png](../../assets/Chapther-4/mock-ups/Responsable%20de%20Obra/mock-up-Responsable%20de%20Obra%20%286%29.png)
-**Inicio.** Saludo personalizado con indicadores de envíos en camino, recepciones del día, materiales recibidos y problemas reportados; incluye la tabla de próximos envíos, el estado de recepción del plan en gráfico de dona y un comparativo semanal de material recibido contra lo planificado.
+**Historial.** Registros del mes, recepciones cerradas, envíos archivados y problemas resueltos, con filtros combinados, tabla de movimientos y una línea de tiempo de los últimos eventos de la obra.
+
+![mock-up-Responsable de Obra (7).png](../../assets/Chapther-4/mock-ups/Responsable%20de%20Obra/mock-up-Responsable%20de%20Obra%20%287%29.png)
+**Configuración.** Perfil del usuario con datos personales y cambio de contraseña, preferencias de idioma, tema y notificaciones, y un panel de "Permisos y acceso" que lista los módulos habilitados según el rol. Corresponde a la asignación de roles de EP-01 (US-02), vista desde el usuario final.
 
 
 <!-- Fuente: report/chapters/chapter-4-product-design/4.4.4-web-applications-user-flow-diagrams.md -->
@@ -3662,6 +3660,7 @@ En esta sección el equipo documenta las bases de configuración de software que
 No se requiere gestor de paquetes ni herramienta de build para el Sprint 1, dado que el Landing Page se implementó como HTML5, CSS3 y JavaScript sin frameworks, conforme a lo indicado en la sección de Tecnología del enunciado del proyecto. Esta decisión también simplifica su despliegue directo en GitHub Pages.
 
 
+
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.1.2-source-code-management.md -->
 
 #### 5.1.2. Source Code Management
@@ -3692,6 +3691,7 @@ El repositorio vigia-landing, al cubrir únicamente la primera versión del Land
 | Usuario353 | 8 |
 
 
+
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.1.3-source-code-style-guide-and-conventions.md -->
 
 #### 5.1.3. Source Code Style Guide & Conventions
@@ -3705,6 +3705,7 @@ Para el código del Landing Page (HTML5, CSS3 y JavaScript), implementado en el 
 **CSS.** Las clases se nombran en minúsculas separadas por guion (kebab-case), con un prefijo corto por componente (`.hero-*`, `.plan-*`, `.t-*` para las tarjetas del equipo), evitando IDs para aplicar estilos. Los valores de color, espaciado y tipografía no se escriben como literales sueltos: se centralizan como variables CSS (`--color-primary`, `--sp-4`, etc.) definidas en `:root`, siguiendo directamente los tokens del Design System de la sección 4.1.1, de modo que un cambio de marca solo requiera modificar esas variables. Las media queries siguen un enfoque mobile-first para la Web Application y desktop-first para el Landing Page, conforme a lo definido en la sección 4.1.2.
 
 **JavaScript.** El script se encapsula en una única función autoejecutable (IIFE) para no exponer variables globales, usa `camelCase` para variables y funciones, y evita dependencias externas: la validación del formulario de demo, el menú móvil y el resaltado de la sección activa en el menú se implementan con JavaScript nativo (ES5, sin transpilación), suficiente para el alcance estático del Sprint 1.
+
 
 
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.1.4-software-deployment-configuration.md -->
@@ -3724,6 +3725,7 @@ El Landing Page de Vigía se despliega mediante **GitHub Pages**, directamente d
 | URL de producción | https://tinyurl.com/2xto55wc |
 
 **Proceso de despliegue actual.** El despliegue es automático a nivel de publicación (GitHub Pages reconstruye el sitio en cada push a `main` sobre la carpeta `/docs`), pero manual a nivel de integración: cada integrante hace `git push` directamente a `main` en este repositorio, dado que el Sprint 1 comprende un único entregable (el Landing Page) sin ramas paralelas en desarrollo todavía.
+
 
 
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2-landing-page-services-and-applications-implementation.md -->
@@ -3781,6 +3783,7 @@ Esta sección documenta el Sprint Planning, los líderes y colaboradores por asp
 | Investigación y contenido por segmento | Elizabeth (Investigación y negocio) | Mathias |
 | Documentación del informe (Vigia-Report) | Leonardo Lopez (Documentación y soporte) | Todo el equipo |
 | Coordinación general y arquitectura | Fabián Sandoval (Team Leader) | Todo el equipo |
+
 
 
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.1-sprint-1/5.2.1.3-sprint-backlog-1.md -->
@@ -3873,6 +3876,1622 @@ ol {
 }
 
 
+/* =========================
+   DECORACIONES
+   ========================= */
+
+.deco {
+  position: absolute;
+  width: 70px;
+  height: 130px;
+  background: #F5A623;
+  clip-path: polygon(45% 0, 100% 0, 55% 100%, 0 100%);
+  z-index: 0;
+  pointer-events: none;
+}
+
+.deco-hero-1 {
+  top: 4%;
+  right: 6%;
+  opacity: 0.9;
+}
+
+.deco-hero-2 {
+  bottom: 6%;
+  right: 20%;
+  width: 46px;
+  height: 90px;
+  opacity: 0.55;
+}
+
+.deco-problem-1 {
+  top: -2%;
+  right: 8%;
+  width: 60px;
+  height: 110px;
+}
+
+.deco-problem-2 {
+  top: 30%;
+  right: 2%;
+  width: 40px;
+  height: 80px;
+  opacity: 0.6;
+}
+
+.deco-benefits-1 {
+  top: 6%;
+  right: 4%;
+}
+
+.deco-benefits-2 {
+  top: 32%;
+  right: 0;
+  width: 40px;
+  height: 80px;
+  opacity: 0.55;
+}
+
+.deco-plans {
+  bottom: 4%;
+  right: 12%;
+  width: 50px;
+  height: 100px;
+  opacity: 0.8;
+}
+
+.deco-demo {
+  top: -14px;
+  right: 40px;
+  width: 40px;
+  height: 70px;
+}
+
+.deco-footer {
+  bottom: 0;
+  left: -20px;
+  width: 130px;
+  height: 60px;
+  clip-path: polygon(30% 0, 100% 0, 70% 100%, 0 100%);
+}
+
+
+/* =========================
+   ELEMENTOS REUTILIZABLES
+   ========================= */
+
+.eyebrow {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #6B7686;
+  text-transform: uppercase;
+  position: relative;
+  padding-left: 28px;
+  margin-bottom: 16px;
+}
+
+.eyebrow::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 20px;
+  height: 3px;
+  background: #F5A623;
+  border-radius: 2px;
+}
+
+.strip-dash {
+  display: inline-block;
+  width: 20px;
+  height: 3px;
+  background: #F5A623;
+  border-radius: 2px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+.section-title {
+  font-size: 44px;
+  font-weight: 800;
+  color: #14273F;
+  line-height: 1.12;
+  letter-spacing: -0.5px;
+  margin-bottom: 16px;
+}
+
+.section-title .accent {
+  color: #F5A623;
+}
+
+.section-desc {
+  color: #6B7686;
+  font-size: 16px;
+  max-width: 680px;
+  margin-bottom: 48px;
+}
+
+.section {
+  padding: 96px 0;
+  position: relative;
+  overflow: hidden;
+}
+
+
+/* =========================
+   BOTONES
+   ========================= */
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 14px 24px;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 15px;
+  transition: 0.15s;
+  white-space: nowrap;
+}
+
+.btn:active {
+  transform: translateY(1px);
+}
+
+.btn .arrow {
+  transition: 0.15s;
+}
+
+.btn:hover .arrow {
+  transform: translateX(3px);
+}
+
+.btn-primary {
+  background: #F5A623;
+  color: #17233A;
+  box-shadow: 0 6px 16px rgba(245, 166, 35, 0.35);
+}
+
+.btn-primary:hover {
+  background: #E0961B;
+}
+
+.btn-outline {
+  border: 1.5px solid #14273F;
+  color: #14273F;
+  padding: 10px 20px;
+  font-weight: 600;
+}
+
+.btn-outline:hover {
+  background: #14273F;
+  color: #FFFFFF;
+}
+
+.btn-ghost {
+  border: 1.5px solid #D8DEE8;
+  color: #14273F;
+  font-weight: 600;
+}
+
+.btn-ghost:hover {
+  border-color: #14273F;
+}
+
+.btn-block {
+  width: 100%;
+  padding: 16px;
+}
+
+
+/* =========================
+   PUNTOS
+   ========================= */
+
+.dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  margin-right: 6px;
+  vertical-align: middle;
+}
+
+.dot.green {
+  background: #2E7D32;
+}
+
+.dot.amber {
+  background: #F5A623;
+}
+
+
+/* =========================
+   HEADER
+   ========================= */
+
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  background: #FFFFFF;
+  border-bottom: 1px solid #E7EAF0;
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 14px 0;
+}
+
+.brand {
+  display: flex;
+  align-items: flex-end;
+  gap: 10px;
+}
+
+.brand-name {
+  font-size: 26px;
+  font-weight: 800;
+  color: #14273F;
+  letter-spacing: -1px;
+  position: relative;
+}
+
+.brand-name::after {
+  content: "";
+  position: absolute;
+  right: -18px;
+  top: 55%;
+  width: 14px;
+  height: 3px;
+  background: #F5A623;
+}
+
+.brand-tag {
+  font-size: 8px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  color: #6B7686;
+  line-height: 1.25;
+  padding-left: 6px;
+}
+
+.main-nav {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  margin-left: auto;
+}
+
+.nav-link {
+  font-size: 14px;
+  font-weight: 500;
+  color: #1E2A3B;
+  padding: 6px 2px;
+  position: relative;
+}
+
+.nav-link:hover {
+  color: #14273F;
+}
+
+.nav-link.active {
+  color: #14273F;
+  font-weight: 700;
+}
+
+.nav-link.active::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: -4px;
+  height: 3px;
+  background: #F5A623;
+  border-radius: 2px;
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.lang-switch {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.lang-btn {
+  color: #6B7686;
+  padding: 4px 6px;
+}
+
+.lang-btn.active {
+  color: #14273F;
+}
+
+.lang-sep {
+  color: #E7EAF0;
+}
+
+.menu-toggle {
+  display: none;
+  width: 36px;
+  height: 36px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+}
+
+.menu-toggle span {
+  width: 20px;
+  height: 2px;
+  background: #14273F;
+  border-radius: 1px;
+}
+
+
+/* =========================
+   HERO
+   ========================= */
+
+.hero {
+  position: relative;
+  overflow: hidden;
+  background: #F9FBFD;
+}
+
+.hero-inner {
+  display: grid;
+  grid-template-columns: 1fr 1.3fr;
+  gap: 48px;
+  padding: 96px 0 48px;
+  align-items: center;
+}
+
+.hero-title {
+  font-size: 58px;
+  font-weight: 800;
+  line-height: 1.08;
+  letter-spacing: -1.2px;
+  margin: 16px 0 24px;
+}
+
+.hero-title .ink {
+  color: #10192B;
+}
+
+.hero-title .accent {
+  color: #F5A623;
+}
+
+.hero-desc {
+  color: #6B7686;
+  font-size: 17px;
+  max-width: 460px;
+  margin-bottom: 32px;
+}
+
+.hero-cta {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 48px;
+  flex-wrap: wrap;
+}
+
+.hero-highlights {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  color: #6B7686;
+  font-size: 13px;
+  font-weight: 600;
+  margin-bottom: 32px;
+  max-width: 460px;
+}
+
+.hero-highlights li {
+  display: flex;
+  align-items: flex-start;
+  gap: 8px;
+}
+
+.hero-highlights .hh-ico {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 50%;
+  background: #FFFFFF;
+  box-shadow: 0 1px 2px rgba(15, 27, 46, 0.06);
+  font-size: 15px;
+  flex: none;
+}
+
+.hero-highlights small {
+  display: block;
+  font-weight: 400;
+  color: #6B7686;
+}
+
+.hero-strip {
+  color: #6B7686;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  display: flex;
+  align-items: center;
+}
+
+
+/* =========================
+   HERO VISUAL
+   ========================= */
+
+.hero-visual {
+  position: relative;
+  padding-top: 24px;
+}
+
+.watermark {
+  position: absolute;
+  right: 6px;
+  bottom: -6px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  color: #6B7686;
+  opacity: 0.35;
+}
+
+.laptop {
+  position: relative;
+  margin: 0 auto;
+  max-width: 620px;
+}
+
+.laptop-screen {
+  background: #0E1C30;
+  border-radius: 14px 14px 4px 4px;
+  padding: 10px 10px 0;
+  box-shadow: 0 30px 70px rgba(15, 27, 46, 0.22);
+}
+
+.mockup {
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  background: #14273F;
+  border-radius: 6px 6px 0 0;
+  overflow: hidden;
+}
+
+.mockup-side {
+  background: #0F2038;
+  padding: 16px 8px;
+}
+
+.mockup-brand {
+  font-weight: 800;
+  font-size: 14px;
+  color: #FFFFFF;
+  margin-bottom: 16px;
+}
+
+.mockup-brand span {
+  display: block;
+  font-size: 6px;
+  font-weight: 600;
+  color: #8E9DB2;
+  letter-spacing: 1px;
+  margin-top: 2px;
+}
+
+.mockup-menu li {
+  padding: 7px 8px;
+  border-radius: 6px;
+  font-size: 11px;
+  color: #A9B7C9;
+  margin-bottom: 2px;
+}
+
+.mockup-menu li.active {
+  background: #F5A623;
+  color: #1E2A3B;
+  font-weight: 700;
+}
+
+.mockup-main {
+  background: #FFFFFF;
+  color: #1E2A3B;
+  padding: 16px;
+}
+
+.mockup-topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  font-size: 10px;
+  color: #6B7686;
+  margin-bottom: 16px;
+}
+
+.search-box {
+  flex: 1;
+  background: #F7F8FA;
+  padding: 6px 10px;
+  border-radius: 6px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.user-chip {
+  white-space: nowrap;
+}
+
+.mockup-h {
+  font-size: 14px;
+  margin-bottom: 8px;
+  color: #14273F;
+}
+
+.mockup-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 10px;
+}
+
+.mockup-table th,
+.mockup-table td {
+  text-align: left;
+  padding: 6px 4px;
+  border-bottom: 1px solid #E7EAF0;
+}
+
+.mockup-table th {
+  color: #6B7686;
+  font-weight: 600;
+}
+
+.laptop-base {
+  height: 16px;
+  background: #B8BEC8;
+  border-radius: 0 0 10px 10px;
+  position: relative;
+  box-shadow: 0 6px 12px rgba(15, 27, 46, 0.18);
+}
+
+.laptop-notch {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  transform: translateX(-50%);
+  width: 70px;
+  height: 6px;
+  background: #9AA2B0;
+  border-radius: 0 0 8px 8px;
+}
+
+.flow-cards {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  margin-top: 32px;
+  flex-wrap: wrap;
+}
+
+.fc {
+  flex: 1;
+  min-width: 130px;
+  background: #FFFFFF;
+  border-radius: 10px;
+  padding: 16px;
+  box-shadow: 0 1px 2px rgba(15, 27, 46, 0.06);
+  display: flex;
+  flex-direction: column;
+}
+
+.fc span {
+  font-size: 22px;
+  margin-bottom: 4px;
+}
+
+.fc b {
+  font-size: 13px;
+  color: #14273F;
+}
+
+.fc small {
+  font-size: 11px;
+  color: #6B7686;
+}
+
+.flow-cards > .arrow {
+  font-size: 18px;
+  color: #6B7686;
+}
+
+
+/* =========================
+   PROBLEMA
+   ========================= */
+
+.problem {
+  background: #F7FAFD;
+}
+
+.problem-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 32px;
+}
+
+.side-tag {
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 1.5px;
+  color: #6B7686;
+  text-align: right;
+  border-left: 3px solid #F5A623;
+  padding-left: 16px;
+  white-space: nowrap;
+  margin-top: 8px;
+}
+
+.problem-cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+  margin-bottom: 96px;
+}
+
+.p-card {
+  background: #FFFFFF;
+  border-radius: 16px;
+  padding: 32px;
+  box-shadow: 0 1px 2px rgba(15, 27, 46, 0.06);
+}
+
+.p-ico {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: #FDECC8;
+  color: #14273F;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  margin-bottom: 16px;
+}
+
+.p-card h3 {
+  font-size: 18px;
+  color: #14273F;
+  margin-bottom: 8px;
+}
+
+.p-card p {
+  color: #6B7686;
+  font-size: 14px;
+}
+
+.how-block {
+  margin-top: 48px;
+}
+
+.steps {
+  display: flex;
+  align-items: stretch;
+  gap: 8px;
+  margin-top: 24px;
+  flex-wrap: wrap;
+}
+
+.steps li:not(.step-arrow) {
+  flex: 1;
+  min-width: 130px;
+  background: #FFFFFF;
+  border-radius: 16px;
+  padding: 16px;
+  text-align: left;
+  border: 1px solid #E7EAF0;
+}
+
+.step-arrow {
+  display: flex;
+  align-items: center;
+  color: #6B7686;
+  font-size: 16px;
+}
+
+.step-num {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: #F5A623;
+  color: #1E2A3B;
+  font-weight: 800;
+  font-size: 12px;
+  margin-bottom: 8px;
+}
+
+.step-ico {
+  display: block;
+  font-size: 20px;
+  margin-bottom: 4px;
+}
+
+.steps b {
+  display: block;
+  color: #14273F;
+  font-size: 13px;
+  margin-bottom: 4px;
+}
+
+.steps small {
+  color: #6B7686;
+  font-size: 11px;
+}
+
+
+/* =========================
+   BENEFICIOS
+   ========================= */
+
+.benefits {
+  background: #FFFFFF;
+}
+
+.benefit-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px;
+}
+
+.b-card {
+  background: #FFFFFF;
+  border-radius: 16px;
+  padding: 32px;
+  box-shadow: 0 1px 2px rgba(15, 27, 46, 0.06);
+  border: 1px solid #E7EAF0;
+  transition: 0.2s;
+}
+
+.b-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 30px rgba(15, 27, 46, 0.10);
+}
+
+.b-ico {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: #FDECC8;
+  color: #14273F;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  margin-bottom: 16px;
+}
+
+.b-card h3 {
+  font-size: 18px;
+  color: #14273F;
+  margin-bottom: 8px;
+}
+
+.b-card p {
+  color: #6B7686;
+  font-size: 14px;
+}
+
+.section-strip {
+  color: #6B7686;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  margin-top: 48px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.section-strip .right {
+  margin-left: auto;
+}
+
+
+/* =========================
+   DEMO
+   ========================= */
+
+.demo {
+  background: #EEF3F8;
+}
+
+.demo-inner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 48px;
+  align-items: start;
+}
+
+.demo-features {
+  display: grid;
+  gap: 16px;
+  margin: 24px 0 32px;
+}
+
+.demo-features li {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+}
+
+.df-ico {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #FFFFFF;
+  box-shadow: 0 1px 2px rgba(15, 27, 46, 0.06);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 16px;
+  flex: none;
+}
+
+.demo-features b {
+  display: block;
+  color: #14273F;
+  font-size: 15px;
+  margin-bottom: 2px;
+}
+
+.demo-features small {
+  color: #6B7686;
+  font-size: 13px;
+}
+
+.demo-card {
+  position: relative;
+  background: #FFFFFF;
+  border-radius: 16px;
+  box-shadow: 0 10px 30px rgba(15, 27, 46, 0.10);
+  overflow: hidden;
+}
+
+.demo-mock {
+  padding: 32px;
+  background: #17253C;
+  color: #FFFFFF;
+  position: relative;
+}
+
+.demo-mock h3 {
+  font-size: 22px;
+  margin-bottom: 6px;
+}
+
+.demo-mock p {
+  color: #B9C4D3;
+  font-size: 14px;
+}
+
+.demo-mock .duration {
+  font-size: 12px;
+  margin-top: 16px;
+}
+
+.demo-preview {
+  margin-top: 24px;
+  background: rgba(255, 255, 255, 0.06);
+  border-radius: 10px;
+  padding: 24px;
+  display: grid;
+  gap: 10px;
+}
+
+.skeleton-line {
+  display: block;
+  height: 10px;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.18);
+}
+
+.skeleton-line.w80 {
+  width: 80%;
+}
+
+.skeleton-line.w60 {
+  width: 60%;
+}
+
+.skeleton-line.w40 {
+  width: 40%;
+}
+
+.demo-play {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+}
+
+.demo-play .play-btn {
+  pointer-events: auto;
+}
+
+.play-btn {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background: #FFFFFF;
+  box-shadow: 0 10px 30px rgba(15, 27, 46, 0.10);
+  color: #14273F;
+  font-size: 18px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.demo-form {
+  padding: 32px;
+}
+
+.field-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.field {
+  margin-bottom: 16px;
+}
+
+.field label {
+  display: block;
+  font-size: 13px;
+  font-weight: 600;
+  color: #14273F;
+  margin-bottom: 6px;
+}
+
+.field input {
+  width: 100%;
+  padding: 12px 14px;
+  border: 1px solid #E7EAF0;
+  border-radius: 10px;
+  font: inherit;
+  font-size: 14px;
+  color: #1E2A3B;
+  background: #F7F8FA;
+}
+
+.field input:focus {
+  outline: none;
+  border-color: #14273F;
+  background: #FFFFFF;
+}
+
+.field input.invalid {
+  border-color: #D32F2F;
+}
+
+.form-notes {
+  display: grid;
+  gap: 6px;
+  margin-top: 16px;
+  font-size: 12px;
+  color: #6B7686;
+}
+
+.form-status {
+  margin-top: 8px;
+  font-size: 13px;
+}
+
+.form-status.ok {
+  color: #2E7D32;
+}
+
+.form-status.err {
+  color: #D32F2F;
+}
+
+.demo-tagline {
+  text-align: right;
+  font-weight: 800;
+  font-size: 13px;
+  letter-spacing: 0.5px;
+  color: #14273F;
+  padding: 0 32px 24px;
+  line-height: 1.3;
+}
+
+
+/* =========================
+   PLANES
+   ========================= */
+
+.plans {
+  background: #FFFFFF;
+}
+
+.plan-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 24px;
+  max-width: 900px;
+}
+
+.plan-card {
+  background: #FFFFFF;
+  border-radius: 16px;
+  padding: 32px;
+  border: 1px solid #E7EAF0;
+  box-shadow: 0 1px 2px rgba(15, 27, 46, 0.06);
+  transition: 0.2s;
+}
+
+.plan-card:hover {
+  box-shadow: 0 10px 30px rgba(15, 27, 46, 0.10);
+  transform: translateY(-4px);
+}
+
+.plan-ico {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: #FDECC8;
+  color: #14273F;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  margin-bottom: 16px;
+}
+
+.plan-card h3 {
+  color: #14273F;
+  font-size: 22px;
+  margin-bottom: 8px;
+}
+
+.plan-desc {
+  color: #6B7686;
+  font-size: 14px;
+  margin-bottom: 24px;
+}
+
+.plan-price {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  color: #14273F;
+  margin-bottom: 16px;
+}
+
+.plan-price .cur {
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.plan-price .amt {
+  font-size: 44px;
+  font-weight: 800;
+  letter-spacing: -1px;
+}
+
+.plan-price .per {
+  font-size: 14px;
+  color: #6B7686;
+}
+
+.plan-features {
+  border-top: 1px solid #E7EAF0;
+  padding-top: 16px;
+  margin-bottom: 24px;
+}
+
+.plan-features li {
+  padding: 6px 0;
+  color: #1E2A3B;
+  font-size: 14px;
+}
+
+.plans-footer-strip {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 24px;
+  margin-top: 48px;
+  padding-top: 24px;
+  border-top: 1px solid #E7EAF0;
+  font-size: 13px;
+}
+
+.plans-footer-strip li {
+  display: flex;
+  gap: 10px;
+  align-items: flex-start;
+}
+
+.pf-ico {
+  font-size: 18px;
+}
+
+.plans-footer-strip li b {
+  display: block;
+  color: #14273F;
+}
+
+.plans-footer-strip li small {
+  color: #6B7686;
+}
+
+.plans-footer-strip .strip-tag {
+  align-self: center;
+  color: #6B7686;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  border-left: 3px solid #F5A623;
+  padding-left: 16px;
+}
+
+
+/* =========================
+   EQUIPO
+   ========================= */
+
+.team {
+  background: #F7FAFD;
+}
+
+.team-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 24px;
+  margin-bottom: 48px;
+  flex-wrap: wrap;
+}
+
+.team-tag {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  border-left: 3px solid #F5A623;
+  padding-left: 16px;
+  color: #6B7686;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+}
+
+.team-tag-ico {
+  font-size: 26px;
+}
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 16px;
+}
+
+.t-card {
+  background: #FFFFFF;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 1px 2px rgba(15, 27, 46, 0.06);
+  border: 1px solid #E7EAF0;
+  text-align: left;
+}
+
+.t-photo {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  background: #F7F8FA;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 16px;
+  border: 1px solid #E7EAF0;
+}
+
+.t-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.t-placeholder {
+  background: #DCE4EE;
+  color: #14273F;
+  font-weight: 800;
+  font-size: 44px;
+  position: relative;
+}
+
+.t-placeholder::after {
+  content: attr(data-initial);
+  display: block;
+}
+
+.t-card h3 {
+  color: #14273F;
+  margin-bottom: 2px;
+  font-size: 18px;
+}
+
+.t-role {
+  color: #1E2A3B;
+  font-size: 13px;
+  font-weight: 600;
+  margin-bottom: 8px;
+  position: relative;
+  padding-left: 12px;
+}
+
+.t-role::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 8px;
+  width: 6px;
+  height: 2px;
+  background: #F5A623;
+}
+
+.t-desc {
+  color: #6B7686;
+  font-size: 13px;
+}
+
+.video-block {
+  margin-top: 48px;
+  padding: 24px 32px;
+  border: 1px dashed #E7EAF0;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  background: #FFFFFF;
+}
+
+.video-block b {
+  color: #14273F;
+  font-size: 16px;
+}
+
+.video-block p {
+  color: #6B7686;
+  font-size: 13px;
+}
+
+.team-footer-strip {
+  display: flex;
+  justify-content: center;
+  gap: 48px;
+  flex-wrap: wrap;
+  margin-top: 48px;
+  color: #6B7686;
+  font-size: 13px;
+}
+
+.team-footer-strip b {
+  color: #14273F;
+}
+
+
+/* =========================
+   FOOTER
+   ========================= */
+
+.site-footer {
+  background: #0F1B2E;
+  color: #C6D0DE;
+  padding-top: 96px;
+  position: relative;
+  overflow: hidden;
+}
+
+.footer-inner {
+  display: grid;
+  grid-template-columns: 1.4fr repeat(4, 1fr) 1.2fr;
+  gap: 32px;
+  padding-bottom: 64px;
+}
+
+.footer-brand p {
+  font-size: 13px;
+  margin: 16px 0;
+  max-width: 260px;
+}
+
+.brand-light .brand-name {
+  color: #FFFFFF;
+}
+
+.brand-light .brand-name::after {
+  background: #F5A623;
+}
+
+.brand-light .brand-tag {
+  color: #9AA7B8;
+}
+
+.socials {
+  display: flex;
+  gap: 10px;
+  margin: 16px 0;
+}
+
+.socials a {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 1px solid #2A3A54;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #C6D0DE;
+  font-size: 14px;
+}
+
+.socials a:hover {
+  border-color: #F5A623;
+  color: #FFFFFF;
+}
+
+.strip-line {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  color: #C6D0DE;
+  display: flex;
+  align-items: center;
+}
+
+.footer-col h4 {
+  color: #FFFFFF;
+  font-size: 15px;
+  margin-bottom: 16px;
+  position: relative;
+  padding-bottom: 8px;
+}
+
+.footer-col h4::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 24px;
+  height: 3px;
+  background: #F5A623;
+  border-radius: 2px;
+}
+
+.footer-col ul li {
+  padding: 4px 0;
+  font-size: 13px;
+}
+
+.footer-col a:hover {
+  color: #FFFFFF;
+}
+
+.contact-list li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 4px 0;
+  font-size: 13px;
+}
+
+.footer-bottom {
+  border-top: 1px solid #1B2A44;
+  padding: 16px 0;
+  font-size: 12px;
+  color: #9AA7B8;
+  position: relative;
+  z-index: 1;
+}
+
+.footer-bottom-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.footer-bottom .right {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+
+/* =========================
+   RESPONSIVE - TABLET
+   ========================= */
+
+@media (max-width: 960px) {
+
+  .hero-inner {
+    grid-template-columns: 1fr;
+  }
+
+  .team-head {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .team-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .plans-footer-strip {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .footer-inner {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .steps {
+    justify-content: center;
+  }
+
+  .step-arrow {
+    display: none;
+  }
+
+  .deco {
+    display: none;
+  }
+}
+
+
+/* =========================
+   RESPONSIVE - CELULAR
+   ========================= */
+
+@media (max-width: 720px) {
+
+  .main-nav {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background: #FFFFFF;
+    border-top: 1px solid #E7EAF0;
+    padding: 16px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+    box-shadow: 0 10px 30px rgba(15, 27, 46, 0.10);
+  }
+
+  .main-nav.open {
+    display: flex;
+  }
+
+  .menu-toggle {
+    display: inline-flex;
+  }
+
+  .lang-switch {
+    display: none;
+  }
+
+  .btn-outline {
+    padding: 8px 12px;
+    font-size: 13px;
+  }
+
+  .problem-head {
+    flex-direction: column;
+  }
+
+  .side-tag {
+    text-align: left;
+  }
+
+  .problem-cards,
+  .benefit-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .team-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .plan-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .demo-inner {
+    grid-template-columns: 1fr;
+  }
+
+  .field-row {
+    grid-template-columns: 1fr;
+  }
+
+  .steps li:not(.step-arrow) {
+    min-width: 44%;
+  }
+
+  .plans-footer-strip {
+    grid-template-columns: 1fr;
+  }
+
+  .footer-inner {
+    grid-template-columns: 1fr;
+  }
+
+  .video-block {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .team-footer-strip {
+    justify-content: flex-start;
+  }
+
+  .flow-cards {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .flow-cards > .arrow {
+    transform: rotate(90deg);
+    align-self: center;
+  }
+
+  .section {
+    padding: 64px 0;
+  }
+
+  .demo-tagline {
+    text-align: left;
+  }
+
+  .section-title {
+    font-size: 36px;
+  }
+
+  .hero-title {
+    font-size: 42px;
+  }
+}
 ```
 
 ```
@@ -4074,24 +5693,34 @@ Esta sección documenta el Sprint Planning, los líderes y colaboradores por asp
 
 ##### 5.2.2.1. Sprint Planning 2
 
-| Campo | Detalle |
+| Sprint # | Sprint 2 |
 |---|---|
-| Sprint | 2 |
-| Duración | *(por definir — Sprint 2, previo a la entrega TB1 de la Semana 7)* |
-| Sprint Goal | Desplegar la primera versión de la Frontend Web Application de Vigía (registro de empresa, activación de suscripción y acceso por rol) y una nueva versión del Landing Page. |
-| Definition of Done del Sprint | La Web Application está desplegada en una URL pública, es responsive, aplica el Design System de la sección 4.1 y permite registrar una empresa, activar un plan e iniciar sesión según el rol; el Landing Page incorpora las correcciones de AV1 y permanece desplegado. |
+| **Sprint Planning Background** | |
+| Date | 2026-09-23 |
+| Time | *(por definir — HH:MM AM/PM)* |
+| Location | *(por definir — descripción de la ubicación de la reunión, física o virtual)* |
+| Prepared By | Sandoval, Fabián (Team Leader) |
+| Attendees (to planning meeting) | Sandoval, Fabián / López, Leonardo / Elías *(apellido por completar)* / Mathias *(apellido por completar)* / Elizabeth *(apellido por completar)* |
+| **Sprint 1 Review Summary** | En el Sprint 1 se implementó y desplegó la primera versión del Landing Page de Vigía (9 Story Points: LP-01, LP-02, LP-03 y LP-04), cumpliendo el requisito de implementación de la entrega AV1. El Landing Page quedó desplegado en una URL pública, responsive y con la identidad visual del Design System de la sección 4.1. La historia TS-06 (Endpoint de solicitud de demostración) se difirió por no existir aún el RESTful API, por lo que el formulario de LP-04 solo valida los datos en el navegador. *(Completar con las opiniones de los miembros y el feedback del Product Owner.)* |
+| **Sprint 1 Retrospective Summary** | El equipo cumplió el objetivo del Sprint 1 y afianzó el flujo de trabajo con GitFlow y Conventional Commits. Como oportunidad de mejora se identificó la necesidad de arrancar antes el backend para no acumular historias técnicas diferidas (como TS-06) y de afinar la estimación de las historias con mayor componente de integración. *(Completar con los aciertos y oportunidades de mejora acordados por el equipo.)* |
+| **Sprint Goal & User Stories** | |
+| Sprint 2 Goal | Desplegar la primera versión de la Frontend Web Application de Vigía (registro de empresa, activación de suscripción y acceso por rol) y una nueva versión del Landing Page, de cara a la entrega TB1 de la Semana 7. |
+| Sprint 2 Velocity | 30 Story Points |
+| Sum of Story Points | 30 |
+
+**Definition of Done del Sprint.** La Web Application está desplegada en una URL pública, es responsive, aplica el Design System de la sección 4.1 y permite registrar una empresa, activar un plan e iniciar sesión según el rol; el Landing Page incorpora las correcciones de AV1 y permanece desplegado.
 
 **Historias propuestas para el Sprint.** Del Product Backlog de la sección 3.3, se propone comprometer el bloque de Gestión de Cuentas y Accesos y Suscripciones, por ser el que habilita el ingreso a la Web Application y desbloquea el resto del flujo. *(Propuesta inicial, por confirmar en la ceremonia de Sprint Planning del equipo.)*
 
 | # (Orden en el Backlog) | User Story Id | Título | Story Points |
-|---|---|---|---|
-| 6 | US-01 | Registro de empresa y activación de suscripción | 5 |
-| 7 | US-17 | Gestión del ciclo de vida de la suscripción | 3 |
-| 8 | TS-01 | Endpoint de autenticación de usuarios | 3 |
-| 9 | US-15 | Inicio de sesión | 2 |
-| 10 | US-02 | Invitación de usuarios y asignación de roles | 3 |
+|---|---|---|--------------|
+| 6 | US-01 | Registro de empresa y activación de suscripción | 8            |
+| 7 | US-17 | Gestión del ciclo de vida de la suscripción | 8            |
+| 8 | TS-01 | Endpoint de autenticación de usuarios | 6            |
+| 9 | US-15 | Inicio de sesión | 3            |
+| 10 | US-02 | Invitación de usuarios y asignación de roles | 5            |
 
-**Total propuesto:** 16 Story Points *(ajustar según la capacidad real del equipo para el Sprint 2).*
+**Total propuesto:** 30 Story Points
 
 
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.2-sprint-2/5.2.2.2-aspect-leaders-and-collaborators.md -->
@@ -4113,43 +5742,282 @@ Esta sección documenta el Sprint Planning, los líderes y colaboradores por asp
 
 *(Completar con el estado real de cada historia al cierre del Sprint 2. La siguiente tabla refleja las historias propuestas en el Sprint Planning 2.)*
 
-| User Story Id | Título | Story Points | Estado | Evidencia |
-|---|---|---|---|---|
-| US-01 | Registro de empresa y activación de suscripción | 5 | *(por completar)* | *(por completar)* |
-| US-17 | Gestión del ciclo de vida de la suscripción | 3 | *(por completar)* | *(por completar)* |
-| TS-01 | Endpoint de autenticación de usuarios | 3 | *(por completar)* | *(por completar)* |
-| US-15 | Inicio de sesión | 2 | *(por completar)* | *(por completar)* |
-| US-02 | Invitación de usuarios y asignación de roles | 3 | *(por completar)* | *(por completar)* |
+| User Story Id | Título | Story Points | Estado            | Evidencia |
+|---|---|-------------|-------------------|---|
+| US-01 | Registro de empresa y activación de suscripción | 8           | Terminado         |Terminado|
+| US-17 | Gestión del ciclo de vida de la suscripción | 8           | Terminado| Terminado |
+| TS-01 | Endpoint de autenticación de usuarios | 6           | Terminado | Terminado |
+| US-15 | Inicio de sesión | 3           | *(por completar)* | Terminado |
+| US-02 | Invitación de usuarios y asignación de roles | 5           | Terminado | Terminado|
 
-**Story Points comprometidos:** 16 *(ajustar al confirmar el Sprint Planning).*
+**Story Points comprometidos:** 30
 
-**Tareas técnicas derivadas (Engineering Tasks).** Cada User Story del Sprint se descompone en Engineering Tasks estimadas en horas, dentro del rango de 4 a 8 horas establecido como máximo por tarea. *(Completar con las tareas reales del Sprint 2.)*
+**Tareas técnicas derivadas (Engineering Tasks).** Cada User Story del Sprint se descompone en Engineering Tasks estimadas en horas, dentro del rango de 4 a 8 horas establecido como máximo por tarea.
 
 | User Story | Engineering Task | Responsable | Estimación (h) | Estado |
 |---|---|---|---|---|
-| *(US)* | *(tarea)* | *(responsable)* | *(4–8)* | *(por completar)* |
+| US-01 | Modelado del dominio `Company` y endpoint `POST /companies` (registro de empresa) | Mathias | 6 | Terminado |
+| US-01 | Lógica de activación de suscripción al registrar la empresa (agregado `Subscription`) | Fabián Sandoval | 6 | Terminado |
+| US-01 | Formulario de registro de empresa y selección de plan en la Web App (Vue + PrimeVue) | Elías | 8 | Terminado |
+| US-01 | Integración del formulario con el endpoint y manejo de respuestas/errores | Leonardo Lopez | 5 | Terminado |
+| US-17 | Endpoints de suscripción (consultar, actualizar y cancelar estado) | Fabián Sandoval | 6 | Terminado |
+| US-17 | Máquina de estados del ciclo de vida de la suscripción (activa / vencida / cancelada) | Mathias | 6 | Terminado |
+| US-17 | Vista de gestión de la suscripción en la Web App | Leonardo Lopez | 6 | Terminado |
+| TS-01 | Endpoint `POST /auth` con validación de credenciales y emisión de JWT | Fabián Sandoval | 6 | Terminado |
+| TS-01 | Hashing de contraseñas y middleware de autenticación | Mathias | 5 | Terminado |
+| TS-01 | Documentación OpenAPI/Swagger del endpoint de autenticación | Mathias | 4 | Terminado |
+| US-15 | Vista de inicio de sesión en la Web App (Vue + PrimeVue) | Elías | 5 | Terminado |
+| US-15 | Manejo de sesión/token en el cliente y guard de rutas por rol | Leonardo Lopez | 5 | Terminado |
+| US-02 | Endpoint de invitación de usuarios y asignación de roles | Mathias | 6 | Terminado |
+| US-02 | Lógica de roles y permisos en el backend | Fabián Sandoval | 5 | Terminado |
+| US-02 | Vista de invitación y gestión de usuarios en la Web App | Elías | 6 | Terminado |
 
+**Total de horas estimadas:** 85 h
+
+![sprint backlog 2.png](../../assets/chapther-5/sprint%20backlog%202.png)
 
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.2-sprint-2/5.2.2.4-development-evidence-for-sprint-review.md -->
 
 ##### 5.2.2.4. Development Evidence for Sprint Review
 
-*(Por completar con la evidencia de desarrollo del Sprint 2.)*
+En esta sección se explica y presenta los avances en la implementación con relación a los productos de la solución según el alcance del Sprint 2: la **Frontend Web Application** de Vigía (Landing Page y Web Services se documentan en sus propias secciones). Durante este Sprint se construyó la primera versión de la Web Application aplicando GitFlow: cada funcionalidad se desarrolló en una rama `feature/*` y se integró a `develop` mediante Pull Requests, siguiendo Conventional Commits. A continuación se presenta, para el repositorio de la Web Application, la relación de commits relacionados con la implementación del Sprint, indicando la rama `feature/*` de cada aporte.
 
-Esta subsección documenta el desarrollo de la primera versión de la Frontend Web Application de Vigía. Debe incluir:
+**Repositorio:** `Vigia-Frontend` — organización `upc-pre-202620-1asi0730-8084-Developers`
+**Rama base de integración:** `develop`
+**URL:** https://github.com/upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend/commits/develop/
 
-- La referencia al repositorio de la Web Application (nuevo repositorio del alcance, p. ej. `vigia-webapp`), con la rama y los commits que registran el trabajo del Sprint.
-- Los fragmentos de código más representativos (componentes principales, aplicación del Design System de la sección 4.1, consumo del RESTful API de autenticación TS-01).
-- La evidencia de aplicación de GitFlow (ramas `feature/<nombre>` y Pull Requests integrados a `develop`).
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Date) |
+|---|---|---|---|---|---|
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/shared | 2e2ea058c8c96478e4f8134fe8c6a47ee1a0ccc1 | Initial commit | — | 2026-09-01 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/shared | bb6c101bf21758ba14c02d4706f84c77f4c90476 | feat(shared): inicializar arquitectura base, navegacion global y componentes compartidos | — | 2026-10-04 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/fleet-and-device-registry | 0a50ca5c84eba54abde0403b10e44006b412ee73 | feat(fleet): implementar bounded context BC-04 gestion de flota, vehiculos y geocercas | — | 2026-10-04 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/fleet-and-device-registry | 9d3f84075c5eb529b5e933e93521c54bc22c0563 | test(fleet): agregar suite e2e automatizada de 22 aserciones para telemetria y validaciones de negocio | — | 2026-10-04 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/shared | b99876f6a0a57a0b4e59240f044c3aa222034dc8 | Delete docs directory | — | 2026-10-04 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/shared | 5d4acb7ea6a4d5e4db32f6f921cb0dbdf2bc8053 | Delete README.md | — | 2026-10-04 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/shared | 0d58572834111a371735327796619cc5c7dac4c2 | Merge pull request #1 from upc-pre-202620-1asi0730-8084-Developers/feature/shared | feat(shared): initialize shared module structure | 2026-10-04 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/site-reception-and-verification | daec8bbc9e031388df8e9f15b9f71e985570b672 | feat(reception): definir modelo de dominio, entidades y value objects para BC-07 | — | 2026-10-04 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/site-reception-and-verification | 99cc0d5de1684d170d717d0ba718628a503fa58b | feat(reception): implementar cliente API, endpoints y assemblers de recepcion | — | 2026-10-04 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/site-reception-and-verification | 11306fff0cc600718eed38a6eba80c61a0b5ab30 | feat(reception): implementar store reactivo Pinia y mock server con endpoints REST | — | 2026-10-04 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/site-reception-and-verification | 46569e0a9421609863cf9afffadb8447b416c8ec | feat(reception): implementar interfaces para responsable de obra y supervisor segun mockups | — | 2026-10-04 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/site-reception-and-verification | 72040fae0d1a43e58a85e52d243a53892dc2414f | test(reception): integrar rutas, traducciones i18n y suite de pruebas automatizadas | — | 2026-10-04 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/fleet-and-device-registry | fc2ff02ef98f128b14cefb82098fe4e44ffe2bc3 | Merge pull request #3 from upc-pre-202620-1asi0730-8084-Developers/feature/fleet-and-device-registry | Feature/fleet and device registry | 2026-10-04 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/site-reception-and-verification | db75f1e282511638f55975610b63deae5b4fc83f | Merge pull request #5 from upc-pre-202620-1asi0730-8084-Developers/feature/site-reception-and-verification | Feature/site reception and verification | 2026-10-04 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/shared | f990ac6ea0b313421a8016dab194b03c6e6d47da | doc: Delete LICENSE.md | — | 2026-10-04 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/shared | 1d9254b6d9488c19e8ca34bf5e1792cca046e25a | doc: Delete README.md | — | 2026-10-04 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/issues-list | 2375e07c275555e414fa2a6510b4dd552c9cff31 | feat: add discrepancy case entity | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/issues-list | 6b2f9c8d344f3b7b50fdda0634ae7a08e5b1a5e3 | feat: add discrepancy case assembler | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/issues-list | 0d728f63b4afd1af0c2a1409770bf1979b2d674e | feat: add discrepancy api | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/issues-list | 2fbcc088cce2682f8f3f0d7e7d4ef031653800a1 | feat: add discrepancy store | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/issues-list | 5da32080768553b19609ddf3d8c605616489898a | feat: add issues list view | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/issues-list | d7b19eadeb7ddfa59658fbd12020ae722270a5b5 | feat: add issues route | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/issues-list | 1eba1a996ddd51cbe626576da8998bd52b2c0c1b | Merge pull request #6 from upc-pre-202620-1asi0730-8084-Developers/feature/issues-list | Feature/issues list | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/issues-filters | d77c964502265fde3ea9ed1a5e0c09211a4f4771 | feat: add issues filters | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/issues-filters | 1b2270777093a88ef63420a88475d58939758b58 | Merge pull request #7 from upc-pre-202620-1asi0730-8084-Developers/feature/issues-filters | feat: add issues filters | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/issue-detail | c0d29c81d655a161d2d944601a0fba37ba9165b8 | feat: add issue detail view | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/issue-detail | 2fe47a04767d5d5a4bbdcc9230faa0e419d2e217 | feat: add discrepancy routes | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/issue-detail | 03cd4d99588632357503ec2e4a8d042e9fdce534 | refactor: integrate discrepancy routes into main router | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/issue-detail | bb45655ed0c3fd1289f4ac9d04149888481f9c65 | feat: enable navigation from issues list to case detail | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/issue-detail | baa801efcbd811ee40414571048ef4fb8d0e262e | Merge pull request #8 from upc-pre-202620-1asi0730-8084-Developers/feature/issue-detail | Feature/issue detail | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/evidence-timeline | 2b9c4ebe3c115e49877d1a45646afc6402a69732 | feat: include evidence timeline in discrepancy case model | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/evidence-timeline | c47564495986b4eaa3cc7cea0c3095206b486c11 | feat: map evidence timeline in discrepancy case assembler | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/evidence-timeline | 408baee6a3e9d3528becf92c3cd2a91b9b68f6e0 | feat: provide mock evidence timelines for discrepancy cases | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/evidence-timeline | c483c9dbbd209936df7c295cf38b2517f88f3132 | feat: display evidence timeline in issue detail view | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/evidence-timeline | 052b87dd094bfa627d653a4906cd2c5664587e6d | Merge pull request #9 from upc-pre-202620-1asi0730-8084-Developers/feature/evidence-timeline | Feature/evidence timeline | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/supporting-report | 1f63a1c8081fa9330394e11dd8637ee4ef64b927 | feat: simulate supporting report generation in discrepancy api | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/supporting-report | 9c768aac2e660226c7ce9751e2aab3ac7fae6cd2 | feat: expose supporting report generation through discrepancy store | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/supporting-report | ccadea283fb9b4b646cd77ef53a5c53d07fa3873 | feat: trigger supporting report generation from issue detail view | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/supporting-report | e9cd75ae4fbd837643b6642c4ed4c7620db04361 | Merge pull request #10 from upc-pre-202620-1asi0730-8084-Developers/feature/supporting-report | Feature/supporting report | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/case-responsibility | ac3ac3a4e7f02c92fba3a511e8a62a07fcedeeb2 | feat: include responsibility in discrepancy case model | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/case-responsibility | c3d50330ab661fbc7e39f9978c002b9f722ec0b6 | feat: map responsibility in discrepancy case assembler | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/case-responsibility | 69d02ce7c5436b32a4766761566f4ea8f66a4fef | feat: simulate responsibility assignment in discrepancy api | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/case-responsibility | 33fdf383564f21897131683f464b827449034221 | feat: manage responsibility updates in discrepancy store | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/case-responsibility | 252579075d1ba7797cedd8903adfbef2b7238c50 | feat: allow responsibility selection in issue detail view | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/case-responsibility | 0c4a3fbef594926c78c8172f1d493a00caa6e670 | Merge pull request #11 from upc-pre-202620-1asi0730-8084-Developers/feature/case-responsibility | Feature/case responsibility | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/case-closure | 0d77ce6f16347e89c447377cd326a5fe3df38bb0 | feat: simulate discrepancy case closure in api | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/case-closure | 316d1844454782586d31e33719bfbb26eb8cd35c | feat: validate and manage discrepancy case closure | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/case-closure | 998cc49be5783963dec6c18a798f382443b60587 | feat: allow closing discrepancy cases from detail view | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/case-closure | b253e705c01f7ad72e3c336406b6d4a5b336c31c | Merge pull request #12 from upc-pre-202620-1asi0730-8084-Developers/feature/case-closure | Feature/case closure | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/missing-evidence-handling | 3ad3f75a880722a0cd13ed8bb1d04a8ac4065e02 | feat: include missing evidence in discrepancy case model | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/missing-evidence-handling | fa8949015a8a2803beea160b2de53c5f549461c7 | feat: map missing evidence in discrepancy case assembler | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/missing-evidence-handling | 13c97fb190a8181a65e562ba3d37b3fe41fd9e5e | feat: provide missing evidence examples for discrepancy cases | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/missing-evidence-handling | 5f2daf30c6a41c63b0408871555ecf5e8d8a48cd | feat: display missing evidence in issue detail view | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/missing-evidence-handling | d8a7f49fdc9131b1511623255f45552438ad0bfb | Merge pull request #13 from upc-pre-202620-1asi0730-8084-Developers/feature/missing-evidence-handling | Feature/missing evidence handling | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/photographic-evidence | 102d30ee889823691a8a64c42c3a6666c4bfe0f8 | feat: include photographic evidence in discrepancy case model | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/photographic-evidence | 9c708f7f6ba36e2c3783bf0e713e14a8483e289e | feat: map photographic evidence in discrepancy case assembler | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/photographic-evidence | ab817757797e364d8e5bf094b8689ecc9c210616 | feat: provide photographic evidence examples for discrepancy cases | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/photographic-evidence | 27c8cfa1292e0f37f1481baa73e7f52d3e33ae2c | feat: display photographic evidence in issue detail view | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/photographic-evidence | 04f040da49ef4cb44800ce318585e2f80a366eba | Merge pull request #14 from upc-pre-202620-1asi0730-8084-Developers/feature/photographic-evidence | Feature/photographic evidence | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/discrepancy-i18n | dcfb742b92fa9bfec6b453a5e4d5f827c6661f01 | feat: add English translations for discrepancy management | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/discrepancy-i18n | 0fa2e3a97aa42919c4ace86b8cb51f5ca023395e | feat: add Spanish translations for discrepancy management | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/discrepancy-i18n | 74c6b82b6bdec48a3e91be123cf13141ab371254 | feat: localize issues list interface | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/discrepancy-i18n | c8418d887923933cc64cc1f476b9f7138aacdc88 | feat: localize issue detail interface | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/discrepancy-i18n | 116f097c4d0933f047b1f4df0d91bbeb01991f30 | Merge pull request #15 from upc-pre-202620-1asi0730-8084-Developers/feature/discrepancy-i18n | Feature/discrepancy i18n | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/order-management-and-dispatch | 4882c7a9509c6ed8cb252712a9ce8d89525cece8 | feat: add order and dispatch domain model | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/order-management-and-dispatch | 205ae4fb5cf1c678b7c1d8b63e5f3ed7ac078f32 | feat: add order and dispatch assemblers and api client | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/order-management-and-dispatch | 3adf56b985949cc23d73c7e0b821038b6201cf02 | feat: add order and dispatch pinia stores | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/order-management-and-dispatch | f9f1c651e13d82fb09653510a9678c410eaa9290 | feat: add orders list view | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/order-management-and-dispatch | 02d54b46fe7885e6e5e0bcbac68a1fa1c41c147f | feat: add order detail view | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/order-management-and-dispatch | 1373773027ff5c4554029f6704d2462c5583ab1f | feat: add dispatches list view | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/order-management-and-dispatch | 7edc8f76618f9cac8de639347e93ab6290b723e5 | feat: add new dispatch wizard information step | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/order-management-and-dispatch | a0d7bb541cad634d09c284de8cba5751a51e39cd | feat: register ordering and dispatch routes | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/order-management-and-dispatch | ded4a18c6b198fd4434158de8cffcc6ad952116f | feat: add orders and dispatches translations | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/order-management-and-dispatch | 3d7eef81294704daa544b4696fb134d27be73957 | feat: add orders and dispatches mock data and endpoints | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/order-management-and-dispatch | 8c89e6493aef01624e9a9aa784a3a7434cfa3fbb | refactor: use default primevue stepper, timeline and button styling in ordering views | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/order-management-and-dispatch | 3bbe44fb14ef0576c5fba187f177d29aa0b0d7be | refactor: align order management and dispatch structure with learning center conventions | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/order-management-and-dispatch | e50f146c23b9724d4249b47c2dbc05ea357c685a | refactor: align dispatch vehicle reference with transit traceability route | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/order-management-and-dispatch | 3658d25183cbbffd71d20e5c4a93f13297e0c656 | fix: use numeric dispatch vehicleId and add VIGIA_API_URL env alias for shared base-api compatibility | — | 2026-10-05 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/transit-traceability | 6f7f9d2856701e56da9c9df38118563c1fa962fd | feat(transit-traceability): add route domain model | Add the Route aggregate with TelemetryPosition and TransitAlert, plus route status and alert type definitions. The aggregate detects route deviation, prolonged stops, signal loss/recovery and destination geofence entry, and tracks alerts pending notification to the site. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/transit-traceability | 7e651dea9b75243b1ebe6de25cb23ad4d1148057 | feat(transit-traceability): add route assembler, api client and telemetry simulator | Add TransitTraceabilityApi over the routes endpoint, RouteAssembler for entity/resource mapping, and a TelemetrySimulator that stands in for the GPS telemetry platform by generating position reports along the planned path. Register VITE_ROUTES_ENDPOINT_PATH in both environments. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/transit-traceability | c34662b78f2983baed22b1814bc10d9e9acad6f2 | feat(transit-traceability): add transit traceability pinia store | Expose route queries and status counters, and the commands to report a position, report signal loss and notify the destination site. Commands run on a copy of the route and only replace local state once persisted. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/transit-traceability | d832a6842383d44b88c0629e1fc81bf35298b556 | feat(transit-traceability): add transit traceability translations | Add the transit section and the transit tracking tab label to the English and Spanish catalogs. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/transit-traceability | 8995eb41c76aa27f92affcbbe97c45a986ba9e58 | feat(transit-traceability): add routes mock data | Seed route RT-001 tracking dispatch DS-106 (vehicle V3B-920) from the Lurín warehouse to the San Isidro site geofence, with its planned path and first telemetry positions. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/transit-traceability | d859f1931c98821df774aee5c17aa475083714a4 | feat(transit-traceability): add transit tracking tab to transportation view | — | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/transit-traceability | df6f6b11a1f5a151c61b1245816a947ca9230dfc | feat(transit-traceability): add transit tracking view | Show route KPIs, the list of tracked routes and a Leaflet map with the planned path, travelled path, current position and destination geofence. Include the transit alerts timeline with the notify-site action, and controls to simulate GPS telemetry reports while no device is connected. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/server-json-dataset | e27b391ee7c147cf5f63f801b72220391458b64a | refactor(server): split mock database into per-collection json dataset | Move every collection of server/db.json into its own file under server/data/<bounded-context>/<collection>.json and load them through server/db.cjs, which json-server now uses as its source. Changes made while the server runs stay in memory, so the dataset files are no longer modified by the app. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/server-json-dataset | 78c393e2722b294821bbd66c6f1cb3af41bef9c2 | feat(iam): add users dataset | Add server/data/iam/users.json with the platform users and roles, reusing the user ids already referenced by receptions. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/server-json-dataset | ef9770920e18b29601cc92a5b10e2ee144f0b4b0 | refactor(discrepancy): serve discrepancy cases from the json dataset | Move the discrepancy cases hardcoded in DiscrepancyApi to server/data/discrepancy-and-evidence-management/discrepancy-cases.json. DiscrepancyApi now reads them through json-server and persists the responsibility and case closure with PATCH, keeping the same results for the store. Add VITE_DISCREPANCY_CASES_ENDPOINT_PATH. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/transit-traceability | 1196a0c0138d800682d189f4a8e2aac433eb6d7a | Merge branch 'feature/transit-traceability' into develop | — | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/server-json-dataset | 579ee16630765c1d0aa41a0bfbaf74c97d8b6a35 | Merge branch 'feature/server-json-dataset' into develop | — | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/header-selectors-fixes | 2c49ae0288f4a3c32ee034433028a926474b0fa1 | fix(i18n): keep a language always selected in the language switcher | Clicking the active ES/EN button deselected it and left the locale empty. The switcher now always keeps one language selected, highlights it with the primary color, saves the choice in localStorage so it survives reloads, and updates the document lang attribute. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/header-selectors-fixes | 175670a898b254df0a5b58760378a1e61410a3e6 | fix(iam): unify role selector and leave views the new role cannot access | The header, sidebar and mobile menu each built their own role dropdown, and the Admin option read "Supervisor (Admin) (María Torres)". Extract a shared RoleSelector that lists each profile as name and role, shows the selection as "role · name", and redirects to the first allowed view when the new role cannot access the current one. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/header-selectors-fixes | 91884552f6cc97dcef0342d0b1fae9a594aa85c5 | Merge branch 'feature/header-selectors-fixes' into develop | — | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/mock-server-and-theme-fixes | 7ce049da00faaad0c19b79ee5348be1ec36b827f | fix(server): start the mock api on the port the app is configured to call | `npm run server` always listened on port 3000, so when the API URL was overridden in .env.development.local (because 3000 was busy) every view failed with "Network Error". The server now reads the port from VITE_LEARNING_PLATFORM_API_URL in .env.development and .env.development.local, defaulting to 3000. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/mock-server-and-theme-fixes | 0eb6b3aeab9849af2eaadb85a727ad2ae47c7001 | fix(theme): keep the light theme when the system uses dark mode | PrimeVue followed the OS dark mode while the rest of the app is light, so inputs, selects and tables turned black and some text became unreadable. Restrict PrimeVue dark mode to an unused .app-dark class and declare color-scheme: light so native controls stay light too. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/mock-server-and-theme-fixes | 5c82750eaef8a89b7aadf649f3d6cdbc798ab10f | Merge branch 'feature/mock-server-and-theme-fixes' into develop | — | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/issues-list-and-error-feedback-fixes | 01703fc508c00f04b499c09b479d9fa863a1ecbb | fix(discrepancy): align issues list with the app components and translations | The issues list used native selects, showed the hardcoded "All" and raw English statuses in the filters, and listed cases as plain text. Use PrimeVue selects and a data table with translated filters, issue type, priority and status tags, keeping the row click to open the case. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/issues-list-and-error-feedback-fixes | 7c3d667103f1b02cead4fe4b3b1755ee70378512 | fix(order-management): stop repeating load errors and endless table spinner | Every visit to Orders or Dispatches after a failed request appended another "Network Error", and the tables kept spinning because loading was tied to "loaded". Fetches now clear the previous attempt's errors and expose ordersLoading / dispatchesLoading for the table spinners. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/issues-list-and-error-feedback-fixes | dcb2f1b42545a7fc9ea9e489591b12381c141b74 | Merge branch 'feature/issues-list-and-error-feedback-fixes' into develop | — | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/project-management | 00440e0dd1b847f4cde2b5d4a7b455dc281e89b8 | feat(project-management): add project domain model and dataset | Add the Project entity with status and zone definitions, and the projects dataset whose ids match the site ids used by dispatches. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/project-management | 9425c16623b8d45cf0be35d30ef00db09eb4ac8e | feat(project-management): add projects api client and store | Add ProjectManagementApi over the projects endpoint, ProjectAssembler, and a store with status counters and the number of projects per zone. Register VITE_PROJECTS_ENDPOINT_PATH. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/project-management | 673aae859b4afd3d0caa4eee593fed030fbc61f4 | feat(project-management): add projects translations and donut chart | Add the projects section to the English and Spanish catalogs and a shared DonutChart component drawn with CSS, with its legend. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/project-management | 5213049e18818feebc2e2b7766cca22541779994 | feat(project-management): add projects view and route | Replace the Projects placeholder with the projects view from the mockup: status KPIs, status/zone/manager filters, the project list with progress bars and status tags, and the projects-by-zone donut chart. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/project-management | d45a8d7c20c13e46060f7eee270f74096ffe3f66 | Merge branch 'feature/project-management' into develop | — | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/inventory-management | 4193f4bc6505a851d0f1e5e7936fb347fac80124 | feat(inventory-management): add material and movement domain model and dataset | Add the Material entity with its derived stock status, the InventoryMovement entity, categories and movement types, and the materials and inventory movements datasets linked to the projects. Expose movements at /inventory-movements. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/inventory-management | 01884df8522940b4cafffc7e7125fbb4897de6fc | feat(inventory-management): add inventory api client and store | Add InventoryManagementApi over the materials and inventory movements endpoints with their assemblers, and a store exposing low stock and category counters, today's movements, most used materials, withdrawals by project and materials by category. Register the endpoint variables. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/inventory-management | 635a851fe347bb05c8f6152f3d7b467be1ef7145 | feat(inventory-management): add inventory translations | — | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/inventory-management | 74fab7b94e2d838e207beeba5354df4677112c93 | refactor(shared): extract kpi card and content card styles | Move the indicator card of the projects view into a shared KpiCard component and the content card style into the global .vigia-card class, so the inventory and history views reuse them. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/inventory-management | 6961af2db3b0a5abdce9d1f3e7355de1a2ca51d6 | feat(inventory-management): add inventory view and route | Replace the Materials placeholder with the inventory view from the mockup: category/project/status filters with a stock alerts toggle, KPIs, the inventory status table, most used materials, withdrawals by project and the distribution by category. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/inventory-management | 0a4f83cb248a89cac813149b3b736869a3e69ba6 | Merge branch 'feature/inventory-management' into develop | — | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/activity-history | 0210061ae23deee3d47190a292b7e4126c727e3e | feat(activity-history): add activity record domain model and dataset | Add the ActivityRecord entity with activity types and statuses, and an activity records dataset built from the existing dispatches, routes, receptions and discrepancy cases so every reference exists. Expose it at /activity-records. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/activity-history | e2338879940201fcd2d1f360ff1e237255a8ae89 | feat(activity-history): add activity records api client and store | Add ActivityHistoryApi over the activity records endpoint with its assembler, and a store with records sorted by date and the list of users. Register VITE_ACTIVITY_RECORDS_ENDPOINT_PATH. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/activity-history | 386b6b378c654f6844856c49cebec61e31bcc0a4 | feat(activity-history): add history translations | — | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/activity-history | b40211c84ed88e0d3dcaddbce050f8afc41fcfa3 | feat(activity-history): add activity log view and route | Replace the History placeholder with the activity log from the mockup: date range, type, user and reference filters, and a paginated table with translated descriptions, type icons and status tags. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/activity-history | fc126f08e857367bcb0969b6acda9f7f700dc98f | Merge branch 'feature/activity-history' into develop | — | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/user-settings | 1356c1bd475df16cbdb22fa32d39a2d313037a9a | feat(iam): add user profile model and link test users to the dataset | Add the UserProfile entity with initials and field validation, add email, phone and time zone to the users dataset, and keep the active user id in the IAM store so Settings can load the matching profile. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/user-settings | 7cdcfb10d142d3b4a74c0198fedf754a551e644e | feat(iam): add profile store and user update endpoint | Add getUserById and updateUser to IamApi, a UserProfileAssembler, and a profile store that loads and saves the active user's profile. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/user-settings | 9a7fba30ec9bfa92f392da18810556e03a6b3055 | feat(iam): add settings translations | — | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/user-settings | a25b7511c94a81e49232bdcee108592dbc6d81e6 | feat(iam): add settings view and route | Replace the Settings placeholder with the settings view from the mockup: an editable profile with validation saved to the users dataset, the account card, and preferences for language and time zone. The profile follows the user chosen in the role selector. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/user-settings | bba3b15b865983967924778690962a0814057c5b | Merge branch 'feature/user-settings' into develop | — | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/embedded-mock-api | 44fd9647477c9d3a0dbcb0fd354f5b78570fda6e | fix(server): serve the mock api from the vite dev server | Every view failed with "Network Error" unless a second terminal ran `npm run server` on a free port. A Vite plugin now mounts the same json-server app (server/data dataset, routes.json rewrites and middleware.cjs rules) at /api/v1 while `npm run dev` runs, and the development API URL points to /api/v1. `npm run server` still works standalone on port 3000. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/embedded-mock-api | 28543e6baac9105b24e11c6a0bf1c133df412b40 | Merge branch 'feature/embedded-mock-api' into develop | — | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/inventory-period-filter | f87aae8cacec9c65e6e8135f1c92b8fc5b9b8f0d | feat(inventory-management): filter consumption charts by period | Replace the fixed "April 2025" label of the most used materials and withdrawals by project charts with a period selector: each month with movements (the latest by default), the last 7 days or the whole period. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/inventory-period-filter | 2b198363217ba9832289fcef8ae458b7a2ec4be3 | Merge branch 'feature/inventory-period-filter' into develop | — | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/issue-detail-layout | a3964f6c0c3fb73707543c405dbade87adb016df | fix(discrepancy): give the issue detail view the app layout | The issue detail was plain text with native controls and browser alerts. Lay it out in cards: case header with status and priority tags, case facts, an evidence timeline, a photo gallery with a placeholder for missing images, missing evidence, responsibility selection and case actions. Feedback now uses toasts, and the actions hide once the case is closed. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/issue-detail-layout | a9e151e3578f90980ca2246f6737adae9144fbea | Merge branch 'feature/issue-detail-layout' into develop | — | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/role-home-dashboards | f07897e4ea3c3f6b5e497ac74caa9f1f53498c18 | feat(dashboard): add role-based home dashboards | Replace the Home placeholder with a dashboard for the active role, built from the other bounded contexts' stores: the Supervisor sees the whole operation (from the mockup), the Warehouse Manager requests, dispatches and stock, and the Site Manager their projects, arrivals and receptions. The root path now opens Home. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/role-home-dashboards | 4e5875eb5822791e39af0ffee470190322c991d7 | feat(dashboard): add home translations and shared dashboard cards | Add the home section to the English and Spanish catalogs and the home building blocks: greeting header, needs-my-attention list, project progress list and recent activity feed. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/role-home-dashboards | 8ad7b9e40326a1e8ce09b924c51e6fc00e024433 | Merge branch 'feature/role-home-dashboards' into develop | — | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/forms-as-pages | 32ecb739912a2f660cdaeb48d3efd0bfacc18b73 | fix(site-reception): move reception registration and discrepancy report from dialogs to pages | Registering a reception and reporting a discrepancy opened modal dialogs. They are now pages with their own routes (/recepciones/nueva, with ?arrival= or ?reception= to preload data, and /recepciones/:id/discrepancia) that save, show a toast and return to the receptions list. The read-only evidence gallery stays as a dialog. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/forms-as-pages | a78a9c901b9948048dbc671d2ea1a47191ec9ba9 | fix(fleet): move vehicle registration and gps pairing from dialogs to pages | Registering a transport unit and pairing its GPS device opened modal dialogs over the list. They are now pages with their own routes (/transporte/unidades/nueva and /transporte/unidades/:id/gps) that keep the same validation and toasts and return to the list when saved. | 2026-10-06 |
+| upc-pre-202620-1asi0730-8084-Developers/Vigia-Frontend | feature/forms-as-pages | 6ae6c150eb838bf3a219c93bcbc3c234431ca44b | Merge branch 'feature/forms-as-pages' into develop | — | 2026-10-06 |
 
 
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.2-sprint-2/5.2.2.5-execution-evidence-for-sprint-review.md -->
 
 ##### 5.2.2.5. Execution Evidence for Sprint Review
 
-*(Por completar con la evidencia de ejecución del Sprint 2.)*
 
-Esta subsección documenta la Web Application en funcionamiento. Debe incluir capturas de pantalla (y, si corresponde, enlaces de video) de los flujos implementados en el Sprint 2 —registro de empresa, activación de suscripción, inicio de sesión y acceso por rol— demostrando el comportamiento tanto en el happy path como en los flujos alternativos descritos en los User Flow Diagrams de la sección 4.4.4.
+![evidence for sprint review (1).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%281%29.png)
+
+**Figura 1.** Módulo Historial con el rol *Responsable de obra* (Juan Pérez). Muestra el registro de actividad del sistema con filtros por rango de fechas, tipo, usuario y referencia, listando 23 eventos (discrepancias, transportes, recepciones y despachos) con su estado.
+
+![evidence for sprint review (2).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%282%29.png)
+
+**Figura 2.** Módulo Problemas (Incidencias) con el rol *Responsable de obra*. Lista las incidencias por despacho (DSP-001 a DSP-003) con su obra, tipo, prioridad, fecha reportada y estado (Abierto, En revisión, Cerrado).
+
+![evidence for sprint review (3).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%283%29.png)
+
+**Figura 3.** Módulo Recepciones con el rol *Responsable de obra*. Presenta indicadores del día, próximas llegadas en tránsito, el listado de recepciones registradas y el panel de detalle de una recepción con la comparación de cantidades enviadas vs. recibidas.
+
+![evidence for sprint review (4).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%284%29.png)
+
+**Figura 4.** Módulo Obras con el rol *Responsable de obra*. Muestra las tarjetas resumen (obras activas, en riesgo, en curso, retrasadas), la lista de obras con su avance e incidencias, y el gráfico de distribución de obras por zona.
+
+![evidence for sprint review (5).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%285%29.png)
+
+**Figura 5.** Pantalla de Inicio (dashboard) del rol *Responsable de obra* (Juan Pérez). Incluye los indicadores principales, la sección "Requiere mi atención", las próximas llegadas, la actividad reciente y el avance de sus obras.
+
+![evidence for sprint review (6).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%286%29.png)
+
+**Figura 6.** Módulo Configuración con el rol *Supervisor (Admin)* (María Torres). Muestra el perfil del usuario, los datos de la cuenta y las preferencias de idioma y zona horaria.
+
+![evidence for sprint review (7).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%287%29.png)
+
+**Figura 7.** Módulo Reportes con el rol *Supervisor (Admin)*. Evidencia que la navegación y los permisos de acceso del módulo se encuentran activos para el rol, con el módulo planificado para la próxima iteración.
+
+![evidence for sprint review (8).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%288%29.png)
+
+**Figura 8.** Módulo Historial con el rol *Supervisor (Admin)*. Confirma el acceso al registro completo de actividad del sistema desde el rol supervisor.
+
+![evidence for sprint review (9).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%289%29.png)
+
+**Figura 9.** Módulo Recepciones con el rol *Supervisor (Admin)*. Muestra los indicadores de recepciones (hoy, pendientes, con discrepancias, completadas), los filtros por proyecto/estado/fechas y el detalle de la recepción seleccionada.
+
+![evidence for sprint review (10).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2810%29.png)
+
+**Figura 10.** Módulo Despachos con el rol *Supervisor (Admin)*. Presenta los contadores por estado (en preparación, programados, en tránsito, con incidencia) y el listado de despachos con obra, materiales, cantidad, transporte y fecha de salida.
+
+![evidence for sprint review (11).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2811%29.png)
+
+**Figura 11.** Módulo Transporte y Flota con el rol *Supervisor (Admin)*. Muestra la gestión de unidades con su placa, marca, modelo, capacidad y estado del dispositivo GPS (vinculado / sin dispositivo).
+
+![evidence for sprint review (12).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2812%29.png)
+
+**Figura 12.** Módulo Materiales con el rol *Supervisor (Admin)*. Presenta los indicadores de inventario y la tabla de estado del inventario con stock actual, stock mínimo, obra asociada y estado (en stock / stock bajo).
+
+![evidence for sprint review (13).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2813%29.png)
+
+**Figura 13.** Módulo Obras con el rol *Supervisor (Admin)*. Vista supervisora de la lista de obras con su avance, despachos, recepciones, incidencias y la distribución por zona.
+
+![evidence for sprint review (14).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2814%29.png)
+
+**Figura 14.** Pantalla de Inicio (dashboard) del rol *Supervisor (Admin)* (María Torres). Muestra la vista general de la operación con indicadores, "Requiere mi atención", el estado de operaciones (gráfico de despachos) y la actividad reciente.
+
+![evidence for sprint review (15).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2815%29.png)
+
+**Figura 15.** Módulo Configuración con el rol *Responsable de almacén* (Miguel Rojas). Muestra el perfil del usuario, los datos de la cuenta y las preferencias de idioma y zona horaria.
+
+![evidence for sprint review (16).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2816%29.png)
+
+**Figura 16.** Módulo Historial con el rol *Responsable de almacén*. Confirma el acceso al registro de actividad del sistema desde el rol de almacén.
+
+![evidence for sprint review (17).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2817%29.png)
+
+**Figura 17.** Módulo Transporte y Flota con el rol *Responsable de almacén*. Muestra las unidades de la flota con su capacidad y estado del dispositivo GPS.
+
+![evidence for sprint review (18).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2818%29.png)
+
+**Figura 18.** Módulo Despachos con el rol *Responsable de almacén*. Presenta los contadores por estado y el listado de despachos a preparar y programar desde el almacén.
+
+![evidence for sprint review (19).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2819%29.png)
+
+**Figura 19.** Módulo Solicitudes con el rol *Responsable de almacén*. Muestra los indicadores (pendientes, aprobadas, en revisión, urgentes) y el listado de solicitudes de materiales con su obra, cantidad, estado y prioridad.
+
+![evidence for sprint review (20).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2820%29.png)
+
+**Figura 20.** Módulo Materiales con el rol *Responsable de almacén*. Vista del inventario y su estado (en stock / stock bajo) por material, categoría y obra asociada.
+
+![evidence for sprint review (21).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2821%29.png)
+
+**Figura 21.** Pantalla de Inicio (dashboard) del rol *Responsable de almacén* (Miguel Rojas). Muestra los indicadores de almacén, "Requiere mi atención", el estado del inventario (gráfico) y los próximos despachos.
+
+![evidence for sprint review (22).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2822%29.png)
+
+**Figura 22.** Detalle de la pantalla de Inicio del rol *Responsable de almacén*, con las solicitudes y despachos que requieren atención, el estado del inventario y la actividad reciente.
+
+![evidence for sprint review (23).png](../../assets/chapther-5/evidende-for-sprint-review/evidence%20for%20sprint%20review%20%2823%29.png)
+
+**Figura 23.** Módulo Configuración con el rol *Responsable de obra* (Juan Pérez). Muestra el perfil del usuario, los datos de la cuenta y las preferencias de idioma y zona horaria.
 
 
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.2-sprint-2/5.2.2.6-services-documentation-evidence-for-sprint-review.md -->
@@ -4167,22 +6035,37 @@ La documentación de estos servicios se elabora siguiendo la OpenAPI Specificati
 
 ##### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-*(Por completar con la evidencia de despliegue del Sprint 2.)*
-
 Esta subsección documenta el despliegue de los productos del Sprint 2. Debe incluir:
 
-- La URL pública de la primera versión de la Frontend Web Application desplegada.
-- La URL pública de la nueva versión del Landing Page.
-- La configuración de despliegue aplicada y la evidencia de que ambos sitios son accesibles vía internet.
+- Front end v1: https://vigia-frontend-8084.web.app
+- Landing Page v2: https://upc-pre-202620-1asi0730-8084-developers.github.io/vigia-landing/
+- Captura web
 
 
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.2-sprint-2/5.2.2.8-team-collaboration-insights-during-sprint.md -->
 
 ##### 5.2.2.8. Team Collaboration Insights during Sprint
 
-*(Por completar con la evidencia de colaboración del Sprint 2.)*
+![insigths (1).png](../../assets/chapther-5/inshiths/insigths%20%281%29.png)
+![insigths (2).png](../../assets/chapther-5/inshiths/insigths%20%282%29.png)
+![insigths (3).png](../../assets/chapther-5/inshiths/insigths%20%283%29.png)
+![insigths (4).png](../../assets/chapther-5/inshiths/insigths%20%284%29.png)
 
-Esta subsección documenta cómo colaboró el equipo durante el Sprint 2 bajo GitFlow. Debe incluir la relación de Pull Requests integrados a `develop`, el cuadro de participación por integrante (commits por rama de trabajo) y la captura de la herramienta de gestión colaborativa, evidenciando la participación distribuida de todos los integrantes conforme lo exige el enunciado.
+Esta subsección documenta cómo colaboró el equipo durante el Sprint 2 bajo GitFlow. Conforme a lo exigido por el enunciado, todos los integrantes participaron en la implementación de los productos del alcance del Sprint, y a continuación se presentan los analíticos de colaboración y de commits del repositorio en GitHub.
+
+Durante el Sprint 2 el trabajo se organizó por funcionalidades, cada una desarrollada en su propia rama `feature/*` e integrada a la rama `develop` mediante Pull Requests, siguiendo Conventional Commits y Semantic Versioning. En total se integraron **27 ramas de trabajo** a `develop` (13 vía Pull Request formal y 14 por *merge* de rama), lo que evidencia un flujo de integración continuo y distribuido entre los miembros del equipo. Las capturas superiores corresponden a los analíticos de colaboración (Insights) y al historial de commits del repositorio `Vigia-Frontend`.
+
+**Participación por integrante (commits en la rama `develop`).** El siguiente cuadro resume el número de commits aportados por cada miembro, identificado por su usuario de GitHub, sobre un total de 132 commits registrados en la rama `develop` del repositorio de la Frontend Web Application:
+
+| Team Member                   | GitHub Username       | Commits | Principales aportes en el Sprint |
+|-------------------------------|-----------------------|---|---|
+| Fabián Sandoval (Team Leader) | `FabianSandovalCueto` | 55 | Arquitectura base y componentes compartidos, dashboards por rol, trazabilidad en tránsito, gestión de proyectos/inventario, integración a `develop` y coordinación general |
+| Elías Ramos                   | `eliocerdan`          | 48 | Gestión de discrepancias y evidencias (lista, detalle, cierre, responsabilidad, evidencia fotográfica), internacionalización (i18n) |
+| Leonardo Lopez                | `Leonardo lopez`      | 14 | Gestión de órdenes y despachos (`feature/order-management-and-dispatch`) |
+| Andre                         | `Usuario353`          | 8 | Recepción y verificación en obra (BC-07) |
+| Elizabeth Bocanegra           | `ApazaEN`             | 7 | Gestión de flota y registro de dispositivos (BC-04) |
+
+La distribución de commits y la cantidad de ramas integradas evidencian que la carga de implementación se repartió entre los integrantes y que todos tuvieron participación efectiva sobre el producto del Sprint. La relación detallada de cada commit (identificador, rama, mensaje y fecha) se encuentra en la sección 5.2.2.4. *Development Evidence for Sprint Review*.
 
 
 <!-- Fuente: report/chapters/10-conclusiones.md -->
