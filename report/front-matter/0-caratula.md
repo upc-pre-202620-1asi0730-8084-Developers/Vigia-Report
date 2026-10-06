@@ -6,21 +6,29 @@
 
 **Carrera de Ingeniería de Software**
 
-Ciclo 2026-20
+**1ASI0730** 
 
-**1ASI0730 — Aplicaciones Web**
+**Aplicaciones Web**
 
-NRC 8084
+NRC 
 
-# Informe de Trabajo Final
+**8084**
 
-**Startup:** Trazza Labs
-
-**Producto:** Vigía
+**Informe del Trabajo Final**
 
 **Docente**
 
 Velásquez Núñez, Ángel Augusto
+
+
+
+Equipo
+
+**Trazza Labs**
+
+Proyecto
+
+**Vigia**
 
 **Integrantes**
 
@@ -32,6 +40,47 @@ Velásquez Núñez, Ángel Augusto
 | u20201a277 | Ramos Cerdan, Elias Daniel                |
 | u20221a132 | Sandoval Cueto, Fabian Jesus                |
 
+Periodo 202620
+
 Septiembre 2026
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 </div>
