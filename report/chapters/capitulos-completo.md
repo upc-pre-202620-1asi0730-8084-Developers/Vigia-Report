@@ -193,7 +193,7 @@ El alcance del proyecto se delimita mediante las siguientes restricciones:
 
 En esta sección se presenta el resultado de aplicar el Lean UX Process sobre el dominio del problema descrito en la sección anterior. Este proceso permite al equipo articular la visión del modelo de negocio que será soportado por Vigía a partir de creencias explícitas sobre el mercado, los usuarios y las funcionalidades, las cuales podrán ser validadas posteriormente mediante la investigación con representantes de los segmentos objetivo.
 
-El proceso se desarrolla en cuatro secciones internas. En primer lugar, se formula un único Problem Statement para todo el proyecto, aplicando el template de Brand new initiative por tratarse de una iniciativa nueva y no de la evolución de un producto existente, y considerando en su enunciado a ambos segmentos objetivo. En segundo lugar, se enumeran los Assumptions del equipo, organizados en los cinco tipos que contempla el proceso: Business Assumptions, Business Outcome Assumptions, User Assumptions, User Outcome and Benefit Assumptions y Feature Assumptions. En tercer lugar, se formula un Hypothesis Statement por cada Feature Assumption identificado. Finalmente, la sección cierra con el Lean UX Canvas, que consolida de forma visual los elementos anteriores.
+El proceso se desarrolla en cuatro secciones internas. En primer lugar, se formula un único Problem Statement para todo el proyecto, aplicando el template de Brand new initiative por tratarse de una iniciativa nueva y no de la evolución de un producto existente, y considerando en su enunciado a ambos segmentos objetivo. En segundo lugar, se enumeran los Assumptions del equipo, organizados en los cinco tipos que contempla el proceso: Business Assumptions, Business Outcome Assumptions, User Assumptions, User Outcome and Benefit Assumptions y Feature Assumptions. En tercer lugar, se formulan los Hypothesis Statements que cruzan los Feature Assumptions con los resultados de negocio y de usuario comprometidos en el Problem Statement. Finalmente, la sección cierra con el Lean UX Canvas, que consolida de forma visual los elementos anteriores.
 
 <!-- Fuente: report/chapters/chapter-1-introduction/1.2.2.1-lean-ux-problem-statements.md -->
 
@@ -279,7 +279,9 @@ Para el desarrollo de la plataforma Vigía, el equipo identificó y categorizó 
 
 ##### 1.2.2.3. Lean UX Hypothesis Statements
 
-Siguiendo el template establecido por el Lean UX Process, se formula un Hypothesis Statement por cada Feature Assumption identificado en la sección anterior. Cada enunciado vincula el resultado de negocio esperado con el User Persona correspondiente, el beneficio que este obtiene y la funcionalidad que lo hace posible.
+Siguiendo el feature hypothesis statement template establecido por el Lean UX Process, se formulan los Hypothesis Statements que vinculan los supuestos de la sección anterior con el Problem Statement de la sección 1.2.2.1. Cada enunciado conecta un Business Outcome esperado con el User Persona correspondiente, el User Outcome o beneficio que este obtiene y el feature que lo hace posible, de modo que cada hipótesis sea verificable de forma independiente.
+
+Dado que un mismo feature puede sostener más de un resultado de negocio, no se establece una correspondencia uno a uno entre features e hipótesis. El primer grupo de hipótesis (HS-01 a HS-04) deriva directamente de cada Feature Assumption y enuncia su resultado más inmediato; el segundo grupo (HS-05 a HS-08) cruza esos mismos features con los demás Business Outcome Assumptions (BOA-01 a BOA-04) y User Outcome Assumptions declarados en la sección 1.2.2.2, de manera que el conjunto cubra los resultados de negocio que el Problem Statement compromete y no solo la funcionalidad declarada.
 
 **Hypothesis Statement 1 (HS-01) — Conformación de despachos**
 
@@ -308,6 +310,34 @@ Creemos que lograremos incrementar la retención de clientes corporativos en la 
 si los supervisores de proyecto y gerentes de operaciones
 obtienen un histórico consultable de discrepancias, tiempos de traslado y desempeño de transportistas que sustente sus decisiones sobre la operación
 mediante el tablero de analítica y registro de incidencias (FA-04).
+
+**Hypothesis Statement 5 (HS-05) — Reducción de pérdidas no rastreadas (BOA-02)**
+
+Creemos que lograremos reducir los sobrecostos por mermas y faltantes no rastreados, acortando el periodo de amortización del costo de adquisición de clientes (BOA-02)
+si los responsables de recepción en el frente de obra y los responsables de oficina técnica
+cuentan con un respaldo auditable que atribuye cada faltante al punto de la cadena donde se originó
+mediante el módulo de recepción y conciliación (FA-03) consolidado en el tablero de registro de incidencias (FA-04).
+
+**Hypothesis Statement 6 (HS-06) — Adopción sostenida de la operación diaria (BOA-04)**
+
+Creemos que lograremos que el número de despachos registrados por cliente se incremente de forma sostenida durante los primeros seis meses de uso (BOA-04)
+si los jefes de almacén central y los responsables del frente de obra
+reemplazan las hojas de cálculo aisladas y las coordinaciones informales por un registro único de despacho y recepción
+mediante los módulos de conformación de despachos (FA-01) y de recepción en obra (FA-03).
+
+**Hypothesis Statement 7 (HS-07) — Recomendación del sector (BOA-03)**
+
+Creemos que lograremos alcanzar una tasa de recomendación neta superior a 60 puntos entre los directores de operaciones y jefes de logística (BOA-03)
+si los supervisores de proyecto y gerentes de operaciones
+dejan de depender de la versión de cada parte para esclarecer responsabilidades y pasan a sustentarlas en evidencia registrada
+mediante el tablero de analítica y registro de incidencias (FA-04).
+
+**Hypothesis Statement 8 (HS-08) — Respaldo verificable para el transportista**
+
+Creemos que lograremos reducir las disputas por faltantes imputadas al transporte y aumentar la disposición de los operadores logísticos a usar la plataforma (BA-04)
+si los transportistas
+obtienen un respaldo verificable de lo que efectivamente se despachó y de los eventos ocurridos en ruta
+mediante el módulo de registro de eventos de tránsito (FA-02) contrastado con la conformidad de recepción (FA-03).
 
 <!-- Fuente: report/chapters/chapter-1-introduction/1.2.2.4-lean-ux-canvas.md -->
 
@@ -2785,15 +2815,18 @@ Esta sección documenta el Sprint Planning, los líderes y colaboradores por asp
 
 **Story Points completados:** 9 / 9 comprometidos (100%).
 
-**Tareas técnicas derivadas (no forman parte del Product Backlog, se gestionan a nivel de Sprint):**
+**Tareas técnicas derivadas (Engineering Tasks).** Cada User Story del Sprint se descompone en Engineering Tasks estimadas en horas, dentro del rango de 4 a 8 horas establecido como máximo por tarea. Estas tareas no forman parte del Product Backlog y se gestionan a nivel de Sprint.
 
-| Tarea | Responsable | Estado |
-|---|---|---|
-| Definir estructura de archivos (`index.html`, `styles.css`, `script.js`, `docs/`) | Landing Page (Elías) | Completada |
-| Aplicar Design System de la sección 4.1 (colores, tipografía, componentes) | Landing Page (Elías) | Completada |
-| Implementar validación de formulario y menú responsive en JavaScript | Landing Page (Elías) | Completada |
-| Configurar despliegue en GitHub Pages (`/docs`, `.nojekyll`) | Leonardo Lopez | Completada |
-| Redactar la documentación del Sprint en el informe | Leonardo Lopez | Completada |
+| User Story | Engineering Task | Responsable | Estimación (h) | Estado |
+|---|---|---|---|---|
+| LP-01 a LP-04 | Definir la estructura de archivos del proyecto (`index.html`, `styles.css`, `script.js`, `docs/`) | Elías | 4 | Completada |
+| LP-01, LP-02, LP-03 | Aplicar el Design System de la sección 4.1 (paleta de colores, tipografía y componentes) a las secciones del sitio | Elías | 8 | Completada |
+| LP-01, LP-02, LP-03 | Maquetar las secciones de contenido y los beneficios por segmento con HTML y CSS responsive | Elías | 8 | Completada |
+| LP-04 | Implementar el menú responsive y la validación en cliente del formulario de demostración en JavaScript | Elías | 6 | Completada |
+| LP-01 a LP-04 | Configurar el despliegue continuo en GitHub Pages (carpeta `/docs`, archivo `.nojekyll`) | Leonardo Lopez | 4 | Completada |
+| LP-01 a LP-04 | Redactar la documentación del Sprint en el informe (secciones 5.2.1.1 a 5.2.1.8) | Leonardo Lopez | 6 | Completada |
+
+**Total estimado del Sprint:** 36 horas, distribuidas entre las Engineering Tasks de las cuatro Landing Page Stories comprometidas.
 
 <!-- Fuente: report/chapters/chapter-5-product-implementation-validation-deployment/5.2.1-sprint-1/5.2.1.4-development-evidence-for-sprint-review.md -->
 
