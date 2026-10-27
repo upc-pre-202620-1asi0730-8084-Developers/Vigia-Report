@@ -1,0 +1,30 @@
+erDiagram
+    subscription_plans {
+        uuid id PK
+        varchar tier "CHECK enum"
+        varchar name
+        integer max_active_jobsites
+        integer max_monthly_dispatches
+        numeric price_amount "CHECK min 0"
+        char price_currency
+    }
+    subscriptions {
+        uuid id PK
+        uuid company_id "BC-02, sin FK"
+        uuid plan_id FK
+        date start_date
+        date renewal_date
+        varchar status "CHECK enum"
+    }
+    payment_transactions {
+        uuid id PK
+        uuid subscription_id FK
+        varchar external_gateway_tx_id UK
+        numeric amount_paid_amount
+        char amount_paid_currency
+        timestamptz processed_at
+        varchar status "CHECK enum"
+        varchar failure_reason "NULL"
+    }
+    subscription_plans ||--o{ subscriptions : "define (RESTRICT)"
+    subscriptions ||--o{ payment_transactions : "registra (CASCADE)"

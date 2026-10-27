@@ -1,6 +1,6 @@
 ## Project Report Collaboration Insights
 
-Repositorio del Project Report: **https://github.com/upc-pre-202620-1asi0730-8084-Developers/Vigia-Report**
+Repositorio del Project Report: **https://tinyurl.com/2c98uev3**
 
 ### AV1
 
@@ -18,8 +18,7 @@ El siguiente cuadro resume la participación registrada en commits sobre el repo
 
 Los cinco integrantes registran commits propios sobre el repositorio durante el Sprint 1, lo que evidencia que todos participaron en la elaboración del informe, conforme lo exige el enunciado del proyecto.
 
+**Figura 1**
+
 ![Collaboration-insigths.png](../../assets/chapther-5/Collaboration-insights.png)
 
-🟢 *Nota: la captura anterior ya fue tomada y usada como evidencia en la sección 5.2.1.8; se reutiliza aquí porque el enunciado pide la misma evidencia de analíticos de colaboración en esta sección del front-matter. Confirmar que la ruta de la imagen cargue correctamente al exportar el informe.*
-
-🟢 **Pendiente de confirmar.** La correspondencia exacta entre los usuarios de GitHub de la tabla y los nombres completos de la sección 1.1.2 debe ser confirmada por el equipo (ver la misma nota en la sección 5.1.2).

@@ -1,0 +1,81 @@
+@startuml
+!pragma layout smetana
+hide empty members
+skinparam classAttributeIconSize 0
+
+interface IUserRepository {
+  +GetByIdAsync(id: Guid) : Task<User>
+  +GetByEmailAsync(email: string) : Task<User>
+  +AddAsync(user: User) : Task
+  +UpdateAsync(user: User) : Task
+}
+
+interface ICompanyRepository {
+  +GetByIdAsync(id: Guid) : Task<Company>
+  +AddAsync(company: Company) : Task
+  +UpdateAsync(company: Company) : Task
+}
+
+class Invitation <<Aggregate Root>> {
+  -id : Guid
+  -companyId : Guid
+  -email : string
+  -roleAssigned : UserRole
+  -status : InvitationStatus
+  -sentAt : DateTime
+  -acceptedAt : Nullable<DateTime>
+  +Send(companyId: Guid, email: string, role: UserRole) : Invitation
+  +Accept() : void
+  +Revoke() : void
+}
+
+class User <<Aggregate Root>> {
+  -id : Guid
+  -companyId : Guid
+  -fullName : string
+  -email : string
+  -passwordHash : string
+  -role : UserRole
+  -isActive : bool
+  +Create(companyId: Guid, fullName: string, email: string, role: UserRole) : User
+  +Authenticate(password: string) : bool
+  +ChangeRole(newRole: UserRole) : void
+  +Deactivate() : void
+}
+
+class Company <<Aggregate Root>> {
+  -id : Guid
+  -legalName : string
+  -taxId : string
+  -subscriptionActive : bool
+  -createdAt : DateTime
+  +Register(name: string, taxId: string) : Company
+  +ActivateSubscription() : void
+  +DeactivateSubscription() : void
+  +IsActive() : bool
+}
+
+enum InvitationStatus {
+  PENDING
+  ACCEPTED
+  REVOKED
+  EXPIRED
+}
+
+enum UserRole {
+  ADMINISTRATOR
+  RESIDENT_ENGINEER
+  WAREHOUSE_MANAGER
+  TECHNICAL_OFFICE_MANAGER
+  DISPATCHER
+  CARRIER
+}
+
+IUserRepository ..> User : manages
+ICompanyRepository ..> Company : manages
+User "0..*" --> "1" Company : belongs to
+Invitation "0..*" --> "1" Company : issued by
+Invitation --> InvitationStatus : state
+Invitation --> UserRole : assigns
+User --> UserRole : has
+@enduml

@@ -1,0 +1,28 @@
+erDiagram
+    companies {
+        uuid id PK
+        varchar legal_name
+        varchar tax_id UK
+        boolean subscription_active
+        timestamptz created_at
+    }
+    users {
+        uuid id PK
+        uuid company_id FK
+        varchar full_name
+        varchar email UK
+        varchar password_hash
+        varchar role "CHECK enum"
+        boolean is_active
+    }
+    invitations {
+        uuid id PK
+        uuid company_id FK
+        varchar email
+        varchar role_assigned "CHECK enum"
+        varchar status "CHECK enum"
+        timestamptz sent_at
+        timestamptz accepted_at "NULL"
+    }
+    companies ||--o{ users : "emplea (RESTRICT)"
+    companies ||--o{ invitations : "envia (CASCADE)"

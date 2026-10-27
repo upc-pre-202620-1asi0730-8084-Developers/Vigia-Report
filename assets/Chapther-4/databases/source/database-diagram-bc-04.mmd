@@ -1,0 +1,22 @@
+erDiagram
+    vehicles {
+        uuid id PK
+        uuid company_id
+        varchar license_plate UK
+        varchar brand
+        varchar model
+        numeric max_capacity_tons
+        boolean is_gps_paired
+        varchar gps_device_id UK "NULL"
+        double current_pos_latitude "NULL"
+        double current_pos_longitude "NULL"
+    }
+    geofences {
+        uuid id PK
+        uuid company_id
+        varchar name
+        varchar type "CHECK enum"
+        double center_latitude
+        double center_longitude
+        double radius_meters "CHECK min 0"
+    }
